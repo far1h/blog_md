@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hello World!
 excerpt: Welcome to my home page
 ---
 
