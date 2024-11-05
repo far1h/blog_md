@@ -6,15 +6,7 @@ excerpt: Welcome to my home page
 
 [[portfolio]]
 
-This is a linked image[![[health-calendar.png]]](<portfolio>)
-
-%%  [[university notes]] | [[portfolio]] | [[resume]] | [[stories]] | 
-
-
-
-
-
-%%
+%%  [[university notes]] | [[portfolio]] | [[resume]] | [[stories]] | %%
 
 
 <!--

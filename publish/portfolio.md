@@ -4,13 +4,13 @@ excerpt: Welcome, and thank you for viewing my portfolio! Below are some of the 
 ---
 
  
-Welcome, and thank you for viewing my portfolio! Below are some of the projects I've worked on, showcasing the skills I've developed over the years. \
+Welcome, and thank you for viewing my portfolio! Below are some of the projects I've worked on, showcasing the skills I've developed over the years. 
 
 
 
 
 
-## TimePossible
+## [[TimePossible]]
 - **Year Accomplished**: 2024  
 - **Role/Position**: Developer  
 - **Publication**: [GitHub Repository](https://github.com/far1h/HealthCalendar)  
@@ -18,11 +18,11 @@ Welcome, and thank you for viewing my portfolio! Below are some of the projects 
 **Description**:  
 TimePossible is a personal health and activity manager designed to integrate seamlessly with Apple's Calendar and Health apps, utilizing OpenAI technology. Developed over three months as the final project in my software engineering course, I led iOS development, supported by UI/UX designers Dian Tan and Nadya Naftalie. Key features include personalized health and event recommendations, HealthKit integration, and conflict management for scheduling, providing users with a streamlined tool to track health goals and daily activities effectively.
 
-![[health-calendar.png]]
+[![[health-calendar.png]]](<TimePossible>)
 
  
 
-## TerraWander
+## [[TerraWander]]
 - **Year Accomplished**: 2023  
 - **Role/Position**: Developer and Project Manager  
 - **Publication**: [GitHub Repository](https://github.com/far1h/TerraWander), [Keynote Presentation](https://www.icloud.com/keynote/0672GGi2KTcsZ6hWtmyp5nS0g#Terra-Welfare)  
@@ -35,7 +35,7 @@ TerraWander was developed as part of the iOS Foundation program, aimed at reduci
 
  
 
-## IndoWilderness
+## [[IndoWilderness]]
 - **Year Accomplished**: 2024  
 - **Role/Position**: Developer  
 - **Publication**: [GitHub Repository](https://github.com/far1h/IndoWilderness)  
@@ -47,7 +47,7 @@ IndoWilderness offers an interactive way to explore Indonesian wildlife and nati
 
  
 
-## CICDiOS
+## [[CICDiOS]]
 - **Year Accomplished**: 2024  
 - **Role/Position**: Developer  
 - **Publication**: [GitHub Repository](https://github.com/far1h/CICDiOS)  
@@ -59,7 +59,7 @@ CICDiOS represents my journey from ad-hoc development to a structured CI/CD work
 
  
 
-## CatchThePikachu
+## [[CatchThePikachu]]
 - **Year Accomplished**: 2024  
 - **Role/Position**: Developer  
 - **Publication**: [GitHub Repository](https://github.com/far1h/CatchThePikachuGame)  
