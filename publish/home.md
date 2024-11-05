@@ -17,7 +17,8 @@ Publication Link
 (GitHub) https://github.com/far1h/HealthCalendar
 ![[health-calendar.png]]
 
-
+![[terrawander-1.png]]
+![[terrawander-2.png]]
 <!--
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
 - Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
