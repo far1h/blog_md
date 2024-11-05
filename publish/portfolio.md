@@ -17,15 +17,15 @@ Welcome, and thank you for viewing my portfolio! Below are some of the projects 
 
 [![[terrawander-2.png|500]]](<TerraWander>)
 
-## [[IndoWilderness|500]]
+## [[IndoWilderness]]
 
 [![[animalsID.png|500]]](<IndoWilderness>)
 
-## [[CICDiOS|500]]
+## [[CICDiOS]]
 
 [![[ci-cd.png|500]]](<CICDiOS>)
 
-## [[CatchThePikachu|500]]
+## [[CatchThePikachu]]
 
 [![[pikachu.png|500]]](<CatchThePikachu>)
 
