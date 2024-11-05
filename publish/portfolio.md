@@ -1,9 +1,9 @@
----
+ 
 title: My Portfolio
----
+ 
 Welcome, and thank you for viewing my portfolio! Below are some of the projects I've worked on, showcasing the skills I've developed over the years.
 
----
+ 
 
 ## TimePossible
 - **Year Accomplished**: 2024  
@@ -15,7 +15,7 @@ TimePossible is a personal health and activity manager designed to integrate sea
 
 ![[health-calendar.png]]
 
----
+ 
 
 ## TerraWander
 - **Year Accomplished**: 2023  
@@ -28,7 +28,7 @@ TerraWander was developed as part of the iOS Foundation program, aimed at reduci
 ![[terrawander-1.png]]  
 ![[terrawander-2.png]]
 
----
+ 
 
 ## IndoWilderness
 - **Year Accomplished**: 2024  
@@ -40,7 +40,7 @@ IndoWilderness offers an interactive way to explore Indonesian wildlife and nati
 
 ![[animalsID.png]]
 
----
+ 
 
 ## CICDiOS
 - **Year Accomplished**: 2024  
@@ -52,7 +52,7 @@ CICDiOS represents my journey from ad-hoc development to a structured CI/CD work
 
 ![[ci-cd.png]]
 
----
+ 
 
 ## CatchThePikachu
 - **Year Accomplished**: 2024  
@@ -64,6 +64,6 @@ CICDiOS represents my journey from ad-hoc development to a structured CI/CD work
 
 ![[pikachu.png]]
 
----
+ 
 
 Thank you for exploring my portfolio. Feel free to connect or explore more of my work on GitHub!
