@@ -2,12 +2,7 @@
 title: Welcome guys
 excerpt: Hello World
 ---
-# WITNESS MY SUPERIORITY NIGGA
-
-[[<img src="https://raw.githubusercontent.com/far1h/far1h/d584ec1c3ee76f7b8d5d883f83b14031be796dfa/profile-3d-contrib/profile-night-rainbow.svg">]]
-
-
- [[uts-os|my uts OS notes]] 
+[[uts-os|my uts OS notes]] 
  
 
 
