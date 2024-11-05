@@ -6,7 +6,7 @@ excerpt: Welcome to my home page
 
 [[portfolio]]
 
-  %% [[university notes]] | [[portfolio]] | [[resume]] | [[stories]]  %%
+   %% [[university notes]] | [[portfolio]] | [[resume]] | [[stories]]  %% 
 
 
 <!--
