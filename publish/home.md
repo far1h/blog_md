@@ -6,6 +6,8 @@ excerpt: Hello World
  
 my portfolio:
 
+[[health-calendar.png]]
+
 
 <!--
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
