@@ -11,6 +11,6 @@ CICDiOS is an iOS app project that marks my transition from ad-hoc development t
 **Description**:  
 This app integrates continuous integration and delivery, automating tests and deployments with each commit using Microsoft AppCenter. Through a structured branching strategy, this project emphasized the significance of clean code, maintainable development practices, and modern DevOps techniques in software engineering.
 
-![CICDiOS Screenshot](ci-cd.png)
+![[ci-cd.png]]
 
 **Publication**: [GitHub Repository](https://github.com/far1h/CICDiOS)  

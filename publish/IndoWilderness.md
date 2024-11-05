@@ -11,6 +11,6 @@ IndoWilderness is an interactive app that allows users to explore Indonesian wil
 **Description**:  
 Built with SwiftUI, IndoWilderness leverages MapKit for location-based experiences and LazyGrid for efficient data display. This project required skills in JSON decoding, GRID layouts, and animation, with optimization for both iPad and Mac platforms through Mac Catalyst. It provides a rich, interactive experience for users interested in Indonesian wildlife and conservation.
 
-![IndoWilderness Screenshot](animalsID.png)
+![[animalsID.png]]
 
 **Publication**: [GitHub Repository](https://github.com/far1h/IndoWilderness)  
