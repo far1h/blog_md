@@ -2,6 +2,9 @@
 title: Welcome guys
 excerpt: Hello World
 ---
+[<img src="images/avatar2023a.png" width="720"/>](#-personal-apps)
+
+
 [[uts-os|my uts OS notes]] 
  
 my iOS portfolio:
