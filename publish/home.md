@@ -6,7 +6,7 @@ excerpt: Hello World
  
 my portfolio:
 
-[[health-calendar.png]]
+![[health-calendar.png]]
 
 
 <!--
