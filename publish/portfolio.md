@@ -17,7 +17,7 @@ Welcome, and thank you for viewing my portfolio! Below are some of the projects 
 **Description**:  
 TimePossible is a personal health and activity manager designed to integrate seamlessly with Apple's Calendar and Health apps, utilizing OpenAI technology. Developed over three months as the final project in my software engineering course, I led iOS development, supported by UI/UX designers Dian Tan and Nadya Naftalie. Key features include personalized health and event recommendations, HealthKit integration, and conflict management for scheduling, providing users with a streamlined tool to track health goals and daily activities effectively.
 
-[![[health-calendar.png]]](<TimePossible>)
+[![[health-calendar.png]]](<TimePossible.md>)
 
 
 ## [[TerraWander]]
