@@ -6,10 +6,8 @@ excerpt: Welcome to my home page
 
 [[portfolio]]
 
-   %% [[university notes]] | [[portfolio]] | [[resume]] | [[stories]]  %% 
+<!-- [[university notes]] | [[portfolio]] | [[resume]] | [[stories]]  
 
-
-<!--
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
 - Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
 - URLs are based on folder structure
