@@ -1,5 +1,7 @@
- 
+---
 title: My Portfolio
+---
+
  
 Welcome, and thank you for viewing my portfolio! Below are some of the projects I've worked on, showcasing the skills I've developed over the years.
 
