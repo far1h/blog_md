@@ -65,10 +65,47 @@ This app provides an interactive experience to explore the animals of Indonesia 
 ![[animalsID.png]]
 
 
+# CICDiOS
 
+Year Accomplished
+
+2024
+
+Role/Position
+
+Developer
+
+Publication Link
+
+(GitHub)
+
+https://github.com/far1h/CICDiOS
+
+Project Description
+
+During my first iOS project, I realized the inefficiencies of not using proper version control or automated testing. This led me to dive deep into CI/CD and automated testing after completing my software engineering course. I built a new iOS app from scratch using a structured branching strategy with feature, development, and main branches, integrating Microsoft AppCenter for continuous integration and delivery. This approach automated testing for every commit and ensured a stable codebase, marking a shift from ad-hoc development to a professional and scalable workflow. This experience underscored the importance of clean, maintainable code and modern DevOps practices, significantly improving code quality and team collaboration. Learn more: https://www.linkedin.com/pulse/from-copy-pasting-code-cicd-my-journey-software-farih-muhammad- xcfdc/?trackingId=L%2BuGnV%2F0TKuoxbPNrj6onw%3D%3D
 ![[ci-cd.png]]
+# CatchThePikachu
 
+Year Accomplished
+
+2024
+
+Role/Position
+
+Developer
+
+Publication Link
+
+(GitHub)
+
+https://github.com/far1h/CatchThe PikachuGame
+Project Description
+
+I developed "Catch the Pikachu," an interactive iOS game that challenges players to catch Pikachu as it randomly appears on the screen. Built with UIKit, the game utilizes UIImageView to display Pikachu images and UITapGestureRecognizer for interactive tapping. The game features a countdown timer, score tracking, and high score storage using UserDefaults. Key functionalities include dynamically hiding and showing Pikachu with timers (Timer), and a responsive UI that allows players to replay the game with a simple alert dialog. This project enhanced my understanding of iOS development practices, including gesture recognition, UI updates, and state management.
 ![[pikachu.png]]
+
+
 <!--
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
 - Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
