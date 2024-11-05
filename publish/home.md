@@ -2,7 +2,8 @@
 title: Welcome guys
 excerpt: Hello World
 ---
-
+![[matrix.jpeg]]
+[[statically-generated]]
 <!--
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
 - Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
