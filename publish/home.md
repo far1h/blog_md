@@ -2,8 +2,6 @@
 title: Hello World!
 excerpt: Welcome to my home page
 ---
-
-
 [[uts-os|my uts OS notes]] 
 
 [[portfolio]]
