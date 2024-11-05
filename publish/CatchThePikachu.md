@@ -1,8 +1,8 @@
-- Year Accomplished: _2024_
-- Role/Position: _Developer_
 - Program Type: _Game_
 - Languages Used: _Swift (UIKit)_
 - Concepts Implemented: _Gesture recognition, UI updates, score tracking, state management_
+- Year Accomplished: _2024_
+- Role/Position: _Developer_
 
 **Overview**:  
 "Catch the Pikachu" is an interactive iOS game where players tap to catch Pikachu as it randomly appears on the screen.

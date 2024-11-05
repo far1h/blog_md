@@ -1,9 +1,9 @@
-- Year Accomplished: _2023_
-- Role/Position: _Developer and Project Manager_
 - Program Type: _Mobile app_
 - Languages Used: _Swift_
 - Tech Stack: _RealityComposer, VR integration_
 - Concepts Implemented: _VR nature experiences, stress reduction, AR integration, project management_
+- Year Accomplished: _2023_
+- Role/Position: _Developer and Project Manager_
 
 **Overview**:  
 TerraWander is a VR-based mobile app designed to reduce stress through immersive nature experiences, developed as part of the iOS Foundation program.

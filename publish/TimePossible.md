@@ -1,7 +1,7 @@
+- Program Type: _Mobile app_
 - Languages Used: _Swift_
 - Tech Stack: _HealthKit, OpenAI API, Apple Calendar integration_
 - Concepts Implemented: _Personalized health recommendations, data syncing, scheduling conflict management_
-- Program Type: _Mobile app_
 - Year Completed: _2024_
 - Role/Position: _Developer_
 

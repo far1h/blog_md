@@ -1,9 +1,9 @@
-- Year Accomplished: _2024_
-- Role/Position: _Developer_
 - Program Type: _Mobile app_
 - Languages Used: _Swift_
 - Tech Stack: _Microsoft AppCenter, CI/CD Pipelines_
 - Concepts Implemented: _Continuous integration, automated testing, branching strategy, DevOps practices_
+- Year Accomplished: _2024_
+- Role/Position: _Developer_
 
 **Overview**:  
 CICDiOS is an iOS app project that marks my transition from ad-hoc development to a structured CI/CD workflow, leveraging Microsoft AppCenter for automated testing and deployments.
