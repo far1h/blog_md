@@ -4,7 +4,7 @@ excerpt: Hello World
 ---
 [[uts-os|my uts OS notes]] 
  
-my portfolio:
+my iOS portfolio:
 # TimePossible
 
 Year Accomplished
@@ -17,8 +17,34 @@ Publication Link
 (GitHub) https://github.com/far1h/HealthCalendar
 ![[health-calendar.png]]
 
+# TerraWander
+
+Year Accomplished
+
+2023
+
+Role/Position
+
+Developer and Project Manager
+
+Publication Link
+
+(GitHub)
+
+https://github.com/far1h/TerraWan der  
+(Keynote) https://www.icloud.com/keynote/06 72GGi2KTcsZ6hWtmyp5nS0g#Ter ra-Welfare
+
+Artwork/Project Description
+
+TerraWander, developed during the iOS Foundation program, is a mobile app that uses VR nature experiences to help reduce stress among university students. As a team leader, I worked with Swift and RealityComposer under tight deadlines, overcoming challenges like limited time and resources. The project showcased my abilities in Swift programming, AR integration, and team management, while also highlighting the potential of VR for mental wellness
 ![[terrawander-1.png]]
 ![[terrawander-2.png]]
+
+![[animalsID.png]]
+
+![[ci-cd.png]]
+
+![[pikachu.png]]
 <!--
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
 - Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
