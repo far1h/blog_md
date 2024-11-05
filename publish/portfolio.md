@@ -2,8 +2,7 @@
 title: My Portfolio
 excerpt: Welcome, and thank you for viewing my portfolio! Below are some of the projects I've worked on, showcasing the skills I've developed over the years.
 ---
-<style> .hover-zoom { transition: transform 0.3s ease; } .hover-zoom:hover { transform: scale(1.05); /* Adjust the scale as needed */ } </style>
- 
+
 Welcome, and thank you for viewing my portfolio! Below are some of the projects I've worked on, showcasing the skills I've developed over the years. 
 
 
@@ -20,7 +19,6 @@ TimePossible is a personal health and activity manager designed to integrate sea
 
 [![[health-calendar.png]]](<TimePossible>)
 
- <div class="hover-zoom"> <a href="#TimePossible"> <img src="health-calendar.png" alt="TimePossible Screenshot" width="250"/> </a> </div>
 
 ## [[TerraWander]]
 - **Year Accomplished**: 2023  
