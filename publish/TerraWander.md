@@ -13,13 +13,5 @@ As part of a team project, I led the development and project management for Terr
 
 ![[terrawander-1.png]]  
 ![[terrawander-2.png]]
-<p align="center">
-  <a href="https://github.com/far1h/TerraWander" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-Check_this_out!-blue?style=for-the-badge&logo=github" alt="Check this out on GitHub">
-  </a>
-  &nbsp;
-  <a href="https://www.icloud.com/keynote/0672GGi2KTcsZ6hWtmyp5nS0g#Terra-Welfare" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Keynote-View_Presentation-orange?style=for-the-badge&logo=apple" alt="View Keynote Presentation">
-  </a>
-</p>
+
 **Publication**: [GitHub Repository](https://github.com/far1h/TerraWander), [Keynote Presentation](https://www.icloud.com/keynote/0672GGi2KTcsZ6hWtmyp5nS0g#Terra-Welfare)  
