@@ -5,10 +5,6 @@ excerpt: Hello World
 [<img src="https://raw.githubusercontent.com/far1h/far1h/d584ec1c3ee76f7b8d5d883f83b14031be796dfa/profile-3d-contrib/profile-night-rainbow.svg" width="720"/>](#-personal-apps)
 
 [[uts-os|my uts OS notes]] 
- 
-Here's an improved Markdown version of your iOS portfolio:
-
----
 
 # Swift Portfolio
 Welcome, and thank you for viewing my iOS portfolio! Below are some of the projects I've worked on, showcasing my skills in Swift and iOS development.
