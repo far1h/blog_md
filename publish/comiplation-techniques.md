@@ -65,13 +65,13 @@ How to fill the table?
 
 > notice theres no `| (or)`   
 
-|     | id                                                          | +                                                            | *               | (                                                       | )                    | $                    |
-| --- | ----------------------------------------------------------- | ------------------------------------------------------------ | --------------- | ------------------------------------------------------- | -------------------- | -------------------- |
-| E   | _E_ -> *TE'*`(we started from the this and later found id)` |                                                              |                 | _E_ -> *TE'* `(we started from this and later found ()` |                      |                      |
-| E'  |                                                             | E' -> *+TE'* `(we got this from it's own production values)` |                 |                                                         | E' -> $\varepsilon$  | E' -> $\varepsilon$  |
-| T   | *T* -> *FT'*                                                |                                                              |                 | *T* -> *FT'*                                            |                      |                      |
-| T'  |                                                             | *T'* ->$\varepsilon$                                         | *T'* -> *\*FT'* |                                                         | *T'* ->$\varepsilon$ | *T'* ->$\varepsilon$ |
-| F   | *F* -> *id*                                                 |                                                              |                 | *F* -> *(E)*                                            |                      |                      |
+|     | <div style="width:20px">id</div>                            | <div style="width:20px">+</div>                              | <div style="width:20px">*id*</div> | <div style="width:20px">(</div>                         | <div style="width:20px">)</div> | <div style="width:20px">$</div> |
+| --- | ----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------- | ------------------------------- | ------------------------------- |
+| E   | _E_ -> *TE'*`(we started from the this and later found id)` |                                                              |                                    | _E_ -> *TE'* `(we started from this and later found ()` |                                 |                                 |
+| E'  |                                                             | E' -> *+TE'* `(we got this from it's own production values)` |                                    |                                                         | E' -> $\varepsilon$             | E' -> $\varepsilon$             |
+| T   | *T* -> *FT'*                                                |                                                              |                                    | *T* -> *FT'*                                            |                                 |                                 |
+| T'  |                                                             | *T'* ->$\varepsilon$                                         | *T'* -> *\*FT'*                    |                                                         | *T'* ->$\varepsilon$            | *T'* ->$\varepsilon$            |
+| F   | *F* -> *id*                                                 |                                                              |                                    | *F* -> *(E)*                                            |                                 |                                 |
 
    ## Parsing Search
 
