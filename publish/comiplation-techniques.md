@@ -1,5 +1,6 @@
 ---
 title: Compilation Techniques
+excerpt: Stupid Course about Compilers taken @BINUS
 ---
 - [ ] ALYS
 - [ ] RAZIEL
@@ -10,17 +11,18 @@ title: Compilation Techniques
 	- [ ] ASSIGNMENTS
 
 ## top down parsing
+reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)
 rules
 1. no left recursive and left factoring
 2. find [[First]] values (as many grammars that we have)
 3. find [[Follow]] value (as many grammars that we have)
 
 Example: 
-1. $E$ -> $TE'$
-2. $E'$ -> $+TE'$ | $\varepsilon$
+1. _E_ -> *TE'*
+2. E' -> $+TE'$ | $\varepsilon$
 3. $T$ -> $FT'$
 4. $T'$ -> $* FT'$ | $\varepsilon$
-5. $F$ -> $(E)$ | $id$
+5. $F_ -> $(E)$ | $id$
 
 [[First]] Values:
 1. [[First]] E = \(, id (this is from E -> T -> F) 
@@ -33,8 +35,6 @@ Example:
 [[Follow]] Values:
 
 1. [[Follow]] E = $, )
-2. [[Follow]] E' = 
-
-
-
-
+2. [[Follow]] E' = $, )
+   $E$ -> $TE'$
+   $A$ -> $\alpha B$

@@ -11,4 +11,6 @@ ADE = ...
 2. If $A$ -> $\alpha B\beta$, then all First of $\beta$ is the First of $B$
 3. a. $A$ -> $\alpha B$, then all follow $A$ is the Follow of $B$
 3. b. $A$ -> $\alpha B\beta$ <u>and</u> first of $\beta$ is $\varepsilon$, then all Follow of A is the Follow of $B$
-> You can use this algorithm or a cheat method by looking at the result of the production, and find the non terminal value after the terminal value
+> You can use this algorithm or a cheat method by looking at the result of the production, and find the non terminal value after the terminal 
+
+> You can only find the follow values of the terminal on the lines before it
