@@ -19,10 +19,10 @@ rules
 
 Example: 
 1. _E_ -> *TE'*
-2. E' -> $+TE'$ | $\varepsilon$
-3. $T$ -> $FT'$
-4. $T'$ -> $* FT'$ | $\varepsilon$
-5. $F_ -> $(E)$ | $id$
+2. E' -> *+TE'* | $\varepsilon$
+3. *T* -> *FT'*
+4. *T'* -> ** FT'* | $\varepsilon$
+5. *F* -> *(E)* | *id*
 
 [[First]] Values:
 1. [[First]] E = \(, id (this is from E -> T -> F) 
@@ -36,5 +36,6 @@ Example:
 
 1. [[Follow]] E = $, )
 2. [[Follow]] E' = $, )
-   $E$ -> $TE'$
-   $A$ -> $\alpha B$
+   *E* -> *TE'*
+   *A* -> $\alpha$ *B*
+3. [[Follow]] T = 
