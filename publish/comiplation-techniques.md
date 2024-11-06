@@ -60,8 +60,8 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 > Columns: Symbols, and Values
 
 How to fill the table?  
-1. Look at the first, and fill where we got the first values  
-2. If there is an $\varepsilon$ at the first, then look at follow and write the terminal -> $\varepsilon$  for the follow values  
+1. Look at the first of each terminal, and fill where we got the first values  
+2. If there is an $\varepsilon$ at the first, then look at follow value of the terminal and write the terminal -> $\varepsilon$  for the follow values  
 
 > notice theres no `| (or)`   
 
@@ -84,12 +84,24 @@ How to determine the output?
 
 Rules
 - Stack gets replaced by the production values or the thing that comes after the `->` but reverse it
-- If `stack == input` POP
+- If `stack == input` POP STACK AND INPUT
+- if there is $\varepsilon$ after -> POP STACK
+- if `stack == $` and `input == $` ACCEPT
+- if stack `≠` input REJECT
 
-| stack   | input  | output       |
-| ------- | ------ | ------------ |
-| $E      | id+id$ | _E_ -> *TE'* |
-| $E'T    | id+id$ | *T* -> *FT'* |
-| $E'T'F  | id+id$ | *F* -> *id*  |
-| $E'T'id |        |              |
+| stack       | input      | output               |
+| ----------- | ---------- | -------------------- |
+| $E          | id+id$     | _E_ -> *TE'*         |
+| $E'T        | id+id$     | *T* -> *FT'*         |
+| $E'T'F      | id+id$     | *F* -> *id*          |
+| $E'T'~~id~~ | ~~id~~+id$ | pop id               |
+| $E'T        | +id$       | *T'* ->$\varepsilon$ |
+| $E'         | +id$       | E' -> *+TE'*         |
+| $E'T~~+~~   | ~~+~~id$   | pop +                |
+| $E'T        | id$        | *T* -> *FT'*         |
+| $E'T'F      | id$        | *F* -> *id*          |
+| $E'T'~~id~~ | ~~id~~$    | pop Id               |
+| $E'T'       | $          | *T'* ->$\varepsilon$ |
+| $E'         | $          | E' -> $\varepsilon$  |
+| ~~$~~       | ~~$~~      | accept               |
 
