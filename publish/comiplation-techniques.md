@@ -17,18 +17,16 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 
 #### rules
 1. no left recursive and left factoring
-2. find [[First]] values (as many grammars that we have)
-3. find [[Follow]] value (as many grammars that we have)
-4. make parsing table
-
+2. find [[First]] values (as many grammars that we have)  
+3. find [[Follow]] value (as many grammars that we have)  
+4. make parsing table  
+5. search through the parsing  
 #### Example: 
 1. _E_ -> *TE'*
 2. E' -> *+TE'* | $\varepsilon$
 3. *T* -> *FT'*
 4. *T'* -> *\*FT'* | $\varepsilon$
 5. *F* -> *(E)* | *id*
-
-
 ### [[First]] Values:
 1. [[First]] E = \(, id `(this is from E -> T -> F)`
 > why only use T?? i guess because its the first terminal
@@ -64,7 +62,8 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 How to fill the table?  
 1. Look at the first, and fill where we got the first values  
 2. If there is an $\varepsilon$ at the first, then look at follow and write the terminal -> $\varepsilon$  for the follow values  
-> notice how theres no `| (or)`   
+
+> notice theres no `| (or)`   
 
 |     | id                                                          | +                                                            | *               | (                                                       | )                    | $                    |
 | --- | ----------------------------------------------------------- | ------------------------------------------------------------ | --------------- | ------------------------------------------------------- | -------------------- | -------------------- |
@@ -72,7 +71,25 @@ How to fill the table?
 | E'  |                                                             | E' -> *+TE'* `(we got this from it's own production values)` |                 |                                                         | E' -> $\varepsilon$  | E' -> $\varepsilon$  |
 | T   | *T* -> *FT'*                                                |                                                              |                 | *T* -> *FT'*                                            |                      |                      |
 | T'  |                                                             | *T'* ->$\varepsilon$                                         | *T'* -> *\*FT'* |                                                         | *T'* ->$\varepsilon$ | *T'* ->$\varepsilon$ |
-| F   | *F* -> *(E)*                                                |                                                              |                 |                                                         |                      |                      |
+| F   | *F* -> *id*                                                 |                                                              |                 | *F* -> *(E)*                                            |                      |                      |
 
-   
+   ## Parsing Search
+
+> The first stack is the start symbol and add $ before it
+
+> Input will be given
+
+How to determine the output?
+- By comparing the right most of the stack and the left most of the input 
+
+Rules
+- Stack gets replaced by the production values or the thing that comes after the `->` but reverse it
+- If `stack == input` POP
+
+| stack   | input  | output       |
+| ------- | ------ | ------------ |
+| $E      | id+id$ | _E_ -> *TE'* |
+| $E'T    | id+id$ | *T* -> *FT'* |
+| $E'T'F  | id+id$ | *F* -> *id*  |
+| $E'T'id |        |              |
 
