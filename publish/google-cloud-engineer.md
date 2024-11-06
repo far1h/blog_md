@@ -82,6 +82,7 @@ Zone: an area where Google Cloud resources get deployed
 - Software development practices: Google employs central source control and requires two-party review of any new code.
 ### Open APIs and open source 
 ### Pricing and billing
+per-second billing
 ## Resources and Access in the Cloud
 
 ## Virtual Machines and Networks in the Cloud
