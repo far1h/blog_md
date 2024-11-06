@@ -2,10 +2,11 @@
 title: Compilation Techniques
 excerpt: Stupid Course about Compilers taken @BINUS
 ---
-- [ ] ALYS
-- [ ] RAZIEL
-- [ ] RESPONSI RAFI
-- [ ] RESPONSI GC
+- [ ] ALVINA AULIA
+- [ ] AS
+- [ ] RAZ
+- [ ] RESPONSI REG
+- [x] RESPONSI GC
 - [ ] PRACTICE QUESTIONS CLASS
 	- [ ] QUIZ
 	- [ ] ASSIGNMENTS
@@ -22,7 +23,7 @@ Example:
 1. _E_ -> *TE'*
 2. E' -> *+TE'* | $\varepsilon$
 3. *T* -> *FT'*
-4. *T'* -> ** FT'* | $\varepsilon$
+4. *T'* -> *\*FT'* | $\varepsilon$
 5. *F* -> *(E)* | *id*
 
 [[First]] Values:
@@ -35,10 +36,20 @@ Example:
 
 [[Follow]] Values:
 
-1. [[Follow]] E = $, )
+1. [[Follow]] E = $, )  
 2. [[Follow]] E' = $, )  
-   *E* -> *TE'*  
+   *E* -> *T**E'***  
    *A* -> $\alpha$ *B*  
-3. [[Follow]] T = 
-   *T* -> *FT'*
+3. [[Follow]] T = +, $, ) 
+> use algorithm 2 and 3b because there is an $\varepsilon$
+
+   _E_ -> *TE'*  
+   *A* -> $\alpha$ *B*  (T is at position $\alpha$ so can't use this grammar)   
+   E' -> *+TE'* (we dont write $\varepsilon$ because it doesn't contain T)  
+   *A* -> $\alpha$*B*$\beta$  
+4. [[Follow]] T' =   +, $, ) 
+   *T* -> *FT'*  
+   *A* -> $\alpha$ *B*  
+5. [[Follow]] F = 
+   *T'* -> *\*FT'* | $\varepsilon$
    
