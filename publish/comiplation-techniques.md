@@ -22,15 +22,19 @@ Example:
 4. $T'$ -> $* FT'$ | $\varepsilon$
 5. $F$ -> $(E)$ | $id$
 
-[[First]] E = \(, id (this is from E -> T -> F) 
+[[First]] Values:
+1. [[First]] E = \(, id (this is from E -> T -> F) 
 > why only use T??
+2. [[First]] E' =  +, $\varepsilon$
+3. [[First]] T = (, id
+4. [[First]] T' = \*, $\varepsilon$
+5. [[First]] F = (, id
 
-[[First]] E' =  +, $\varepsilon$
-[[First]] T = (, id
-[[First]] T' = \*, $\varepsilon$
-[[First]] F = (, id
+[[Follow]] Values:
 
-[[Follow]]
+1. [[Follow]] E = $, )
+2. [[Follow]] E' = 
+
 
 
 
