@@ -31,7 +31,7 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 
 ### [[First]] Values:
 1. [[First]] E = \(, id `(this is from E -> T -> F)`
-> why only use T??
+> why only use T?? i guess because its the first terminal
 2. [[First]] E' =  +, $\varepsilon$
 3. [[First]] T = (, id
 4. [[First]] T' = \*, $\varepsilon$
@@ -44,11 +44,11 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
    *E* -> *T**E'***  
    *A* -> $\alpha$ *B*  
 3. [[Follow]] T = +, $, ) 
-> use algorithm 2 and 3b because there is an $\varepsilon$
+   > use algorithm 2 and 3b because there is an $\varepsilon$  
 
    _E_ -> *TE'*  
-   *A* -> $\alpha$ *B*  `(T is at position $\alpha$ so can't use this grammar)`
-   E' -> *+TE'* `(we dont write $\varepsilon$ because it doesn't contain T)  `
+   *A* -> $\alpha$ *B*  `(T is at position $\alpha$ so can't use this grammar)`  
+   E' -> *+TE'* `(we dont write $\varepsilon$ because it doesn't contain T)`  
    *A* -> $\alpha$*B*$\beta$  
 4. [[Follow]] T' =   +, $, ) 
    *T* -> *FT'*  
@@ -58,19 +58,21 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
    *A* -> $\alpha$*B*$\beta$   
 
 ### Parsing Table
-> Rows: Terminals
+> Rows: Terminals  
 > Columns: Symbols, and Values
 
-How to fill the table?
-1. Look at the first, if there is an $\varepsilon$ then look at follow
+How to fill the table?  
+1. Look at the first, and fill where we got the first values  
+2. If there is an $\varepsilon$ at the first, then look at follow and write the terminal -> $\varepsilon$  for the follow values  
+> notice how theres no `| (or)`   
 
-|     | id           | +   | *   | (            | )   | $   |
-| --- | ------------ | --- | --- | ------------ | --- | --- |
-| E   | _E_ -> *TE'* |     |     | _E_ -> *TE'* |     |     |
-| E'  |              |     |     |              |     |     |
-| T   |              |     |     |              |     |     |
-| T'  |              |     |     |              |     |     |
-| F   |              |     |     |              |     |     |
+|     | id                                                          | +                                                            | *               | (                                                       | )                    | $                    |
+| --- | ----------------------------------------------------------- | ------------------------------------------------------------ | --------------- | ------------------------------------------------------- | -------------------- | -------------------- |
+| E   | _E_ -> *TE'*`(we started from the this and later found id)` |                                                              |                 | _E_ -> *TE'* `(we started from this and later found ()` |                      |                      |
+| E'  |                                                             | E' -> *+TE'* `(we got this from it's own production values)` |                 |                                                         | E' -> $\varepsilon$  | E' -> $\varepsilon$  |
+| T   | *T* -> *FT'*                                                |                                                              |                 | *T* -> *FT'*                                            |                      |                      |
+| T'  |                                                             | *T'* ->$\varepsilon$                                         | *T'* -> *\*FT'* |                                                         | *T'* ->$\varepsilon$ | *T'* ->$\varepsilon$ |
+| F   | *F* -> *(E)*                                                |                                                              |                 |                                                         |                      |                      |
 
    
 
