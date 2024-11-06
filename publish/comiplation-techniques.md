@@ -15,6 +15,7 @@ excerpt: Stupid Course about Compilers taken @BINUS
 ## top down parsing
 reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  
 
+![[cfg.png|200]]
 #### rules
 1. no left recursive and left factoring
 2. find [[First]] values (as many grammars that we have)  
