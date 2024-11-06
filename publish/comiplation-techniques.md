@@ -65,14 +65,17 @@ How to fill the table?
 
 > notice theres no `| (or)`   
 
-|     | id                                                                      | +                                                                    | *               | (                                                               | )                    | $                    |
-| --- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------- | --------------------------------------------------------------- | -------------------- | -------------------- |
-| E   | _E_ -> *TE'*`(we <br>started from <br>the this and later<br> found id)` |                                                                      |                 | _E_ -> *TE'* `(we <br>started from this<br> and later found ()` |                      |                      |
-| E'  |                                                                         | E' -> *+TE'* `(we got <br>this from it's own <br>production values)` |                 |                                                                 | E' -> $\varepsilon$  | E' -> $\varepsilon$  |
-| T   | *T* -> *FT'*                                                            |                                                                      |                 | *T* -> *FT'*                                                    |                      |                      |
-| T'  |                                                                         | *T'* ->$\varepsilon$                                                 | *T'* -> *\*FT'* |                                                                 | *T'* ->$\varepsilon$ | *T'* ->$\varepsilon$ |
-| F   | *F* -> *id*                                                             |                                                                      |                 | *F* -> *(E)*                                                    |                      |                      |
-
+|     | id           | +                    | *               | (             | )                    | $                    |
+| --- | ------------ | -------------------- | --------------- | ------------- | -------------------- | -------------------- |
+| E   | _E_ -> *TE'* |                      |                 | _E_ -> *TE'*  |                      |                      |
+| E'  |              | E' -> *+TE'*         |                 |               | E' -> $\varepsilon$  | E' -> $\varepsilon$  |
+| T   | *T* -> *FT'* |                      |                 | *T* -> *FT'*  |                      |                      |
+| T'  |              | *T'* ->$\varepsilon$ | *T'* -> *\*FT'* |               | *T'* ->$\varepsilon$ | *T'* ->$\varepsilon$ |
+| F   | *F* -> *id*  |                      |                 | *F* -> *(E)*  |                      |                      |
+Notes:
+E id = `(we started from the this and later found id)`
+E + = `(we got this from it's own production values)`
+E ( = `(we started from this and later found ()`
 
    ## Parsing Search
 
