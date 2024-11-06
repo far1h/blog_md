@@ -10,6 +10,7 @@ excerpt: Stupid Course about Compilers taken @BINUS
 - [ ] PRACTICE QUESTIONS CLASS
 	- [ ] QUIZ
 	- [ ] ASSIGNMENTS
+- [ ] pick up transcripts
 
 ## top down parsing
 reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  
@@ -18,6 +19,7 @@ rules
 1. no left recursive and left factoring
 2. find [[First]] values (as many grammars that we have)
 3. find [[Follow]] value (as many grammars that we have)
+4. make parsing table
 
 Example: 
 1. _E_ -> *TE'*
@@ -50,6 +52,14 @@ Example:
 4. [[Follow]] T' =   +, $, ) 
    *T* -> *FT'*  
    *A* -> $\alpha$ *B*  
-5. [[Follow]] F = 
-   *T'* -> *\*FT'* | $\varepsilon$
+5. [[Follow]] F = \*, +, $, )  
+   *T'* -> *\*FT'*  
+   *A* -> $\alpha$*B*$\beta$   
+
+
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+
    
