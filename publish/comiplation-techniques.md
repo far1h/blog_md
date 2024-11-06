@@ -74,9 +74,9 @@ How to fill the table?
 | F   | *F* -> *id*  |                      |                 | *F* -> *(E)*  |                      |                      |
 
 Notes:
-E id = `(we started from the this and later found id)`
-E' + = `(we got this from it's own production values)`
-E ( =`(we started from this and later found ()`
+E id = `(we started from the this and later found id)`  
+E' + = `(we got this from it's own production values)`  
+E ( =`(we started from this and later found ()`  
 
    ## Parsing Search
 
