@@ -29,7 +29,6 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 5. *F* -> *(E)* | *id*
 ### [[First]] Values:
 1. [[First]] E = \(, id `(this is from E -> T -> F)`
-> why only use T?? i guess because its the first terminal
 2. [[First]] E' =  +, $\varepsilon$
 3. [[First]] T = (, id
 4. [[First]] T' = \*, $\varepsilon$
@@ -56,12 +55,12 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
    *A* -> $\alpha$*B*$\beta$   
 
 ### Parsing Table
-> Rows: Terminals  
-> Columns: Symbols, and Values
+> Rows: Variables  
+> Columns: Terminals, and Values
 
 How to fill the table?  
-1. Look at the first of each terminal, and fill where we got the first values  
-2. If there is an $\varepsilon$ at the first, then look at follow value of the terminal and write the terminal -> $\varepsilon$  for the follow values  
+1. Look at the first of each variable, and fill where we got the first values  
+2. If there is an $\varepsilon$ at the first, then look at follow value of the variable and write the variable -> $\varepsilon$  for the follow values  
 
 > notice theres no `| (or)`   
 
