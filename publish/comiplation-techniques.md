@@ -73,7 +73,7 @@ How to fill the table?
 | T'  |              | *T'* ->$\varepsilon$ | *T'* -> *\*FT'* |               | *T'* ->$\varepsilon$ | *T'* ->$\varepsilon$ |
 | F   | *F* -> *id*  |                      |                 | *F* -> *(E)*  |                      |                      |
 
-Notes:
+Notes:  
 E id = `(we started from the this and later found id)`  
 E' + = `(we got this from it's own production values)`  
 E ( =`(we started from this and later found ()`  
