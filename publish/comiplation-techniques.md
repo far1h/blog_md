@@ -36,7 +36,9 @@ Example:
 [[Follow]] Values:
 
 1. [[Follow]] E = $, )
-2. [[Follow]] E' = $, )
-   *E* -> *TE'*
-   *A* -> $\alpha$ *B*
+2. [[Follow]] E' = $, )  
+   *E* -> *TE'*  
+   *A* -> $\alpha$ *B*  
 3. [[Follow]] T = 
+   *T* -> *FT'*
+   
