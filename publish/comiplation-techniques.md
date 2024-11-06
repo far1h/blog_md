@@ -65,13 +65,75 @@ How to fill the table?
 
 > notice theres no `| (or)`   
 
-|     | <div style="width:20px">id</div>                            | <div style="width:20px">+</div>                              | <div style="width:20px">*id*</div> | <div style="width:20px">(</div>                         | <div style="width:20px">)</div> | <div style="width:20px">$</div> |
-| --- | ----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------- | ------------------------------- | ------------------------------- |
-| E   | _E_ -> *TE'*`(we started from the this and later found id)` |                                                              |                                    | _E_ -> *TE'* `(we started from this and later found ()` |                                 |                                 |
-| E'  |                                                             | E' -> *+TE'* `(we got this from it's own production values)` |                                    |                                                         | E' -> $\varepsilon$             | E' -> $\varepsilon$             |
-| T   | *T* -> *FT'*                                                |                                                              |                                    | *T* -> *FT'*                                            |                                 |                                 |
-| T'  |                                                             | *T'* ->$\varepsilon$                                         | *T'* -> *\*FT'*                    |                                                         | *T'* ->$\varepsilon$            | *T'* ->$\varepsilon$            |
-| F   | *F* -> *id*                                                 |                                                              |                                    | *F* -> *(E)*                                            |                                 |                                 |
+|     | id                                                          | +                                                            | *               | (                                                       | )                    | $                    |
+| --- | ----------------------------------------------------------- | ------------------------------------------------------------ | --------------- | ------------------------------------------------------- | -------------------- | -------------------- |
+| E   | _E_ -> *TE'*`(we started from the this and later found id)` |                                                              |                 | _E_ -> *TE'* `(we started from this and later found ()` |                      |                      |
+| E'  |                                                             | E' -> *+TE'* `(we got this from it's own production values)` |                 |                                                         | E' -> $\varepsilon$  | E' -> $\varepsilon$  |
+| T   | *T* -> *FT'*                                                |                                                              |                 | *T* -> *FT'*                                            |                      |                      |
+| T'  |                                                             | *T'* ->$\varepsilon$                                         | *T'* -> *\*FT'* |                                                         | *T'* ->$\varepsilon$ | *T'* ->$\varepsilon$ |
+| F   | *F* -> *id*                                                 |                                                              |                 | *F* -> *(E)*                                            |                      |                      |
+<div style="width: 100%; overflow-x: auto;">
+  <table style="table-layout: fixed; width: 100%;">
+    <thead>
+      <tr>
+        <th style="width: 5%;"> </th>
+        <th style="width: 20%;">id</th>
+        <th style="width: 20%;">+</th>
+        <th style="width: 10%;">*</th>
+        <th style="width: 15%;">(</th>
+        <th style="width: 15%;">)</th>
+        <th style="width: 15%;">$</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>E</td>
+        <td>_E_ -> *TE'*<br>`(we started from this and later found id)`</td>
+        <td></td>
+        <td></td>
+        <td>_E_ -> *TE'*<br>`(we started from this and later found ())`</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>E'</td>
+        <td></td>
+        <td>E' -> *+TE'*<br>`(we got this from its own production values)`</td>
+        <td></td>
+        <td></td>
+        <td>E' -> $\varepsilon$</td>
+        <td>E' -> $\varepsilon$</td>
+      </tr>
+      <tr>
+        <td>T</td>
+        <td>*T* -> *FT'*</td>
+        <td></td>
+        <td></td>
+        <td>*T* -> *FT'*</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>T'</td>
+        <td></td>
+        <td>*T'* -> $\varepsilon$</td>
+        <td>*T'* -> *\*FT'*</td>
+        <td></td>
+        <td>*T'* -> $\varepsilon$</td>
+        <td>*T'* -> $\varepsilon$</td>
+      </tr>
+      <tr>
+        <td>F</td>
+        <td>*F* -> *id*</td>
+        <td></td>
+        <td></td>
+        <td>*F* -> *(E)*</td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
    ## Parsing Search
 
