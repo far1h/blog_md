@@ -84,8 +84,6 @@ Zone: an area where Google Cloud resources get deployed
 ### Pricing and billing
 per-second billing
 ## Resources and Access in the Cloud
-Here’s a structured overview of the key topics for the Google Cloud GCE exam. Save it as an `.md` file in Obsidian:
-
 ### Google Cloud Resource Hierarchy
 1. **Hierarchy Levels**:
    - **Resources**: Includes VMs, Cloud Storage, VPCs, etc.
