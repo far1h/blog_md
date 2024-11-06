@@ -20,9 +20,20 @@ cloud computing traits
 
 The history of cloud computing
 1. Colocation
-2. 
+2. Virtualized data center
+3. ==Container-based architecture??== 
 ### IaaS and PaaS 
-IaaS - Infrastructure as a service
+
+Infrastructure as a service includes:
+- raw compute
+- storage
+- network capabilities
+
+Platform as a Service delivers and manages all the hardware and software through the cloud. Ex: App Engine
+
+> [!NOTE] Payment Models
+> IaaS - Pay for what they allocate
+> 	PaaS - Pay for what they use
 ### The Google Cloud network 
 ### Environmental impact 
 ### Security 
