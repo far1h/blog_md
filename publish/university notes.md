@@ -1,2 +1,1 @@
-[[comiplation-techniques]]
-[[data-mining]]
+[[comiplation-techniques]] | [[data-mining]] | [[uts-os]]
