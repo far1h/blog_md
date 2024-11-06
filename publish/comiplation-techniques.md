@@ -30,7 +30,7 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 
 
 ### [[First]] Values:
-1. [[First]] E = \(, id (this is from E -> T -> F) 
+1. [[First]] E = \(, id `(this is from E -> T -> F)`
 > why only use T??
 2. [[First]] E' =  +, $\varepsilon$
 3. [[First]] T = (, id
@@ -47,8 +47,8 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 > use algorithm 2 and 3b because there is an $\varepsilon$
 
    _E_ -> *TE'*  
-   *A* -> $\alpha$ *B*  (T is at position $\alpha$ so can't use this grammar)   
-   E' -> *+TE'* (we dont write $\varepsilon$ because it doesn't contain T)  
+   *A* -> $\alpha$ *B*  `(T is at position $\alpha$ so can't use this grammar)`
+   E' -> *+TE'* `(we dont write $\varepsilon$ because it doesn't contain T)  `
    *A* -> $\alpha$*B*$\beta$  
 4. [[Follow]] T' =   +, $, ) 
    *T* -> *FT'*  
@@ -64,12 +64,13 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 How to fill the table?
 1. Look at the first, if there is an $\varepsilon$ then look at follow
 
-|     | id  | +   | *   | (   | )   | $   |
-| --- | --- | --- | --- | --- | --- | --- |
-| E   |     |     |     |     |     |     |
-| E'  |     |     |     |     |     |     |
-| T   |     |     |     |     |     |     |
-| T'  |     |     |     |     |     |     |
-| F   |     |     |     |     |     |     |
+|     | id           | +   | *   | (            | )   | $   |
+| --- | ------------ | --- | --- | ------------ | --- | --- |
+| E   | _E_ -> *TE'* |     |     | _E_ -> *TE'* |     |     |
+| E'  |              |     |     |              |     |     |
+| T   |              |     |     |              |     |     |
+| T'  |              |     |     |              |     |     |
+| F   |              |     |     |              |     |     |
 
    
+
