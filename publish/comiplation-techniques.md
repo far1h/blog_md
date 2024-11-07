@@ -61,7 +61,14 @@ excerpt: Stupid Course about Compilers taken @BINUS
 ### Example [[Kenny Jingga CT UTS Quiz]]
 
 ![[kenny1.png]]
+
+### Example [[Ivan Sebastian CT UTS Quiz]]
+
+![[ivan2.png]] WRONGGGG
 ## [[Context Free Grammar]]
+
+
+
 ## [[Top down parsing]]
 
 ### Example [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  
