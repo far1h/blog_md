@@ -163,11 +163,15 @@ P -> S P | ε
 *A* -> α*B*β | ε  `2nd and 3b rule`  
 
 A: `Follow(S)`
-A: sigma,  if , ( , mewing, rizz,  $, }  
+==A: sigma,  if , ( , mewing, rizz,  $, }==  
 S -> A | C | E  
 *A* -> α*B* `3a rule`  
 
-C: 
+C: `Follow(S)`
+==C:  sigma,  if , ( , mewing, rizz,  $, }==
+S -> A | C | E  
+*A* -> α*B* `3a rule`  
+
 E: 
 E':
 T: 
