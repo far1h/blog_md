@@ -159,13 +159,14 @@ P: $ `because of start symbol`
 S: `First(P)`, }  `from C grammar {S}`
 S: sigma,  if , ( , mewing, rizz,  `Follow(P)`, }  
 S: sigma,  if , ( , mewing, rizz,  $, }  
-
 P -> S P | ε   
 *A* -> α*B*β | ε  `2nd and 3b rule`  
+
 A: `Follow(S)`
 A: sigma,  if , ( , mewing, rizz,  $, }  
 S -> A | C | E  
 *A* -> α*B* `3a rule`  
+
 C: 
 E: 
 E':
