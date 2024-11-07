@@ -172,7 +172,7 @@ C: `Follow(S)`
 S -> A | C | E  
 *A* -> α*B* `3a rule`  
 
-E: 
+E: ; `from A grammar`, ) `from F grammar`
 E':
 T: 
 T':
