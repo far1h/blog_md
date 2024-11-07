@@ -133,6 +133,7 @@ T' -> \*FT' | /FT' | ε
 F -> (E) | sigma | mewing | rizz  
 
 P: sigma `from S -> A`,  if `from S -> C` , ( , mewing, rizz `these from S -> E`,  ε  
+P: sigma,  if , ( , mewing, rizz,  ε  
 S: sigma,  if , ( , mewing, rizz    
 A: sigma  
 C: if  
@@ -207,17 +208,29 @@ T -> FT'
 T' -> \*FT' | /FT' | ε  
 F -> (E) | sigma | mewing | rizz  
 
-|     | *   | /   | +   | -   | sigma | if  | (   | )   | mewing | rizz | $   | }   | ;   |     |
-| --- | --- | --- | --- | --- | ----- | --- | --- | --- | ------ | ---- | --- | --- | --- | --- |
-| P   |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
-| S   |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
-| A   |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
-| C   |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
-| E   |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
-| E'  |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
-| T   |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
-| T'  |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
-| F   |     |     |     |     |       |     |     |     |        |      |     |     |     |     |
+[[First]]:
+P: sigma,  if , ( , mewing, rizz,  ε  
+S: sigma,  if , ( , mewing, rizz    
+A: sigma  
+C: if  
+E: ( , sigma, mewing, rizz  
+E': + , - , ε  
+T: ( , sigma, mewing, rizz  
+T': \*, / , ε  
+F: ( , sigma, mewing, rizz  
+
+
+|     | *   | /   | +   | -   | sigma | if  | (   | )   | mewing | rizz | $   | }   | ;   |
+| --- | --- | --- | --- | --- | ----- | --- | --- | --- | ------ | ---- | --- | --- | --- |
+| P   |     |     |     |     |       |     |     |     |        |      |     |     |     |
+| S   |     |     |     |     |       |     |     |     |        |      |     |     |     |
+| A   |     |     |     |     |       |     |     |     |        |      |     |     |     |
+| C   |     |     |     |     |       |     |     |     |        |      |     |     |     |
+| E   |     |     |     |     |       |     |     |     |        |      |     |     |     |
+| E'  |     |     |     |     |       |     |     |     |        |      |     |     |     |
+| T   |     |     |     |     |       |     |     |     |        |      |     |     |     |
+| T'  |     |     |     |     |       |     |     |     |        |      |     |     |     |
+| F   |     |     |     |     |       |     |     |     |        |      |     |     |     |
 
 
 Example 3 Ivan Sebastian CT UTS Quiz
