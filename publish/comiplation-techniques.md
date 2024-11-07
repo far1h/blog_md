@@ -2,32 +2,32 @@
 title: Compilation Techniques
 excerpt: Stupid Course about Compilers taken @BINUS
 ---
-- [ ] ALVINA AULIA
-- [ ] AS
-	- [ ] 5
-	- [ ] 4
-	- [ ] 2
-	- [ ] 1
-- [ ] RZ
+- [x] ALVINA AULIA
+- [x] AS
+	- [x] 5
+	- [x] 4
+	- [x] 2
+	- [x] 1
+- [x] RZ
 - [x] RESPONSI REG
 - [x] RESPONSI GC
 - [ ] PRACTICE QUESTIONS CLASS
-	- [ ] QUIZ
-		- [ ] [[Ivan Sebastian CT UTS Quiz]]
+	- [x] QUIZ
+		- [x] [[Ivan Sebastian CT UTS Quiz]]
 			- [x] RE DFA
 			- [x] RE EFNA DFA
-			- [ ] CFD
-			- [ ] TOP DOWN
-		- [ ] [[Sam Philip CT UTS Quiz]]
-			- [ ] RE DFA
-			- [ ] RE EFNA DFA
-			- [ ] CFD
-			- [ ] TOP DOWN
-		- [ ] [[Kenny Jingga CT UTS Quiz]]
-			- [ ] TOP DOWN
+			- [x] CFD
+			- [x] TOP DOWN
+		- [x] [[Sam Philip CT UTS Quiz]]
+			- [x] RE DFA
+			- [x] RE EFNA DFA
+			- [x] CFD
+			- [x] TOP DOWN
+		- [x] [[Kenny Jingga CT UTS Quiz]]
+			- [x] TOP DOWN
 			- [x] RE DFA
 			- [x] RE ENFA DFA
-			- [ ] CFG
+			- [x] CFG
 	- [ ] ASSIGNMENTS
 
 
