@@ -25,7 +25,7 @@ excerpt: Stupid Course about Compilers taken @BINUS
 			- [ ] TOP DOWN
 		- [ ] KENNY
 			- [ ] TOP DOWN
-			- [ ] RE DFA
+			- [x] RE DFA
 			- [x] RE ENFA DFA
 			- [ ] CFG
 	- [ ] ASSIGNMENTS
@@ -44,14 +44,23 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 ## [[RE to DFA]]
 
-### Example [[Kenny Jingga CT UTS Quiz
+### Example [[Kenny Jingga CT UTS Quiz]]
 
-![[kenny1.png]]
+![[kennydfa1.png]]
+
+![[kennydfa2.png]]
+
+![[kennydfa3.png]]
+
 ### Example [[Ivan Sebastian CT UTS Quiz]]
 
 ![[ivan1.png | 500]]
 
 ## [[RE to E-NFA to DFA]]
+
+### Example [[Kenny Jingga CT UTS Quiz]]
+
+![[kenny1.png]]
 ## [[Context Free Grammar]]
 ## [[Top down parsing]]
 
