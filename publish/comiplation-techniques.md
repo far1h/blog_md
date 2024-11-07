@@ -186,7 +186,11 @@ T: `First(E')`, `Follow(E')`
 E' -> +TE' | -TE' | ε  
 A* -> α*B*β `2nd and 3b rule`  
 
-T':
+T': `Follow(T)`
+==T' + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+T -> FT'  
+*A* -> α*B* `3a rule`  
+
 F: 
 
 Example 3 Ivan Sebastian CT UTS Quiz
