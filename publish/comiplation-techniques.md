@@ -13,17 +13,17 @@ excerpt: Stupid Course about Compilers taken @BINUS
 - [x] RESPONSI GC
 - [ ] PRACTICE QUESTIONS CLASS
 	- [ ] QUIZ
-		- [ ] IVAN
+		- [ ] [[Ivan Sebastian CT UTS Quiz]]
+			- [x] RE DFA
+			- [x] RE EFNA DFA
+			- [ ] CFD
+			- [ ] TOP DOWN
+		- [ ] [[Sam Philip CT UTS Quiz]]
 			- [ ] RE DFA
 			- [ ] RE EFNA DFA
 			- [ ] CFD
 			- [ ] TOP DOWN
-		- [ ] SAM
-			- [ ] RE DFA
-			- [x] RE EFNA DFA
-			- [ ] CFD
-			- [ ] TOP DOWN
-		- [ ] KENNY
+		- [ ] [[Kenny Jingga CT UTS Quiz]]
 			- [ ] TOP DOWN
 			- [x] RE DFA
 			- [x] RE ENFA DFA
@@ -277,23 +277,25 @@ T: + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )
 T': + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )  
 F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )  
 
-|     | *   | /   | +   | -   | sigma     | if       | (        | )   | mewing    | rizz     | $      | }   | ;   |
-| --- | --- | --- | --- | --- | --------- | -------- | -------- | --- | --------- | -------- | ------ | --- | --- |
-| P   |     |     |     |     | P -> S P  | P -> S P | P -> S P |     | P -> S P  | P -> S P | P -> $ |     |     |
-| S   |     |     |     |     | S ->sigma | S->C     | S->(E)   |     | S->mewing | S->rizz  |        |     |     |
-| A   |     |     |     |     |           |          |          |     |           |          |        |     |     |
-| C   |     |     |     |     |           |          |          |     |           |          |        |     |     |
-| E   |     |     |     |     |           |          |          |     |           |          |        |     |     |
-| E'  |     |     |     |     |           |          |          |     |           |          |        |     |     |
-| T   |     |     |     |     |           |          |          |     |           |          |        |     |     |
-| T'  |     |     |     |     |           |          |          |     |           |          |        |     |     |
-| F   |     |     |     |     |           |          |          |     |           |          |        |     |     |
+|     | *   | /   | +   | -   | sigma    | if       | (        | )   | mewing   | rizz     | $      | }   | ;   |
+| --- | --- | --- | --- | --- | -------- | -------- | -------- | --- | -------- | -------- | ------ | --- | --- |
+| P   |     |     |     |     | P -> S P | P -> S P | P -> S P |     | P -> S P | P -> S P | P -> $ |     |     |
+| S   |     |     |     |     | S ->A    | S->C     | S->E     |     | S->E     | S->E     |        |     |     |
+| A   |     |     |     |     |          |          |          |     |          |          |        |     |     |
+| C   |     |     |     |     |          |          |          |     |          |          |        |     |     |
+| E   |     |     |     |     |          |          |          |     |          |          |        |     |     |
+| E'  |     |     |     |     |          |          |          |     |          |          |        |     |     |
+| T   |     |     |     |     |          |          |          |     |          |          |        |     |     |
+| T'  |     |     |     |     |          |          |          |     |          |          |        |     |     |
+| F   |     |     |     |     |          |          |          |     |          |          |        |     |     |
 
 i gave up lol
 
+![[parsingtablekenny.jpg]]
+
+![[parsingtablekenny2.png]]
 ### Example [[Ivan Sebastian CT UTS Quiz]]
 
 ends up getting rejected
 ### Example [[Sam Philip CT UTS Quiz]]
-
 ### Example Class Session 12 Exercise

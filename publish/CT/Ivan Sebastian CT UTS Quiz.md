@@ -37,3 +37,7 @@ b. Find Follow from the grammar above
 c. Create the Parsing Table
 
 d. Track the parsing movement with input: y/a*y+a
+
+![[stevenivan1.jpg]]
+
+![[stevenivan2.jpg]]
