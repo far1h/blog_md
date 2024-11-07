@@ -14,9 +14,3 @@ Ex:
 <u>A</u>bc = b 
 A + b = +
 ADE = ...
-
-```
----
-obsidianUIMode: preview
----
-```
