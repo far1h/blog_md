@@ -31,7 +31,6 @@ excerpt: Stupid Course about Compilers taken @BINUS
 ![[cfg.png|200]]
 
 ## [[RE to DFA]]
-
 ## [[RE to E-NFA to DFA]]
 ## [[Context Free Grammar]]
 ## [[Top down parsing]]
@@ -253,6 +252,7 @@ F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )
 | T   |     |     |     |     |           |          |          |     |           |          |        |     |     |
 | T'  |     |     |     |     |           |          |          |     |           |          |        |     |     |
 | F   |     |     |     |     |           |          |          |     |           |          |        |     |     |
+
 i gave up lol
 
 ### Example 3 Ivan Sebastian CT UTS Quiz
