@@ -21,10 +21,13 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 ![[cfg.png|200]]
 
-[[Context Free Grammar]]
+RE to DFA
+
+RE
+## [[Context Free Grammar]]
 ## [[Top down parsing]]
 
-### Example 1 [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  : 
+### Example 1 [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  
 1. _E_ -> *TE'*
 2. E' -> *+TE'* | ε
 3. *T* -> *FT'*
@@ -90,7 +93,7 @@ E ( =`(we started from this and later found ()`
 | $E'         | $          | E' -> ε      |
 | ~~$~~       | ~~$~~      | accept       |
 
-### Example 2 [[Kenny Jingga CT UTS Quiz]]:
+### Example 2 [[Kenny Jingga CT UTS Quiz]]
 P -> S P | ε  
 S -> A | C | E  
 A -> sigma = E ;  
