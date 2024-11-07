@@ -9,7 +9,7 @@ Welcome, and thank you for viewing my portfolio! Below are some of the projects 
 
 ## [[TimePossible]]
 
-[![[health-calendar.png|500]]](<TimePossible.md>)
+[![[health-calendar.png|500]]](<publish/portfolio/TimePossible.md>)
 
 ## [[TerraWander]]
 
@@ -19,14 +19,14 @@ Welcome, and thank you for viewing my portfolio! Below are some of the projects 
 
 ## [[IndoWilderness]]
 
-[![[animalsID.png|500]]](<IndoWilderness.md>)
+[![[animalsID.png|500]]](<publish/portfolio/IndoWilderness.md>)
 
 ## [[CICDiOS]]
 
-[![[ci-cd.png|500]]](<CICDiOS.md>)
+[![[ci-cd.png|500]]](<publish/portfolio/CICDiOS.md>)
 
 ## [[CatchThePikachu]]
 
-[![[pikachu.png|500]]](<CatchThePikachu.md>)
+[![[pikachu.png|500]]](<publish/portfolio/CatchThePikachu.md>)
 
 Thank you for exploring my portfolio. Feel free to connect or explore more of my work on GitHub!
