@@ -66,6 +66,7 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 Notes:  
 E id = `(we started from the this and later found id)`  
+
 E' + = `(we got this from it's own production values)`  
 E ( =`(we started from this and later found ()`  
 
@@ -87,3 +88,4 @@ E ( =`(we started from this and later found ()`
 | $E'         | $          | E' -> ε      |
 | ~~$~~       | ~~$~~      | accept       |
 
+### Example 2 [[Kenny Jingga CT UTS Quiz]]:
