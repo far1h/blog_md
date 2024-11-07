@@ -132,15 +132,36 @@ T -> FT'
 T' -> \*FT' | /FT' | ε  
 F -> (E) | sigma | mewing | rizz  
 
-P
-S
-A
-C
-E
-E'
-T
-T'
-F
+P: sigma `from S -> A`,  if `from S -> C` , ( , mewing, rizz `these from S -> E`,  ε  
+S: sigma `from S -> A`,  if `from S -> C` , ( , mewing, rizz `these from S -> E`  
+A: sigma  
+C: if  
+E: ( , sigma, mewing, rizz  
+E': + , - , ε  
+T: ( , sigma, mewing, rizz  
+T': \*, / | ε  
+F: ( , sigma, mewing, rizz  
+
+#### [[Follow]] Values: 
+P -> S P | ε  
+S -> A | C | E  
+A -> sigma = E ;  
+C -> if (E) (S) else (S)  
+E -> TE'  
+E' -> +TE' | -TE' | ε  
+T -> FT'  
+T' -> \*FT' | /FT' | ε  
+F -> (E) | sigma | mewing | rizz  
+
+P: 
+S: 
+A: 
+C: 
+E: 
+E':
+T: 
+T':
+F: 
 
 Example 3 Ivan Sebastian CT UTS Quiz
 
