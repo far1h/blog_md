@@ -241,9 +241,9 @@ F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )
 | T   |     |     |     |     |           |          |          |     |           |          |        |     |     |
 | T'  |     |     |     |     |           |          |          |     |           |          |        |     |     |
 | F   |     |     |     |     |           |          |          |     |           |          |        |     |     |
+i gave up lol
 
-
-Example 3 Ivan Sebastian CT UTS Quiz
+### Example 3 Ivan Sebastian CT UTS Quiz
 
 Example 4 Sam Philip CT UTS Quiz
 
