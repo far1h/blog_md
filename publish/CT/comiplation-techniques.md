@@ -14,7 +14,16 @@ excerpt: Stupid Course about Compilers taken @BINUS
 - [ ] PRACTICE QUESTIONS CLASS
 	- [ ] QUIZ
 	- [ ] ASSIGNMENTS
-- [ ] pick up transcripts
+
+
+10
+11
+12
+13
+14
+15.30 Shower and Leave
+15 Exam
+
 - [ ] Accept housin offer
 - [ ] Pick up transcript
 - [ ] comvis exam
