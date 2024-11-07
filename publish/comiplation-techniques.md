@@ -98,19 +98,19 @@ How to determine the output?
 - if `stack == $` and `input == $` ACCEPT
 - if stack `≠` input REJECT
 
-| stack       | input      | output               |
-| ----------- | ---------- | -------------------- |
-| $E          | id+id$     | _E_ -> *TE'*         |
-| $E'T        | id+id$     | *T* -> *FT'*         |
-| $E'T'F      | id+id$     | *F* -> *id*          |
-| $E'T'~~id~~ | ~~id~~+id$ | pop id               |
-| $E'T        | +id$       | *T'* ->ε |
-| $E'         | +id$       | E' -> *+TE'*         |
-| $E'T~~+~~   | ~~+~~id$   | pop +                |
-| $E'T        | id$        | *T* -> *FT'*         |
-| $E'T'F      | id$        | *F* -> *id*          |
-| $E'T'~~id~~ | ~~id~~$    | pop Id               |
-| $E'T'       | $          | *T'* ->ε |
-| $E'         | $          | E' -> ε  |
-| ~~$~~       | ~~$~~      | accept               |
+| stack       | input      | output       |
+| ----------- | ---------- | ------------ |
+| $E          | id+id$     | _E_ -> *TE'* |
+| $E'T        | id+id$     | *T* -> *FT'* |
+| $E'T'F      | id+id$     | *F* -> *id*  |
+| $E'T'~~id~~ | ~~id~~+id$ | pop id       |
+| $E'T        | +id$       | *T'* ->ε     |
+| $E'         | +id$       | E' -> *+TE'* |
+| $E'T~~+~~   | ~~+~~id$   | pop +        |
+| $E'T        | id$        | *T* -> *FT'* |
+| $E'T'F      | id$        | *F* -> *id*  |
+| $E'T'~~id~~ | ~~id~~$    | pop Id       |
+| $E'T'       | $          | *T'* ->ε     |
+| $E'         | $          | E' -> ε      |
+| ~~$~~       | ~~$~~      | accept       |
 
