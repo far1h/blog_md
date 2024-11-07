@@ -156,11 +156,11 @@ F -> (E) | sigma | mewing | rizz
 P: $ `because of start symbol`  
 > nothing else in the grammars have terminal that follows P   
 
-S: First(P), }
-S: sigma,  if , ( , mewing, rizz,  Follow(P), }
-S: sigma,  if , ( , mewing, rizz,  $, }
-P -> S P | ε  
-*A* -> α*B*β | ε  `2nd and 3b rule`
+S: First(P), }  
+S: sigma,  if , ( , mewing, rizz,  Follow(P), }  
+S: sigma,  if , ( , mewing, rizz,  $, }  
+P -> S P | ε   
+*A* -> α*B*β | ε  `2nd and 3b rule`  
 A: 
 C: 
 E: 
