@@ -19,14 +19,14 @@ Welcome, and thank you for viewing my portfolio! Below are some of the projects 
 
 ## [[IndoWilderness]]
 
-[![[animalsID.png|500]]](<IndoWilderness>)
+[![[animalsID.png|500]]](<IndoWilderness.md>)
 
 ## [[CICDiOS]]
 
-[![[ci-cd.png|500]]](<CICDiOS>)
+[![[ci-cd.png|500]]](<CICDiOS.md>)
 
 ## [[CatchThePikachu]]
 
-[![[pikachu.png|500]]](<CatchThePikachu>)
+[![[pikachu.png|500]]](<CatchThePikachu.md>)
 
 Thank you for exploring my portfolio. Feel free to connect or explore more of my work on GitHub!
