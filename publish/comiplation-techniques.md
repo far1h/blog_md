@@ -9,10 +9,25 @@ excerpt: Stupid Course about Compilers taken @BINUS
 	- [ ] 2
 	- [ ] 1
 - [ ] RZ
-- [ ] RESPONSI REG
+- [x] RESPONSI REG
 - [x] RESPONSI GC
 - [ ] PRACTICE QUESTIONS CLASS
 	- [ ] QUIZ
+		- [ ] IVAN
+			- [ ] RE DFA
+			- [ ] RE EFNA DFA
+			- [ ] CFD
+			- [ ] TOP DOWN
+		- [ ] SAM
+			- [ ] RE DFA
+			- [x] RE EFNA DFA
+			- [ ] CFD
+			- [ ] TOP DOWN
+		- [ ] KENNY
+			- [ ] TOP DOWN
+			- [ ] RE DFA
+			- [x] RE ENFA DFA
+			- [ ] CFG
 	- [ ] ASSIGNMENTS
 
 
@@ -24,18 +39,23 @@ excerpt: Stupid Course about Compilers taken @BINUS
 15.30 Shower and Leave
 15 Exam
 
-- [ ] Accept housin offer
 - [ ] Pick up transcript
 - [ ] comvis exam
 
-![[cfg.png|200]]
-
 ## [[RE to DFA]]
+
+### Example [[Kenny Jingga CT UTS Quiz
+
+![[kenny1.png]]
+### Example [[Ivan Sebastian CT UTS Quiz]]
+
+![[ivan1.png | 500]]
+
 ## [[RE to E-NFA to DFA]]
 ## [[Context Free Grammar]]
 ## [[Top down parsing]]
 
-### Example 1 [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  
+### Example [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  
 1. _E_ -> *TE'*
 2. E' -> *+TE'* | ε
 3. *T* -> *FT'*
@@ -101,7 +121,7 @@ E ( =`(we started from this and later found ()`
 | $E'         | $          | E' -> ε      |
 | ~~$~~       | ~~$~~      | accept       |
 
-### Example 2 [[Kenny Jingga CT UTS Quiz]]
+### Example [[Kenny Jingga CT UTS Quiz]]
 P -> S P | ε  
 S -> A | C | E  
 A -> sigma = E ;  
@@ -255,9 +275,9 @@ F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )
 
 i gave up lol
 
-### Example 3 [[Ivan Sebastian CT UTS Quiz]]
+### Example [[Ivan Sebastian CT UTS Quiz]]
 
 ends up getting rejected
-### Example 4 [[Sam Philip CT UTS Quiz]]
+### Example [[Sam Philip CT UTS Quiz]]
 
-### Example 5 Class Session 12 Exercise
+### Example Class Session 12 Exercise
