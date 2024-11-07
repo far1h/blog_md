@@ -36,7 +36,7 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 1. [[First]] E = \(, id `(this is from E -> T -> F)`
 2. [[First]] E' =  +, ε
 3. [[First]] T = (, id
-4. [[First]] T' = \*, $\varepsilon$
+4. [[First]] T' = \*, ε
 5. [[First]] F = (, id
 
 ### [[Follow]] Values:
@@ -44,20 +44,20 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 1. [[Follow]] E = $, ) `() comes after E in F)`  
 2. [[Follow]] E' = $, )  
    *E* -> *T**E'***  
-   *A* -> $\alpha$ *B*  
+   *A* -> α *B*  
 3. [[Follow]] T = +, $, ) 
-   > use algorithm 2 and 3b because there is an $\varepsilon$  
+   > use algorithm 2 and 3b because there is an ε  
 
    _E_ -> *TE'*  
-   *A* -> $\alpha$ *B*  `(T is at position $\alpha$ so can't use this grammar)`  
-   E' -> *+TE'* `(we dont write $\varepsilon$ because it doesn't contain T)`  
-   *A* -> $\alpha$*B*$\beta$  
+   *A* -> α *B*  `(T is at position α so can't use this grammar)`  
+   E' -> *+TE'* `(we dont write ε because it doesn't contain T)`  
+   *A* -> α*B*β  
 4. [[Follow]] T' =   +, $, ) 
    *T* -> *FT'*  
-   *A* -> $\alpha$ *B*  
+   *A* -> α *B*  
 5. [[Follow]] F = \*, +, $, )  
    *T'* -> *\*FT'*  
-   *A* -> $\alpha$*B*$\beta$   
+   *A* -> α*B*β   
 
 ### Parsing Table
 > Rows: Variables  
@@ -65,17 +65,17 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 
 How to fill the table?  
 1. Look at the first of each variable, and fill where we got the first values  
-2. If there is an $\varepsilon$ at the first, then look at follow value of the variable and write the variable -> $\varepsilon$  for the follow values  
+2. If there is an ε at the first, then look at follow value of the variable and write the variable -> ε  for the follow values  
 
 > notice theres no `| (or)`   
 
-|     | id           | +                    | *               | (             | )                    | $                    |
-| --- | ------------ | -------------------- | --------------- | ------------- | -------------------- | -------------------- |
-| E   | _E_ -> *TE'* |                      |                 | _E_ -> *TE'*  |                      |                      |
-| E'  |              | E' -> *+TE'*         |                 |               | E' -> $\varepsilon$  | E' -> $\varepsilon$  |
-| T   | *T* -> *FT'* |                      |                 | *T* -> *FT'*  |                      |                      |
-| T'  |              | *T'* ->$\varepsilon$ | *T'* -> *\*FT'* |               | *T'* ->$\varepsilon$ | *T'* ->$\varepsilon$ |
-| F   | *F* -> *id*  |                      |                 | *F* -> *(E)*  |                      |                      |
+|     | id           | +            | *               | (            | )        | $         |
+| --- | ------------ | ------------ | --------------- | ------------ | -------- | --------- |
+| E   | _E_ -> *TE'* |              |                 | _E_ -> *TE'* |          |           |
+| E'  |              | E' -> *+TE'* |                 |              | E' -> ε  | E' -> ε   |
+| T   | *T* -> *FT'* |              |                 | *T* -> *FT'* |          |           |
+| T'  |              | *T'* ->ε     | *T'* -> *\*FT'* |              | *T'* ->ε | *T'* -> ε |
+| F   | *F* -> *id*  |              |                 | *F* -> *(E)* |          |           |
 
 Notes:  
 E id = `(we started from the this and later found id)`  
@@ -94,7 +94,7 @@ How to determine the output?
 Rules
 - Stack gets replaced by the production values or the thing that comes after the `->` but reverse it
 - If `stack == input` POP STACK AND INPUT
-- if there is $\varepsilon$ after -> POP STACK
+- if there is ε after -> POP STACK
 - if `stack == $` and `input == $` ACCEPT
 - if stack `≠` input REJECT
 
@@ -104,13 +104,13 @@ Rules
 | $E'T        | id+id$     | *T* -> *FT'*         |
 | $E'T'F      | id+id$     | *F* -> *id*          |
 | $E'T'~~id~~ | ~~id~~+id$ | pop id               |
-| $E'T        | +id$       | *T'* ->$\varepsilon$ |
+| $E'T        | +id$       | *T'* ->ε |
 | $E'         | +id$       | E' -> *+TE'*         |
 | $E'T~~+~~   | ~~+~~id$   | pop +                |
 | $E'T        | id$        | *T* -> *FT'*         |
 | $E'T'F      | id$        | *F* -> *id*          |
 | $E'T'~~id~~ | ~~id~~$    | pop Id               |
-| $E'T'       | $          | *T'* ->$\varepsilon$ |
-| $E'         | $          | E' -> $\varepsilon$  |
+| $E'T'       | $          | *T'* ->ε |
+| $E'         | $          | E' -> ε  |
 | ~~$~~       | ~~$~~      | accept               |
 
