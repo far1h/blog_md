@@ -187,13 +187,13 @@ T: `First(E')`, `Follow(E')`
 E' -> +TE' | -TE' | ε  
 *A* -> α*B*β `2nd and 3b rule`  
 
-T': `Follow(T)`
-==T': + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+T': `Follow(T)`  
+==T': + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==  
 T -> FT'  
 *A* -> α*B* `3a rule`  
 
-F: `First(T')`, `Follow(T')`
-==F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+F: `First(T')`, `Follow(T')`  
+==F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==  
 T' -> \*FT' | /FT' | ε  
 *A* -> α*B*β `2nd and 3b rule`  
 
@@ -208,7 +208,7 @@ T -> FT'
 T' -> \*FT' | /FT' | ε  
 F -> (E) | sigma | mewing | rizz  
 
-[[First]]:
+[[First]]:  
 P: sigma,  if , ( , mewing, rizz,  ε  
 S: sigma,  if , ( , mewing, rizz    
 A: sigma  
@@ -219,16 +219,16 @@ T: ( , sigma, mewing, rizz
 T': \*, / , ε  
 F: ( , sigma, mewing, rizz  
 
-[[Follow]]: 
-==P: $==
-==S: sigma,  if , ( , mewing, rizz,  $, }==  
-==A: sigma,  if , ( , mewing, rizz,  $, }==  
-==C:  sigma,  if , ( , mewing, rizz,  $, }==
-==E:   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
-==E':   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
-==T: + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
-==T': + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
-==F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+[[Follow]]:   
+P: $  
+S: sigma,  if , ( , mewing, rizz,  $, }    
+A: sigma,  if , ( , mewing, rizz,  $, }  
+C:  sigma,  if , ( , mewing, rizz,  $, }  
+E:   sigma,  if , ( , mewing, rizz,  $, }, ;, )  
+E':   sigma,  if , ( , mewing, rizz,  $, }, ;, )  
+T: + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )  
+T': + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )  
+F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )  
 
 |     | *   | /   | +   | -   | sigma | if  | (   | )   | mewing | rizz | $   | }   | ;   |
 | --- | --- | --- | --- | --- | ----- | --- | --- | --- | ------ | ---- | --- | --- | --- |
