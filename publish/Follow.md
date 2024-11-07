@@ -6,6 +6,7 @@ A + b = +
 ADE = ...
 
 ## Algorithm
+get the terminal after the variable
 1. If *S* is the start symbol, 
    ex: *S* -> *Ab* | *c*, then $ is the Follow value of *S*
 2. If *A* -> $\alpha$*B*$\beta$, then all **First of $\beta$** is the <u>Follow of *B*</u> except $\varepsilon$

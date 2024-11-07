@@ -4,6 +4,10 @@ excerpt: Stupid Course about Compilers taken @BINUS
 ---
 - [ ] ALVINA AULIA
 - [ ] AS
+	- [ ] 5
+	- [ ] 4
+	- [ ] 2
+	- [ ] 1
 - [ ] RAZ
 - [ ] RESPONSI REG
 - [x] RESPONSI GC
@@ -24,20 +28,20 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
 5. search through the parsing  
 #### Example: 
 1. _E_ -> *TE'*
-2. E' -> *+TE'* | $\varepsilon$
+2. E' -> *+TE'* | ε
 3. *T* -> *FT'*
-4. *T'* -> *\*FT'* | $\varepsilon$
+4. *T'* -> *\*FT'* | ε
 5. *F* -> *(E)* | *id*
 ### [[First]] Values:
 1. [[First]] E = \(, id `(this is from E -> T -> F)`
-2. [[First]] E' =  +, $\varepsilon$
+2. [[First]] E' =  +, ε
 3. [[First]] T = (, id
 4. [[First]] T' = \*, $\varepsilon$
 5. [[First]] F = (, id
 
 ### [[Follow]] Values:
 
-1. [[Follow]] E = $, )  
+1. [[Follow]] E = $, ) `() comes after E in F)`  
 2. [[Follow]] E' = $, )  
    *E* -> *T**E'***  
    *A* -> $\alpha$ *B*  
