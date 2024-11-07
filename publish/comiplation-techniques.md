@@ -16,17 +16,12 @@ excerpt: Stupid Course about Compilers taken @BINUS
 	- [ ] ASSIGNMENTS
 - [ ] pick up transcripts
 
-## top down parsing
-reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  
-
 ![[cfg.png|200]]
-##### rules
-1. no left recursive and left factoring
-2. find [[First]] values (as many grammars that we have)  
-3. find [[Follow]] value (as many grammars that we have)  
-4. make parsing table  
-5. search through the parsing  
-### Example 1: 
+
+
+## [[Top down parsing]]
+
+### Example 1 [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  : 
 1. _E_ -> *TE'*
 2. E' -> *+TE'* | ε
 3. *T* -> *FT'*
@@ -59,15 +54,7 @@ reference: [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMl
    *T'* -> *\*FT'*  
    *A* -> α*B*β   
 
-#### Parsing Table
-> Rows: Variables  
-> Columns: Terminals, and Values
-
-How to fill the table?  
-1. Look at the first of each variable, and fill where we got the first values  
-2. If there is an ε at the first, then look at follow value of the variable and write the variable -> ε  for the follow values  
-
-> notice theres no `| (or)`   
+#### [[Parsing Table]]  
 
 |     | id           | +            | *               | (            | )        | $         |
 | --- | ------------ | ------------ | --------------- | ------------ | -------- | --------- |
@@ -82,21 +69,7 @@ E id = `(we started from the this and later found id)`
 E' + = `(we got this from it's own production values)`  
 E ( =`(we started from this and later found ()`  
 
-   #### Parsing Search
-
-> The first stack is the start symbol and add $ before it
-
-> Input will be given
-
-How to determine the output?
-- By comparing the right most of the stack and the left most of the input 
-
-##### rules
-- Stack gets replaced by the production values or the thing that comes after the `->` but reverse it
-- If `stack == input` POP STACK AND INPUT
-- if there is ε after -> POP STACK
-- if `stack == $` and `input == $` ACCEPT
-- if stack `≠` input REJECT
+   #### [[Parsing Search]]
 
 | stack       | input      | output       |
 | ----------- | ---------- | ------------ |
