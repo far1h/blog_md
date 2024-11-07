@@ -1,6 +1,4 @@
 ![[kennard1.png]]
 ![[kennard2.png]]![[kenzi1.png]]
-![[kennard2.png]]![[kenzi1.2.png]]
-![[kennard2.png]]![[kenzi3.png]]
-![[kennard2.png]]![[kenzi4.png]]
-![[kennard2.png]]![[kenzi4.png]]
+![[kenzi1.2.png]]![[kenzi3.png]]
+![[kenzi4.png]]
