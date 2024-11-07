@@ -182,9 +182,9 @@ E': `Follow(E)`
 E -> TE'  
 *A* -> α*B* `3a rule`  
 
-T: RI4WT
+T: `First(E')`,
 E' -> +TE' | -TE' | ε  
-A* -> α*B*β `2nd and 3b rule`  x
+A* -> α*B*β `2nd and 3b rule`  
 T':
 F: 
 
