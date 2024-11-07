@@ -197,6 +197,10 @@ T' -> \*FT' | /FT' | ε
 *A* -> α*B*β `2nd and 3b rule`  
 
 
+|     |     |
+| --- | --- |
+|     |     |
+
 
 Example 3 Ivan Sebastian CT UTS Quiz
 
