@@ -255,7 +255,7 @@ F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )
 
 i gave up lol
 
-### Example[[ 3 Ivan Sebastian CT UTS Quiz]]
+### Example 3 [[Ivan Sebastian CT UTS Quiz]]
 
 ends up getting rejected
 ### Example 4 [[Sam Philip CT UTS Quiz]]
