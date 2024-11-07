@@ -157,33 +157,33 @@ F -> (E) | sigma | mewing | rizz
 ==P: $== `because of start symbol`  
 > nothing else in the grammars have terminal that follows P   
 
-S: `First(P)`, `Follow(P)`, }  `from C grammar {S}`
+S: `First(P)`, `Follow(P)`, }  `from C grammar {S}`  
 ==S: sigma,  if , ( , mewing, rizz,  $, }==  
 P -> S P | ε   
 *A* -> α*B*β | ε  `2nd and 3b rule`  
 
-A: `Follow(S)`
+A: `Follow(S)`  
 ==A: sigma,  if , ( , mewing, rizz,  $, }==  
 S -> A | C | E  
 *A* -> α*B* `3a rule`  
 
-C: `Follow(S)`
-==C:  sigma,  if , ( , mewing, rizz,  $, }==
+C: `Follow(S)`  
+==C:  sigma,  if , ( , mewing, rizz,  $, }==  
 S -> A | C | E  
 *A* -> α*B* `3a rule`  
 
-E: `Follow(S)`, ; `from A grammar`, ) `from C & F grammar`
-==E:   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+E: `Follow(S)`, ; `from A grammar`, ) `from C & F grammar`  
+==E:   sigma,  if , ( , mewing, rizz,  $, }, ;, )==  
 S -> A | C | E  
 *A* -> α*B* `3a rule`  
 
-E': `Follow(E)`
-==E':   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+E': `Follow(E)`  
+==E':   sigma,  if , ( , mewing, rizz,  $, }, ;, )==  
 E -> TE'  
 *A* -> α*B* `3a rule`  
 
-T: `First(E')`, `Follow(E')`
-==T: + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+T: `First(E')`, `Follow(E')`  
+==T: + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==  
 E' -> +TE' | -TE' | ε  
 *A* -> α*B*β `2nd and 3b rule`  
 
@@ -228,6 +228,7 @@ F: ( , sigma, mewing, rizz
 ==E':   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
 ==T: + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
 ==T': + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+==F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
 
 |     | *   | /   | +   | -   | sigma | if  | (   | )   | mewing | rizz | $   | }   | ;   |
 | --- | --- | --- | --- | --- | ----- | --- | --- | --- | ------ | ---- | --- | --- | --- |
