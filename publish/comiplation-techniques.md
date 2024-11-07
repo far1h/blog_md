@@ -21,9 +21,9 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 ![[cfg.png|200]]
 
-RE to DFA
+## [[RE to DFA]]
 
-RE
+## [[RE to E-NFA to DFA]]
 ## [[Context Free Grammar]]
 ## [[Top down parsing]]
 
