@@ -191,6 +191,7 @@ T': `Follow(T)`
 T -> FT'  
 *A* -> α*B* `3a rule`  
 
+F: `First(T')`, `Follow(T')`
 F: 
 T' -> \*FT' | /FT' | ε  
 *A* -> α*B*β `2nd and 3b rule`  
