@@ -173,11 +173,14 @@ S -> A | C | E
 *A* -> α*B* `3a rule`  
 
 E: `Follow(S)`, ; `from A grammar`, ) `from C & F grammar`
-==E"   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+==E:   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
 S -> A | C | E  
 *A* -> α*B* `3a rule`  
 
-E':
+E': `Follow(E)`
+==E':   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+E -> TE'  
+*A* -> α*B* `3a rule`  
 
 T: 
 T':
