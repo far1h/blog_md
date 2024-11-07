@@ -11,6 +11,6 @@ character after the first character in the **terminal values**
 > You can use this algorithm or a cheat method by looking at the result of the production, and find the terminal value after the terminal 
 ## Cheat
 Ex: 
-<u>A</u>bc = b 
-A + b = +
-ADE = ...
+<u>A</u>bc = b   
+A + b = +  
+ADE = ...  
