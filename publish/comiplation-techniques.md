@@ -219,6 +219,15 @@ T: ( , sigma, mewing, rizz
 T': \*, / , ε  
 F: ( , sigma, mewing, rizz  
 
+[[Follow]]: 
+==P: $==
+==S: sigma,  if , ( , mewing, rizz,  $, }==  
+==A: sigma,  if , ( , mewing, rizz,  $, }==  
+==C:  sigma,  if , ( , mewing, rizz,  $, }==
+==E:   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+==E':   sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+==T: + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+==T': + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
 
 |     | *   | /   | +   | -   | sigma | if  | (   | )   | mewing | rizz | $   | }   | ;   |
 | --- | --- | --- | --- | --- | ----- | --- | --- | --- | ------ | ---- | --- | --- | --- |
