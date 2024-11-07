@@ -157,7 +157,8 @@ P: $ `because of start symbol`
 > nothing else in the grammars have terminal that follows P   
 
 S: follow(P), }
-> The example shows we are using the first of P but based on the [[Follow]] algorithm
+P -> S P | ε  
+A -> 
 A: 
 C: 
 E: 
