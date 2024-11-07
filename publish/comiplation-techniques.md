@@ -182,7 +182,7 @@ E -> TE'
 *A* -> α*B* `3a rule`  
 
 T: `First(E')`, `Follow(E')`
-T: 
+==T: + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
 E' -> +TE' | -TE' | ε  
 A* -> α*B*β `2nd and 3b rule`  
 
