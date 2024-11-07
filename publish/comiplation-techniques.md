@@ -153,7 +153,9 @@ T -> FT'
 T' -> \*FT' | /FT' | ε  
 F -> (E) | sigma | mewing | rizz  
 
-P: 
+P: $ `because of start symbol`  
+> nothing else in the grammars have terminal that follows P   
+
 S: 
 A: 
 C: 
