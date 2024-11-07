@@ -161,7 +161,7 @@ S: sigma,  if , ( , mewing, rizz,  Follow(P), }
 S: sigma,  if , ( , mewing, rizz,  $, }  
 P -> S P | ε   
 *A* -> α*B*β | ε  `2nd and 3b rule`  
-A: 
+A: sigma,  if , ( , mewing, rizz,  $, }   `3a rule`
 C: 
 E: 
 E':
