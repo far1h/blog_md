@@ -15,10 +15,13 @@ excerpt: Stupid Course about Compilers taken @BINUS
 	- [ ] QUIZ
 	- [ ] ASSIGNMENTS
 - [ ] pick up transcripts
+- [ ] Accept housin offer
+- [ ] Pick up transcript
+- [ ] comvis exam
 
 ![[cfg.png|200]]
 
-
+[[Context Free Grammar]]
 ## [[Top down parsing]]
 
 ### Example 1 [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  : 
@@ -66,7 +69,6 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 Notes:  
 E id = `(we started from the this and later found id)`  
-
 E' + = `(we got this from it's own production values)`  
 E ( =`(we started from this and later found ()`  
 
@@ -89,6 +91,56 @@ E ( =`(we started from this and later found ()`
 | ~~$~~       | ~~$~~      | accept       |
 
 ### Example 2 [[Kenny Jingga CT UTS Quiz]]:
+P -> S P | ε  
+S -> A | C | E  
+A -> sigma = E ;  
+C -> if (E) (S) else (S)  
+E -> E + T | E - T | T  
+T -> T * F | T / F | F  
+F -> (E) | sigma | mewing | rizz  
+
+> check for [[left factoring]] and [[left recursive]] needed  
+
+#### [[Left Factoring]]:
+E -> E + T | E - T | T  
+**E -> EX | T**  
+**X -> +T|-T**  
+
+T -> T * F | T / F | F  
+**T -> TY | F**  
+**Y -> \*F | / F**  
+
+#### [[Left Recursive]]:
+E -> EX | T  
+**E -> TE'**  
+E' -> XE' | ε  
+**E' -> +TE' | -TE' | ε**  
+
+T -> TY | F  
+**T -> FT'**  
+T' -> YT' | ε  
+**T' -> \*FT' | /FT' | ε**  
+
+#### [[First]] Values: 
+P -> S P | ε  
+S -> A | C | E  
+A -> sigma = E ;  
+C -> if (E) (S) else (S)  
+E -> TE'  
+E' -> +TE' | -TE' | ε  
+T -> FT'  
+T' -> \*FT' | /FT' | ε  
+F -> (E) | sigma | mewing | rizz  
+
+P
+S
+A
+C
+E
+E'
+T
+T'
+F
 
 Example 3 Ivan Sebastian CT UTS Quiz
 
