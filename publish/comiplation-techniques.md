@@ -196,10 +196,28 @@ F: `First(T')`, `Follow(T')`
 T' -> \*FT' | /FT' | ε  
 *A* -> α*B*β `2nd and 3b rule`  
 
+#### [[Parsing Table]]  
+P -> S P | ε  
+S -> A | C | E  
+A -> sigma = E ;  
+C -> if (E) {S} else {S}  
+E -> TE'  
+E' -> +TE' | -TE' | ε  
+T -> FT'  
+T' -> \*FT' | /FT' | ε  
+F -> (E) | sigma | mewing | rizz  
 
-|     |     |
-| --- | --- |
-|     |     |
+|     | *   |     |
+| --- | --- | --- |
+| P   |     |     |
+| S   |     |     |
+| A   |     |     |
+| C   |     |     |
+| E   |     |     |
+| E'  |     |     |
+| T   |     |     |
+| T'  |     |     |
+| F   |     |     |
 
 
 Example 3 Ivan Sebastian CT UTS Quiz
