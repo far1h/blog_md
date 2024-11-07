@@ -184,6 +184,7 @@ E -> TE'
 
 T: 
 E' -> +TE' | -TE' | ε  
+`2nd and 3b rule`  
 A
 T':
 F: 
