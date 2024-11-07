@@ -102,7 +102,7 @@ E -> E + T | E - T | T
 T -> T * F | T / F | F  
 F -> (E) | sigma | mewing | rizz  
 
-> check for [[Left Factoring]] and [[left recursive]] needed  
+> check for [[Left Factoring]] and [[Left Recursive]] needed  
 
 #### [[Left Factoring]]:
 E -> E + T | E - T | T  

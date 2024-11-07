@@ -9,13 +9,13 @@ Welcome, and thank you for viewing my portfolio! Below are some of the projects 
 
 ## [[TimePossible]]
 
-[![[health-calendar.png|500]]](<TimePossible>)
+[![[health-calendar.png|500]]](<TimePossible.md>)
 
 ## [[TerraWander]]
 
-[![[terrawander-1.png|500]]](<TerraWander>)
+[![[terrawander-1.png|500]]](<TerraWander.md>)
 
-[![[terrawander-2.png|500]]](<TerraWander>)
+[![[terrawander-2.png|500]]](<TerraWander.md>)
 
 ## [[IndoWilderness]]
 
