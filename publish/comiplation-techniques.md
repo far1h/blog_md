@@ -133,7 +133,7 @@ T' -> \*FT' | /FT' | ε
 F -> (E) | sigma | mewing | rizz  
 
 P: sigma `from S -> A`,  if `from S -> C` , ( , mewing, rizz `these from S -> E`,  ε  
-S: sigma `from S -> A`,  if `from S -> C` , ( , mewing, rizz `these from S -> E`  
+S: sigma,  if , ( , mewing, rizz    
 A: sigma  
 C: if  
 E: ( , sigma, mewing, rizz  
@@ -153,12 +153,12 @@ T -> FT'
 T' -> \*FT' | /FT' | ε  
 F -> (E) | sigma | mewing | rizz  
 
-P: $ `because of start symbol`  
+==P: $== `because of start symbol`  
 > nothing else in the grammars have terminal that follows P   
 
 S: `First(P)`, }  `from C grammar {S}`
 S: sigma,  if , ( , mewing, rizz,  `Follow(P)`, }  
-S: sigma,  if , ( , mewing, rizz,  $, }  
+==S: sigma,  if , ( , mewing, rizz,  $, }==  
 P -> S P | ε   
 *A* -> α*B*β | ε  `2nd and 3b rule`  
 
