@@ -187,14 +187,15 @@ E' -> +TE' | -TE' | ε
 *A* -> α*B*β `2nd and 3b rule`  
 
 T': `Follow(T)`
-==T' + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
+==T': + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
 T -> FT'  
 *A* -> α*B* `3a rule`  
 
 F: `First(T')`, `Follow(T')`
-F: \*, / | 
+==F: \*, / , + , - ,  sigma,  if , ( , mewing, rizz,  $, }, ;, )==
 T' -> \*FT' | /FT' | ε  
 *A* -> α*B*β `2nd and 3b rule`  
+
 
 
 Example 3 Ivan Sebastian CT UTS Quiz
