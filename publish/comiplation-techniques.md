@@ -156,9 +156,9 @@ F -> (E) | sigma | mewing | rizz
 P: $ `because of start symbol`  
 > nothing else in the grammars have terminal that follows P   
 
-S: follow(P), }
+S: 
 P -> S P | ε  
-A -> 
+*A* -> α*B*β | ε  `2nd and 3b rule`
 A: 
 C: 
 E: 
