@@ -9,24 +9,24 @@ Welcome, and thank you for viewing my portfolio! Below are some of the projects 
 
 ## [[TimePossible]]
 
-[![[health-calendar.png|500]]](<publish/portfolio/TimePossible.md>)
+[![[health-calendar.png|500]]](<publish/portfolio/TimePossible>)
 
 ## [[TerraWander]]
 
-[![[terrawander-1.png|500]]](<TerraWander.md>)
+[![[terrawander-1.png|500]]](<publish/portfolio/TerraWander>)
 
-[![[terrawander-2.png|500]]](<TerraWander.md>)
+[![[terrawander-2.png|500]]](<publish/portfolio/TerraWander>)
 
 ## [[IndoWilderness]]
 
-[![[animalsID.png|500]]](<publish/portfolio/IndoWilderness.md>)
+[![[animalsID.png|500]]](<publish/portfolio/IndoWilderness>)
 
 ## [[CICDiOS]]
 
-[![[ci-cd.png|500]]](<publish/portfolio/CICDiOS.md>)
+[![[ci-cd.png|500]]](<publish/portfolio/CICDiOS>)
 
 ## [[CatchThePikachu]]
 
-[![[pikachu.png|500]]](<publish/portfolio/CatchThePikachu.md>)
+[![[pikachu.png|500]]](<publish/portfolio/CatchThePikachu>)
 
 Thank you for exploring my portfolio. Feel free to connect or explore more of my work on GitHub!
