@@ -29,16 +29,6 @@ excerpt: Stupid Course about Compilers taken @BINUS
 			- [x] RE ENFA DFA
 			- [x] CFG
 	- [ ] ASSIGNMENTS
-
-
-10 [[RE to DFA]]  
-11 [[RE to E-NFA to DFA]]  
-12 [[Context Free Grammar]]  
-13 [[Top down parsing]]
-14 rest
-15.30 Shower and Leave
-15 Exam
-
 - [ ] Pick up transcript
 - [ ] comvis exam
 
