@@ -245,6 +245,7 @@ i gave up lol
 
 ### Example 3 Ivan Sebastian CT UTS Quiz
 
-Example 4 Sam Philip CT UTS Quiz
+ends up getting rejected
+### Example 4 Sam Philip CT UTS Quiz
 
-Example 5 Class Session 12 Exercise
+### Example 5 Class Session 12 Exercise
