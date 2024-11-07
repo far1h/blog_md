@@ -8,7 +8,7 @@ excerpt: Stupid Course about Compilers taken @BINUS
 	- [ ] 4
 	- [ ] 2
 	- [ ] 1
-- [ ] RAZ
+- [ ] RZ
 - [ ] RESPONSI REG
 - [x] RESPONSI GC
 - [ ] PRACTICE QUESTIONS CLASS
@@ -16,11 +16,11 @@ excerpt: Stupid Course about Compilers taken @BINUS
 	- [ ] ASSIGNMENTS
 
 
-10
-11
-12
-13
-14
+10 [[RE to DFA]]
+11 [[RE to E-NFA to DFA]]
+12 [[Context Free Grammar]]
+13 [[Top down parsing]]
+14 rest
 15.30 Shower and Leave
 15 Exam
 
