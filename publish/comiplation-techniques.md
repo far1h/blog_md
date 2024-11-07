@@ -156,8 +156,7 @@ F -> (E) | sigma | mewing | rizz
 ==P: $== `because of start symbol`  
 > nothing else in the grammars have terminal that follows P   
 
-S: `First(P)`, }  `from C grammar {S}`
-S: sigma,  if , ( , mewing, rizz,  `Follow(P)`, }  
+S: `First(P)`, `Follow(P)`, }  `from C grammar {S}`
 ==S: sigma,  if , ( , mewing, rizz,  $, }==  
 P -> S P | ε   
 *A* -> α*B*β | ε  `2nd and 3b rule`  
@@ -186,6 +185,7 @@ T: `First(E')`, `Follow(E')`
 T: 
 E' -> +TE' | -TE' | ε  
 A* -> α*B*β `2nd and 3b rule`  
+
 T':
 F: 
 
