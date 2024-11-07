@@ -156,7 +156,8 @@ F -> (E) | sigma | mewing | rizz
 P: $ `because of start symbol`  
 > nothing else in the grammars have terminal that follows P   
 
-S: 
+S: First(P), }
+S: sigma `from S -> A`,  if `from S -> C` , ( , mewing, rizz `these from S -> E`,  ε  
 P -> S P | ε  
 *A* -> α*B*β | ε  `2nd and 3b rule`
 A: 
