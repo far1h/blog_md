@@ -1,3 +1,10 @@
-S -> aa | ab
-S -> aX
-X -> a | b
+S -> aa | ab  
+> S -> aX  
+> X -> a | b  
+
+C -> Dab | Dac | D | f  
+> C -> DC' | f  
+
+C' -> ab | ac | ε  
+> C' -> aC'' | ε    
+> C'' -> b | c  

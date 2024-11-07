@@ -16,9 +16,9 @@ excerpt: Stupid Course about Compilers taken @BINUS
 	- [ ] ASSIGNMENTS
 
 
-10 [[RE to DFA]]
-11 [[RE to E-NFA to DFA]]
-12 [[Context Free Grammar]]
+10 [[RE to DFA]]  
+11 [[RE to E-NFA to DFA]]  
+12 [[Context Free Grammar]]  
 13 [[Top down parsing]]
 14 rest
 15.30 Shower and Leave
