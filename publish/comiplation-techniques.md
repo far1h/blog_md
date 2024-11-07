@@ -94,7 +94,7 @@ E ( =`(we started from this and later found ()`
 P -> S P | ε  
 S -> A | C | E  
 A -> sigma = E ;  
-C -> if (E) (S) else (S)  
+C -> if (E) {S} else {S}  
 E -> E + T | E - T | T  
 T -> T * F | T / F | F  
 F -> (E) | sigma | mewing | rizz  
@@ -125,7 +125,7 @@ T' -> YT' | ε
 P -> S P | ε  
 S -> A | C | E  
 A -> sigma = E ;  
-C -> if (E) (S) else (S)  
+C -> if (E) {S} else {S}  
 E -> TE'  
 E' -> +TE' | -TE' | ε  
 T -> FT'  
@@ -146,7 +146,7 @@ F: ( , sigma, mewing, rizz
 P -> S P | ε  
 S -> A | C | E  
 A -> sigma = E ;  
-C -> if (E) (S) else (S)  
+C -> if (E) {S} else {S}  
 E -> TE'  
 E' -> +TE' | -TE' | ε  
 T -> FT'  
@@ -156,7 +156,7 @@ F -> (E) | sigma | mewing | rizz
 P: $ `because of start symbol`  
 > nothing else in the grammars have terminal that follows P   
 
-S: ),
+S: 
 A: 
 C: 
 E: 
