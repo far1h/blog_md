@@ -89,3 +89,9 @@ E ( =`(we started from this and later found ()`
 | ~~$~~       | ~~$~~      | accept       |
 
 ### Example 2 [[Kenny Jingga CT UTS Quiz]]:
+
+Example 3 Ivan Sebastian CT UTS Quiz
+
+Example 4 Sam Philip CT UTS Quiz
+
+Example 5 Class Session 12 Exercise
