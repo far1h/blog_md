@@ -3,12 +3,11 @@ title: Data Mining
 ---
 - [ ] [[data-mining-uts-quiz]]
 
-[kdd| knowdledge discovery in databases]
+[[kdd| knowdledge discovery in databases]]
 
 [[data-warehousing]]
 
-
-star 
+[[schema]]
 ![[dm-1.png|400]]  
 ![[dm-2.png|400]]  
 ![[dm-3.png|400]]  
