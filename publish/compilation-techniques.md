@@ -1,5 +1,5 @@
 ---
-title: Compilation Techniques
+title: Compilation Techniques Notes
 excerpt: Stupid Course about Compilers taken @BINUS
 ---
 - [x] ALVINA AULIA
