@@ -5,7 +5,7 @@ excerpt: Welcome to my home page
 <!--[[uts-os|my uts OS notes]] -->
 
 
-[[university notes]] | [[my_portfolio|portfolio]] | [[resume]] | [[stories]]  
+[[university notes]] | [[my_portfolio|portfolio]] | [[resume]] | [[stories]] | [[reading-notes|reading notes]]
 <!-- 
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
 - Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
