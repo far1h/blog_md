@@ -1,7 +1,7 @@
 ---
 title: Data Mining
 ---
-- [ ] [[data-mining-uts-quiz]]
+- [x] [[data-mining-uts-quiz]]
 
 [[kdd| knowdledge discovery in databases]]
 
