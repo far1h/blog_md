@@ -1,10 +1,10 @@
-![[quiz1-2.png|400]]
+![[quiz1-2.png|300]]
 
 ```
 2. Operational databases are the perfect example for OLTP (Online Transaction Processing) and data warehouses are for OLAP (Online Analytical Processing). This means that while operational databases handles day-to-day operations and are optimized for frequent updates, data warehouses are only limited to the storing large amounts of historical data, are optimized for complex queries, and are used for analysis instead of updates. The data warehouses will store the day-to-day updating data collected from the operational databases, and then proceeds on analyzing for patterns.
 ```
 
-![[quiz3.png|400|400]]
+![[quiz3.png|300]]
 
 ```
 
@@ -14,7 +14,7 @@
 approval range
 ```
 
-![[quiz4.png|400|400]]
+![[quiz4.png|300]]
 
 ```
 4a.
@@ -32,7 +32,7 @@ else
 	replace with ML predicted values
 ```
 
-![[quiz5.png|400|400]]
+![[quiz5.png|300]]
 
 ```
 5a. 
