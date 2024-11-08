@@ -43,9 +43,9 @@ title: Data Mining
 ### Step 4: Make Table 
 
 
-| Ending with | Paths | Count of each item in path | Candidate itemset with count of each w. r. t. transaction table | Frequent itemset |
-| ----------- | ----- | -------------------------- | --------------------------------------------------------------- | ---------------- |
-|             |       |                            |                                                                 |                  |
+| Ending with | Paths | Count of each item in path | Candidate itemset with count | Frequent itemset |
+| ----------- | ----- | -------------------------- | ---------------------------- | ---------------- |
+|             |       |                            |                              |                  |
   
 
 #### Examples:
