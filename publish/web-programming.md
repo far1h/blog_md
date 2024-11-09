@@ -18,6 +18,8 @@ DB_PASSWORD= // empty by default by XAMPP
 
 ### Create Tables
 
+##### Migration
+
 1. Run the code below to generate migration files
 
 > migration files are used to design the database schema
@@ -59,6 +61,8 @@ public function up(): void{
 3. After creating and modifying all migration files run `php artisan migrate` and your tables will be created
    ![[phpTables1.png]]
    ![[phpTables2.png]]
+
+##### Seeder
 
 4. Make seeder for each model using`php artisan make:seeder [Class_Name (UpperCase)]Seeder` 
 
@@ -112,6 +116,8 @@ public function run(): void{
 	]);
 }
 ```
+
+##### Model
 
 7. Create models for each table using `php artisan make:model [Name (Uppercase)]` and it will be located at `app\Models`
 
@@ -311,3 +317,7 @@ class TransactionController extends Controller{
 @endsection 
 
 ```
+
+Check out my Github repo for example implementation: https://github.com/far1h/utsProject
+
+> Check commits for step by step process
