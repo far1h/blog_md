@@ -8,6 +8,10 @@ Mid Exam Materials
 ![[webutsnotes.jpg]]
 # Initialization
 
+```shell
+composer create-project laravel/laravel newProject
+```
+
 > not necessary since no wifi and project might be already given
 # Database
 ### Setup Database
