@@ -162,4 +162,7 @@ Available relationship functions:
 
 # Frontend
 ### Setup Routes
+1. Create controller using `php artisan make:controller [Class_name]Controller`
+2. Add function to go to query and pass to view
+
 
