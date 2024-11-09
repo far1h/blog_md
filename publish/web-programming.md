@@ -268,7 +268,7 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 ```
 11. Previously we tried simulate the one to many relationship and below is the example for many to many relationship
 
-> Pagination: use `simplePaginate()` instead of `all()` and in the `links()` at the bottom
+> Pagination: use `simplePaginate()` instead of `all()` and add `links()` at the bottom
 
 ```php
 class TransactionController extends Controller{
