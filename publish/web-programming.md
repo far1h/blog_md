@@ -20,9 +20,9 @@ DB_PASSWORD= // empty by default by XAMPP
 
 ##### Migration
 
-1. Run the code below to generate migration files
-
 > migration files are used to design the database schema
+
+1. Run the code below to generate migration files
 
 ```php
 php artisan make:migration create_[class_name]_table --create=[class_name]
@@ -64,9 +64,9 @@ public function up(): void{
 
 ##### Seeder
 
-4. Make seeder for each model using`php artisan make:seeder [Class_Name (UpperCase)]Seeder` 
-
 > seeder files are used to populate the table
+
+4. Make seeder for each model using`php artisan make:seeder [Class_Name (UpperCase)]Seeder` 
 
 5. Fill `run()` function for class seeder
 
@@ -119,11 +119,12 @@ public function run(): void{
 
 ##### Model
 
-7. Create models for each table using `php artisan make:model [Name (Uppercase)]` and it will be located at `app\Models`
-
 > model files are used to define the relationships between tables
 
-8. Define relationships by adding the relationship class as a function to each models 
+
+1. Create models for each table using `php artisan make:model [Name (Uppercase)]` and it will be located at `app\Models`
+
+2. Define relationships by adding the relationship class as a function to each models 
 
 ```php
 public function [relationship_class](){ // inside a model
