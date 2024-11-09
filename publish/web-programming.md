@@ -4,6 +4,11 @@ excerpt: Yes we study Laravel @BINUS
 ---
 Mid Exam Materials
 ![[uts-kisi.jpg]]
+
+![[webutsnotes.jpg]]
+# Initialization
+
+> not necessary since no wifi and project might be already given
 # Database
 ### Setup Database
 
@@ -18,6 +23,7 @@ DB_USERNAME=root // credentials for XAMPP
 DB_PASSWORD= // empty by default by XAMPP
 ```
 
+> Open XAMPP and turn on Apache Web Server and MySQL Database
 ### Create Tables
 
 ##### Migration
