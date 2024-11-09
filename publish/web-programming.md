@@ -56,7 +56,7 @@ public function up(): void{
 }
 ```
 
-> what is `constrained()`? and `cascadeOnDelete()`?
+> what is [[constrained()]] and [[cascadeOnDelete()]]?
 
 3. After creating and modifying all migration files run `php artisan migrate` and your tables will be created
    ![[phpTables1.png]]
