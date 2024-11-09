@@ -73,6 +73,7 @@ public function up(): void{
 
 3. After creating and modifying all migration files run `php artisan migrate` and your tables will be created
    ![[phpTables1.png]]
+   
    ![[phpTables2.png]]
 
 ##### Seeder
