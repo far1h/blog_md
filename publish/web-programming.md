@@ -167,12 +167,8 @@ Available relationship functions:
 ```php
 class TransactionController extends Controller{
     public function category(){
-        $categories = Category::all();
+        $categories = Category::all(); // query all
         return view('category',compact('categories'));
-    }
-    public function customerTransaction(){
-        $customers = Customer::simplePaginate(5);
-        return view('customer',compact('customers'));
     }
 }
 ```
@@ -186,18 +182,43 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 ```php
 // example layouts\app.blade.php
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <title>Book Reviews</title>
-</head>
-
-<body>
-  @yield('content') // create a section for the content
-</body>
-
+	<html lang="en">
+	
+	<head>
+	  <meta charset="UTF-8">
+	  <title>Example</title> // create a section for the title
+	</head>
+	
+	<body>
+	  <h1>@yield('title')</h1>
+	  @yield('content') // create a section for the content
+	</body>
 </html>
+```
+
+```php
+// example of blade.php file that extends layouts\app.blade.php
+@extends('layouts.app')
+
+@section('title', 'The list of tasks') // one line use of section
+
+@section('content')
+    <nav>
+        <a href="{{ route('tasks.create') }}">Add Task</a>
+    </nav>
+    @forelse ($tasks as $task)
+        <div>
+            <a href="{{ route('tasks.show', ['task' => $task->id]) }}" @class(['line-through' => $task->completed])>{{ $task->title }}</a>
+        </div>
+    @empty
+        <div>There are no tasks!</div>
+    @endforelse
+    @if ($tasks->count())
+        <nav>
+            {{ $tasks->links() }}
+        </nav>
+    @endif
+@endsection // use end section if not one line
 
 ```
 
@@ -215,4 +236,78 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 	</title>
 	<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet" >
 </head>
+```
+10. Add code in view file linked to controller to show queried results
+```php
+@extends('layouts.app')
+
+@section('title', 'Product Category') // one line use of section
+
+@section('content')
+	<ul>
+		@forelse ($categories as $category) // for each category
+		   <li>{{$category->category}}</li>  // show category name
+		   <ul>
+				@forelse ($category->products as $product) 
+				// for each products in the category
+				<li>
+					{{$product->productname}} 
+					// show product name
+					<img src="{{asset($product->image)}}">
+					// show product image
+				</li>
+				@empty
+					<h4>No product found..</h4> // if category has no products
+				@endforelse
+		   </ul>
+		@empty
+			<h2>No category..</h2> // there are no categories
+		@endforelse
+	</ul>
+@endsection 
+```
+11. Previously we tried simulate the one to many relationship and below is the example for many to many relationship
+
+> Pagination: use `simplePaginate()` instead of `all()` and in the `links()` at the bottom
+
+```php
+class TransactionController extends Controller{
+    public function customerTransaction(){
+        $customers = Customer::simplePaginate(5); 
+        return view('customer',compact('customers'));
+    }
+}
+```
+
+```php
+@extends('layouts.app')
+
+@section('title', 'Customer Transaction') // one line use of section
+
+@section('content')
+	<ul>
+        @forelse ($customers as $customer)
+            <li>{{ $customer->name }} {{ $customer->email }}</li>
+        @empty
+            <h2>No customers..</h2>
+        @endforelse
+    </ul>
+    <h2>Transacation</h2>
+    <ul>
+        @forelse ($customers as $customer)
+            <li>{{ $customer->name }}</li>
+            <ul>
+                @forelse ($customer->products as $product)
+                    <li>{{ $product->productname }} {{ $product->price }}</li>
+                @empty
+                    <h4>No transaction..</h4>
+                @endforelse
+            </ul>
+        @empty
+            <h2>No customers..</h2>
+        @endforelse
+    </ul>
+    {{ $customers->links() }} // for pagination links
+@endsection 
+
 ```
