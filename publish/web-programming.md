@@ -2,7 +2,8 @@
 title: Web Programming (Laravel)
 excerpt: Yes we study Laravel @BINUS
 ---
-Mid Exam Materials
+##### Mid Exam Materials
+
 ![[uts-kisi.jpg]]
 
 ![[webutsnotes.jpg]]
