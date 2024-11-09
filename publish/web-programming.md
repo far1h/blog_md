@@ -34,7 +34,7 @@ php artisan make:migration create_[class_name]_table --create=[class_name]
 2. The file we will have to modify will look like this:
 
 ```php
-public function up(){
+public function up(){ 
 	Schema::create('[class_names]', function (Blueprint $table) {
 		$table->id();
 		$table->string('[column_name]'); // custom column
@@ -44,14 +44,14 @@ public function up(){
 	});
 }
 
-// example:
+// example: 2024_10_13_021928_create_reviews_table.php
 public function up(): void{
 	Schema::create('reviews', function (Blueprint $table) {
 		$table->id();
 		$table->text('review');
 		$table->unsignedTinyInteger('rating');
 		$table->timestamps();
-		$table->foreignId('book_id')->constrained()->cascadeOnDelete();
+		$table->foreignId('book_id')->[[constrained()]]->[[cascadeOnDelete()]];
 	});
 }
 ```
@@ -72,7 +72,8 @@ public function up(): void{
 
 Using Faker:
 ```php
-public function run(){ // custom seeder
+// example class seeder: CustomerSeeder.php
+public function run(){ 
 	$faker = Faker::create('id_ID');
 	for($i = 1;$i <= 10;$i++){
 		DB::table('customers')->insert([
@@ -86,6 +87,7 @@ public function run(){ // custom seeder
 
 Manually:
 ```php
+// example class seeder: ProductSeeder.php
 public function run(){
 	DB::table(table: 'products')->insert([
 		['productname' => 'Beng Beng',
@@ -110,6 +112,7 @@ public function run(){
 6. Fill `run()` function for database seeder
 
 ```php
+// DatabaseSeeder.php
 public function run(): void{
 	$this->call([
 		ProductSeeder::class,
@@ -127,11 +130,13 @@ public function run(): void{
 2. Define relationships by adding the relationship class as a function to each models 
 
 ```php
+// relationship_class() in a Model
 public function [relationship_class](){ // inside a model
 	return $this->belongsToMany([Relationship_class]::class); // 1:N
 	return $this->hasMany([Relationship_class]::class); // 1:N
 }
 
+// Category.php
 class Category extends Model{
     use HasFactory;
     public function products(){
@@ -139,6 +144,7 @@ class Category extends Model{
     }
 }
 
+// Product.php
 class Product extends Model{
     use HasFactory;
     public function category(){
@@ -149,6 +155,7 @@ class Product extends Model{
     }
 }
 
+// Customer.php
 class Customer extends Model{
     use HasFactory;
     public function products(){
@@ -171,6 +178,7 @@ Available relationship functions:
 ### Setup Routes
 1. Create controller using `php artisan make:controller [Class_name]Controller` and it will be located at `app\Http\Controllers`
 2. Add function in the controller to query and pass into view
+
 ```php
 class TransactionController extends Controller{
     public function category(){
@@ -179,13 +187,17 @@ class TransactionController extends Controller{
     }
 }
 ```
+
 3. Add controller function to `web.php` (Router) in `\routes`
+
 ```php
-Route:get('\endpoint', [Controller::class, 'function']);
+Route:get('\endpoint', [Controller::class, 'function']); // template
 Route::get('oneToMany',[TransactionController::class,'category']);
 Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 ```
+
 4. **Recommended: Make a layout template** inside `\resources\views\` add a `\layouts` folder filled with `app.blade.php`
+
 ```php
 // example layouts\app.blade.php
 <!DOCTYPE html>
@@ -193,19 +205,21 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 	
 	<head>
 	  <meta charset="UTF-8">
-	  <title>Example</title> // create a section for the title
+	  <title>Example</title> 
 	</head>
 	
 	<body>
-	  <h1>@yield('title')</h1>
-	  @yield('content') // create a section for the content
+	  <h1>@yield('title')</h1> // section for the title
+	  @yield('content') // section for the content
 	</body>
 </html>
 ```
 
+> `@yield()` used to create a section
+
 ```php
 // example of blade.php file that extends layouts\app.blade.php
-@extends('layouts.app')
+@extends('layouts.app') // EXTENDS 
 
 @section('title', 'The list of tasks') // one line use of section
 
@@ -236,6 +250,7 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 7. Find `\css` folder and copy
 8. Paste `\css` folder to `\public` forlder
 9. Inside `<head></head>` tag add link to tailwind ‼️ using `asset()`
+
 ```php
 <head>
 	<title>
@@ -244,7 +259,9 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 	<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet" >
 </head>
 ```
+
 10. Add code in view file linked to controller to show queried results
+
 ```php
 @extends('layouts.app')
 
@@ -273,6 +290,7 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 	</ul>
 @endsection 
 ```
+
 11. Previously we tried simulate the one to many relationship and below is the example for many to many relationship
 
 > Pagination: use `simplePaginate()` instead of `all()` and add `links()` at the bottom
