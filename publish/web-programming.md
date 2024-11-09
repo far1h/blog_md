@@ -107,10 +107,10 @@ public function run(){
 
 ```php
 public function run(): void{
-        $this->call([
-            ProductSeeder::class,
-        ]);
-    }
+	$this->call([
+		ProductSeeder::class,
+	]);
+}
 ```
 
 7. Create models for each table using `php artisan make:model [Name (Uppercase)]` and it will be located at `app\Models`
@@ -162,7 +162,57 @@ Available relationship functions:
 
 # Frontend
 ### Setup Routes
-1. Create controller using `php artisan make:controller [Class_name]Controller`
-2. Add function to go to query and pass to view
+1. Create controller using `php artisan make:controller [Class_name]Controller` and it will be located at `app\Http\Controllers`
+2. Add function in the controller to query and pass into view
+```php
+class TransactionController extends Controller{
+    public function category(){
+        $categories = Category::all();
+        return view('category',compact('categories'));
+    }
+    public function customerTransaction(){
+        $customers = Customer::simplePaginate(5);
+        return view('customer',compact('customers'));
+    }
+}
+```
+3. Add controller function to `web.php` (Router) in `\routes`
+```php
+Route:get('\endpoint', [Controller::class, 'function']);
+Route::get('oneToMany',[TransactionController::class,'category']);
+Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
+```
+4. **Recommended: Make a layout template** inside `\resources\views\` add a `\layouts` folder filled with `app.blade.php`
+```php
+// example layouts\app.blade.php
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <title>Book Reviews</title>
+</head>
 
+<body>
+  @yield('content') // create a section for the content
+</body>
+
+</html>
+
+```
+
+> Use `!` to generate HTML template
+
+5. Locate Bootstrap Folder
+6. Pick the folder with the version according to the requirement
+7. Find `\css` folder and copy
+8. Paste `\css` folder to `\public` forlder
+9. Inside `<head></head>` tag add link to tailwind ‼️ using `asset()`
+```php
+<head>
+	<title>
+		Table Relation
+	</title>
+	<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet" >
+</head>
+```
