@@ -189,7 +189,11 @@ Available relationship functions:
 - `...`
 
 # Frontend
-### Setup Routes
+
+##### Controller
+
+> Basically does the logic and connects view with the model
+
 1. Create controller using `php artisan make:controller [Class_name]Controller` and it will be located at `app\Http\Controllers`
 2. Add function in the controller to query and pass into view
 
@@ -202,6 +206,10 @@ class TransactionController extends Controller{
 }
 ```
 
+##### Router
+
+> Used to set up endpoints which execute the function of the controller
+
 3. Add controller function to `web.php` (Router) in `\routes`
 
 ```php
@@ -209,6 +217,10 @@ Route:get('\endpoint', [Controller::class, 'function']); // template
 Route::get('oneToMany',[TransactionController::class,'category']);
 Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 ```
+
+##### Views
+
+> Front end html css. What the users interact with. UI elements.
 
 4. **Recommended: Make a layout template** inside `\resources\views\` add a `\layouts` folder filled with `app.blade.php`
 
@@ -259,11 +271,15 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 
 > Use `!` to generate HTML template
 
+##### Bootstrap
+
+> CSS Framework
+
 5. Locate Bootstrap Folder
 6. Pick the folder with the version according to the requirement
 7. Find `\css` folder and copy
-8. Paste `\css` folder to `\public` forlder
-9. Inside `<head></head>` tag add link to tailwind ‼️ using `asset()`
+8. Paste `\css` folder to `\public` folder
+9. Inside `<head></head>` tag add link to tailwind using `asset()` and `rel="stylesheet"`
 
 ```php
 <head>
