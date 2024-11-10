@@ -1,5 +1,6 @@
 ---
 title: Complicated Form Implementation
+date: 2024-11-10
 ---
 
 > too complicated. example uses tailwind.

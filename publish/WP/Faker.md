@@ -1,6 +1,7 @@
 ---
 title: Faker
 excerpt: whats the difference of different kinds of fake instead of fake and real
+date: 2024-11-10
 ---
 ### 1. **`faker`** (lowercase)
 - In Laravel, `faker` is often used as a property in factories or test cases, and it provides access to an instance of the `Faker` class.

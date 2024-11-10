@@ -1,3 +1,6 @@
+---
+date: 2024-11-09
+---
 The `cascadeOnDelete()` method is a convenient way to define cascading behavior for foreign keys when a referenced record is deleted.
 
 #### Behavior

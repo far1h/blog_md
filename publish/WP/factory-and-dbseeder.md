@@ -1,6 +1,7 @@
 ---
 title: Factory and Database Seeder
 excerpt: How to seed using factory
+date: 2024-11-10
 ---
 # Seeder
 

@@ -1,3 +1,6 @@
+---
+date: 2024-11-09
+---
 The `constrained()` method is a shorthand in Laravel's migration schema builder that helps you quickly define a foreign key constraint for a column.
 
 `$table->foreignId('column_name')->constrained('table_name');`

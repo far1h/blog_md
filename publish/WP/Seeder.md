@@ -1,3 +1,6 @@
+---
+date: 2024-11-10
+---
 seeder files are used to populate the table
 
 > can be populated using class seeder and database seeder or [[factory-and-dbseeder|factory and database seeder]]

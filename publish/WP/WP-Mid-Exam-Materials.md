@@ -1,3 +1,6 @@
-![[uts-kisi.jpg|400]]
+---
+date: 2024-11-09
+---
+![[uts-kisi.jpg]]
 
-![[webutsnotes.jpg|400]]
+![[webutsnotes.jpg]]

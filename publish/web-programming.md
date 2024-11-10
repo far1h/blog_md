@@ -1,6 +1,7 @@
 ---
 title: Web Programming (Laravel)
 excerpt: Yes we study Laravel @BINUS
+date: 2024-11-10
 ---
 ##### [[WP-Mid-Exam-Materials|here are the mid exam materials]]
 
@@ -185,7 +186,7 @@ Available [relationship](https://laravel.com/docs/11.x/eloquent-relationships) f
 
 ##### Model WITH Migration Seeder Controller
 
-> CAN BE MADE WITH ONE LINE USING MODEL [[-M -S -C]]
+> CAN BE MADE WITH ONE LINE USING MODEL -M -S -C
 
 ```
 php artisan make:model [ClassName] -m -s -c

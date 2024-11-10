@@ -1,5 +1,6 @@
 ---
 title: Controllers
+date: 2024-11-10
 ---
 Basically does the logic and connects view with the model
 
