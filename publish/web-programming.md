@@ -134,10 +134,10 @@ public function run(): void{
 }
 ```
 
+7. Execute the seeder using `php artisan db:seed`
 ##### Model
 
 > model files are used to define the relationships between tables
-
 
 1. Create models for each table using `php artisan make:model [Name (Uppercase)]` and it will be located at `app\Models`
 
@@ -188,6 +188,26 @@ Available relationship functions:
 - `hasOne()`
 - `...`
 
+### Cheats
+
+##### Migration Seeder Controller
+
+> MIGRATION SEEDER AND CONTROLLER CAN BE MADE WITH ONE LINE USING [[-M -S -C]]
+
+```
+php artisan make:model [ClassName] -m -s -c
+php artisan make:model Clothes -m -s -c
+```
+
+Running this command would create the following files:
+- **`app/Models/Clothes.php`**: The model file.
+- **`database/migrations/xxxx_xx_xx_xxxxxx_create_clothes_table.php`**: The migration file to define the schema of the `clothes` table.
+- **`database/seeders/ClothesSeeder.php`**: The seeder file for populating the `clothes` table.
+- **`app/Http/Controllers/ClothesController.php`**: The controller file to manage CRUD operations for the `Clothes` model.
+
+##### Migrate and Seed at Once
+
+`php artisan migrate:fresh --seed` basically resets everything and populates it 
 # Frontend
 
 ##### Controller
@@ -370,3 +390,4 @@ class TransactionController extends Controller{
 Check out my Github repo for example implementation: https://github.com/far1h/utsProject
 
 > Check commits for step by step process
+
