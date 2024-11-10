@@ -1,3 +1,7 @@
+---
+title: Controllers
+---
+
 https://laravel.com/docs/11.x/controllers
 
 ## Default

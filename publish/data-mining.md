@@ -1,5 +1,6 @@
 ---
 title: Data Mining
+excerpt: i love mining
 ---
 - [x] [[data-mining-uts-quiz]]
 

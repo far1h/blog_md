@@ -1,3 +1,7 @@
+---
+title: Factory and Database Seeder
+excerpt: How to seed using factory
+---
 # Seeder
 
 ```php

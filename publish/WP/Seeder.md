@@ -1,3 +1,7 @@
+---
+title: Seeder
+excerpt: 3 methods of inserting data with seeder
+---
 There are 3 ways to insert data:
 
 ```php

@@ -1,5 +1,6 @@
 ---
 title: Google Cloud Engineer Notes
+excerpt: lets get the infinity stones
 ---
 ## Introducing Google Cloud
 ### An overview of cloud computing 

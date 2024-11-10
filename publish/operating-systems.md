@@ -1,5 +1,6 @@
 ---
 title: Operating Systems Notes
+excerpt: couldn't get any worse than this right?
 ---
 [DownloadMoreRAM.com - CloudRAM 2.0](https://downloadmoreram.com/)
 
