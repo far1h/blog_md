@@ -197,7 +197,7 @@ Available relationship functions:
 
 ##### Model WITH Migration Seeder Controller
 
-> MIGRATION SEEDER AND CONTROLLER CAN BE MADE WITH ONE LINE USING [[-M -S -C]]
+> CAN BE MADE WITH ONE LINE USING [[-M -S -C]]
 
 ```
 php artisan make:model [ClassName] -m -s -c
