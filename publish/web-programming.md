@@ -82,11 +82,14 @@ public function up(): void{
 
 > seeder files are used to populate the table
 
+> can be populated using class seeder and database seeder or [[factory-and-dbseeder|factory and database seeder]]
+
 4. Make seeder for each model using`php artisan make:seeder [Class_Name (UpperCase)]Seeder` 
 
 5. Fill `run()` function for class seeder
 
-Using Faker:
+Using [[Faker]]:
+
 ```php
 // example class seeder: CustomerSeeder.php
 public function run(){ 
@@ -102,6 +105,7 @@ public function run(){
 ![[afterSeeder1.png]]
 
 Manually:
+
 ```php
 // example class seeder: ProductSeeder.php
 public function run(){
@@ -209,7 +213,7 @@ Running this command would create the following files:
 ##### Migrate and Seed at Once
 
 `php artisan migrate:fresh --seed` basically resets everything and populates it 
-# Frontend (READ)
+# Frontend
 
 ##### [[Controller]]
 
@@ -395,5 +399,4 @@ class TransactionController extends Controller{
 Check out my Github repo for example implementation: https://github.com/far1h/utsProject
 
 > Check commits for step by step process
-
-
+### Forms (in case necessary)
