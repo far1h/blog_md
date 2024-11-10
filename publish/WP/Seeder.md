@@ -1,7 +1,9 @@
----
-title: Seeder
-excerpt: 3 methods of inserting data with seeder
----
+seeder files are used to populate the table
+
+> can be populated using class seeder and database seeder or [[factory-and-dbseeder|factory and database seeder]]
+
+https://laravel.com/docs/11.x/database-testing#running-seeders
+
 There are 3 ways to insert data:
 
 ```php

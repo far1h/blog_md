@@ -1,0 +1,1 @@
+use `simplePaginate()` instead of `all()` and add `links()` at the bottom

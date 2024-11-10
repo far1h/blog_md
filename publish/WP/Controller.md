@@ -1,6 +1,7 @@
 ---
 title: Controllers
 ---
+Basically does the logic and connects view with the model
 
 https://laravel.com/docs/11.x/controllers
 

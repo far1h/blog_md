@@ -33,9 +33,7 @@ DB_PASSWORD= // empty by default by XAMPP
 > Open XAMPP and turn on Apache Web Server and MySQL Database
 ### Create Tables
 
-##### Migration
-
-> migration files are used to design the database schema
+##### [[Migration]]
 
 1. Run the code below to generate migration files
 
@@ -79,10 +77,6 @@ public function up(): void{
    ![[phpTables2.png]]
 
 ##### [[Seeder]]
-
-> seeder files are used to populate the table
-
-> can be populated using class seeder and database seeder or [[factory-and-dbseeder|factory and database seeder]]
 
 4. Make seeder for each model using`php artisan make:seeder [Class_Name (UpperCase)]Seeder` 
 
@@ -140,13 +134,11 @@ public function run(): void{
 ```
 
 7. Execute the seeder using `php artisan db:seed`
-##### Model
-
-> model files are used to define the relationships between tables
+##### [[Model]]
 
 1. Create models for each table using `php artisan make:model [Name (Uppercase)]` and it will be located at `app\Models`
 
-2. Define relationships by adding the relationship class as a function to each models 
+2. Define [relationships](https://laravel.com/docs/11.x/eloquent-relationships) by adding the relationship class as a function to each models 
 
 ```php
 // relationship_class() in a Model
@@ -186,7 +178,7 @@ class Customer extends Model{
 }
 ```
 
-Available relationship functions:
+Available [relationship](https://laravel.com/docs/11.x/eloquent-relationships) functions:
 - `hasMany()`
 - `belongsTo()`
 - `belongsToMany()`
@@ -217,8 +209,6 @@ Running this command would create the following files:
 
 ##### [[Controller]]
 
-> Basically does the logic and connects view with the model
-
 1. Create controller using `php artisan make:controller [Class_name]Controller` and it will be located at `app\Http\Controllers`
 2. Add function in the controller to query and pass into view
 
@@ -233,9 +223,7 @@ class TransactionController extends Controller{
 }
 ```
 
-##### Router
-
-> Used to set up endpoints which execute the function of the controller
+##### [[Router]]
 
 3. Add controller function to `web.php` (Router) in `\routes`
 
@@ -245,9 +233,7 @@ Route::get('oneToMany',[TransactionController::class,'category']);
 Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 ```
 
-##### Views
-
-> Front end html css. What the users interact with. UI elements.
+##### [[Views]]
 
 4. **Recommended: Make a layout template** inside `\resources\views\` add a `\layouts` folder filled with `app.blade.php`
 
@@ -297,10 +283,7 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 ```
 
 > Use `!` to generate HTML template
-
-##### Bootstrap
-
-> CSS Framework
+##### [[Bootstrap]]
 
 5. Locate Bootstrap Folder
 6. Pick the folder with the version according to the requirement
@@ -350,9 +333,7 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 
 11. Previously we tried simulate the one to many relationship and below is the example for many to many relationship
 
-##### Paginate
-
-> use `simplePaginate()` instead of `all()` and add `links()` at the bottom
+##### [[Paginate]]
 
 ```php
 class TransactionController extends Controller{
