@@ -134,7 +134,7 @@ public function run(): void{
 
 1. Create models for each table using `php artisan make:model [Name (Uppercase)]` and it will be located at `app\Models`
 
-2. Define [relationships](https://laravel.com/docs/11.x/eloquent-relationships) by adding the relationship class as a function to each models 
+2. Define [relationships](https://laravel.com/docs/11.x/eloquent-relationships) by adding the relationship class as a method to each models 
 
 ```php
 // relationship_class() in a Model
@@ -206,7 +206,7 @@ Running this command would create the following files:
 ##### [[Controller]]
 
 1. Create controller using `php artisan make:controller [Class_name]Controller` and it will be located at `app\Http\Controllers`
-2. Add function in the controller to query and pass into view
+2. Add method in the controller to query and pass into view
 
 ```php
 class TransactionController extends Controller{
@@ -285,7 +285,7 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 6. Pick the folder with the version according to the requirement
 7. Find `\css` folder and copy
 8. Paste `\css` folder to `\public` folder
-9. Inside `<head></head>` tag add link to tailwind using `asset()` and `rel="stylesheet"`
+9. Inside `<head></head>` tag add link to Bootstrap using `asset()` and `rel="stylesheet"`
 
 ```php
 <head>
