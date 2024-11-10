@@ -2,8 +2,6 @@
 title: Web Programming (Laravel)
 excerpt: Yes we study Laravel @BINUS
 ---
-`//TODO` 
-- [ ] Link to documentation for easy reference
 ##### [[WP-Mid-Exam-Materials|here are the mid exam materials]]
 
 # Initialization
@@ -379,5 +377,4 @@ Check out my Github repo for example implementation: https://github.com/far1h/ut
 
 > Check commits for step by step process
 
-In case necessary: [[Forms]]
-
+In case necessary: [[Forms-Complicated]], [[Forms-Simple]]
