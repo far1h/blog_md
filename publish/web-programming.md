@@ -6,9 +6,9 @@ excerpt: Yes we study Laravel @BINUS
 - [ ] Link to documentation for easy reference
 ##### Mid Exam Materials
 
-![[uts-kisi.jpg]]
+![[uts-kisi.jpg|400]]
 
-![[webutsnotes.jpg]]
+![[webutsnotes.jpg|400]]
 # Initialization
 
 ```shell
@@ -72,9 +72,9 @@ public function up(): void{
 > what is [[constrained()]] and [[cascadeOnDelete()]]?
 
 3. After creating and modifying all migration files run `php artisan migrate` and your tables will be created
-   ![[phpTables1.png]]
+   ![[phpTables1.png|400]]
    
-   ![[phpTables2.png]]
+   ![[phpTables2.png|400]]
 
 ##### [[Seeder]]
 
@@ -96,7 +96,7 @@ public function run(){
 	}
 }
 ```
-![[afterSeeder1.png]]
+![[afterSeeder1.png|400]]
 
 Manually:
 
