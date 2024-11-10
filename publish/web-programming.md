@@ -76,7 +76,7 @@ public function up(): void{
 
 4. Make seeder for each model using`php artisan make:seeder [Class_Name (UpperCase)]Seeder` 
 
-5. Fill `run()` function for class seeder
+5. Fill `run()` method for class seeder
 
 Using [[Faker]]:
 
@@ -118,7 +118,7 @@ public function run(){
 }
 ```
 
-6. Fill `run()` function for database seeder
+6. Fill `run()` method for database seeder
 
 ```php
 // DatabaseSeeder.php
