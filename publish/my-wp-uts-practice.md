@@ -1,6 +1,6 @@
 ---
 title: I UNDERSTAND IT NOW (WP)
-date: 2024-10-12
+date: 2025-11-12
 ---
 [[ah-ok.gif]]
 
@@ -334,3 +334,44 @@ public function run(): void
 `php artisan migrate`
 `php artisan migrate:fresh -seed`
 
+##### [[Paginate]]
+
+```php
+class TransactionController extends Controller{
+    public function customerTransaction(){
+        $customers = Customer::simplePaginate(5); 
+        return view('customer',compact('customers'));
+    }
+}
+```
+
+```php
+@extends('layouts.app')
+
+@section('title', 'Customer Transaction') // one line use of section
+
+@section('content')
+	<ul>
+        @forelse ($customers as $customer)
+            <li>{{ $customer->name }} {{ $customer->email }}</li>
+        @empty
+            <h2>No customers..</h2>
+        @endforelse
+    </ul>
+    <h2>Transacation</h2>
+    <ul>
+        @forelse ($customers as $customer)
+            <li>{{ $customer->name }}</li>
+            <ul>
+                @forelse ($customer->products as $product)
+                    <li>{{ $product->productname }} {{ $product->price }}</li>
+                @empty
+                    <h4>No transaction..</h4>
+                @endforelse
+            </ul>
+        @empty
+            <h2>No customers..</h2>
+        @endforelse
+    </ul>
+    {{ $customers->links() }} // for pagination links
+@endsection 
