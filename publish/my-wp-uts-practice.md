@@ -1,5 +1,6 @@
 ---
 title: I UNDERSTAND IT NOW (WP)
+date: 2024-10-12
 ---
 [[ah-ok.gif]]
 
