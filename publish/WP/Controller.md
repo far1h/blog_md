@@ -25,5 +25,6 @@ Registering a resource route that points to the controller can be done using thi
 ```php
 use App\Http\Controllers\PhotoController;
 
+Route::resource('\endpoint', [ClassName]Controller::class);
 Route::resource('photos', PhotoController::class);
 ```
