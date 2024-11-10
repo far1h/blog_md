@@ -4,11 +4,8 @@ excerpt: Yes we study Laravel @BINUS
 ---
 `//TODO` 
 - [ ] Link to documentation for easy reference
-##### Mid Exam Materials
+##### [[WP-Mid-Exam-Materials|here are the mid exam materials]]
 
-![[uts-kisi.jpg|400]]
-
-![[webutsnotes.jpg|400]]
 # Initialization
 
 ```shell
