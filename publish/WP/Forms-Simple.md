@@ -1,5 +1,6 @@
 ---
 title: Simple Form Implementation
+date: 2024-11-10
 ---
 
 1. Edit `.env`
