@@ -195,7 +195,7 @@ Available relationship functions:
 
 ### Cheats
 
-##### Migration Seeder Controller
+##### Model WITH Migration Seeder Controller
 
 > MIGRATION SEEDER AND CONTROLLER CAN BE MADE WITH ONE LINE USING [[-M -S -C]]
 
