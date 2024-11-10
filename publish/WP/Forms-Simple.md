@@ -1,3 +1,7 @@
+---
+title: Simple Form Implementation
+---
+
 1. Edit `.env`
 
 ```php
@@ -245,7 +249,7 @@ Route::resource('/food', controller: FoodController::class);
 ```
 
 ```php
-// create.blade.php
+// home.blade.php
 @extends('layouts.app')
 
 @section('title', 'Home')
