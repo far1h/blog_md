@@ -15,6 +15,7 @@ DB_PASSWORD=
 
 
 2. Run `php artisan make:model Food -m -s` 
+3. Run `php artisan make:model FoodCategory -m -s`
 
 > i want a resource controller so without -c
 
