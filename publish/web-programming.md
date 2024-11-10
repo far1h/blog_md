@@ -2,6 +2,8 @@
 title: Web Programming (Laravel)
 excerpt: Yes we study Laravel @BINUS
 ---
+`//TODO` 
+- [ ] Link to documentation for easy reference
 ##### Mid Exam Materials
 
 ![[uts-kisi.jpg]]
@@ -76,7 +78,7 @@ public function up(): void{
    
    ![[phpTables2.png]]
 
-##### Seeder
+##### [[Seeder]]
 
 > seeder files are used to populate the table
 
@@ -121,7 +123,6 @@ public function run(){
 	]);
 }
 ```
-> I still get an error here
 
 6. Fill `run()` function for database seeder
 
@@ -208,9 +209,9 @@ Running this command would create the following files:
 ##### Migrate and Seed at Once
 
 `php artisan migrate:fresh --seed` basically resets everything and populates it 
-# Frontend
+# Frontend (READ)
 
-##### Controller
+##### [[Controller]]
 
 > Basically does the logic and connects view with the model
 
@@ -222,6 +223,8 @@ class TransactionController extends Controller{
     public function category(){
         $categories = Category::all(); // query all
         return view('category',compact('categories'));
+        // return view("home", ["categories"=> $categories]); 
+        // the same used if variable names are diff or duplicate names exist
     }
 }
 ```
@@ -343,7 +346,9 @@ Route::get('manyToMany',[TransactionController::class,'customerTransaction']);
 
 11. Previously we tried simulate the one to many relationship and below is the example for many to many relationship
 
-> Pagination: use `simplePaginate()` instead of `all()` and add `links()` at the bottom
+##### Paginate
+
+> use `simplePaginate()` instead of `all()` and add `links()` at the bottom
 
 ```php
 class TransactionController extends Controller{
@@ -390,4 +395,5 @@ class TransactionController extends Controller{
 Check out my Github repo for example implementation: https://github.com/far1h/utsProject
 
 > Check commits for step by step process
+
 
