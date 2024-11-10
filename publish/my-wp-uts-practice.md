@@ -26,6 +26,8 @@ Route::resource('/writer', WriterController::class);
 
 make `layouts.app`
 
+add bootstrap `<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">`
+
 ```php
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
