@@ -44,7 +44,7 @@ php artisan make:migration create_[class_name]_table --create=[class_name]
 2. The file we will have to modify will look like this:
 
 ```php
-// /xxxx_xx_xx_xxxxxx_create_[class_names]_table.php
+// xxxx_xx_xx_xxxxxx_create_[class_names]_table.php
 public function up(){ 
 	Schema::create('[class_names]', function (Blueprint $table) {
 		$table->id();
