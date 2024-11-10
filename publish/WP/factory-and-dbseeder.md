@@ -26,7 +26,7 @@ protected $fillable = ['title','description','long_description'];
 create a factory and link to the model using this code:
 
 ```
-php artisan make:factory TaskFactory --model=Task
+php artisan make:factory TaskFactory -model=Task
 ```
 
 modify the `definition()` method with [[Faker]] in the factory file:
