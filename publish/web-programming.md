@@ -5,6 +5,7 @@ date: 2024-11-10
 ---
 ##### [[WP-Mid-Exam-Materials|here are the mid exam materials]]
 
+[[my-wp-uts-practice]]
 # Initialization
 
 ```shell
