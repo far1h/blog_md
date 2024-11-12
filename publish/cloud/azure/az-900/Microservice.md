@@ -1,0 +1,2 @@
+- Splits apps into smaller, independent parts
+- ﻿﻿Self-contained units for **specific functions**

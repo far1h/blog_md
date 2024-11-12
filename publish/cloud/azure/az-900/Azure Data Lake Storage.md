@@ -1,0 +1,6 @@
+- Used to store and analyze large volumes of data
+- Combines [[Azure Blob Storage|Blob Storage]] with file system for large data
+- ﻿﻿Streamlines data access for analytics
+- ﻿﻿Suits petabyte-scale structured to unstructured data
+- ﻿﻿Ideal for complex big data analysis
+- ﻿﻿Unifies diverse data in one space like a Library
