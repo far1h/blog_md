@@ -1,7 +1,7 @@
 ---
 title: I UNDERSTAND IT NOW (WP)
 date: 2025-11-12
-excerpt: T-4 hours exam notes
+excerpt: T-minus 4 hours exam notes
 ---
 ![[ah-ok.gif]]
 
