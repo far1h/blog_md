@@ -1,6 +1,7 @@
 ---
 title: I UNDERSTAND IT NOW (WP)
 date: 2025-11-12
+excerpt: my
 ---
 [[ah-ok.gif]]
 
