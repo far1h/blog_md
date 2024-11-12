@@ -3,7 +3,7 @@ title: I UNDERSTAND IT NOW (WP)
 date: 2025-11-12
 excerpt: T-4 hours exam notes
 ---
-[[ah-ok.gif]]
+![[ah-ok.gif]]
 
 > CTRL P to search for files in vsc
 
