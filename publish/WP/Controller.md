@@ -1,6 +1,7 @@
 ---
 title: Controllers
 date: 2024-11-10
+excerpt: Basically does the logic and connects view with the model
 ---
 Basically does the logic and connects view with the model
 

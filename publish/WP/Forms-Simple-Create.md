@@ -1,6 +1,7 @@
 ---
 title: Simple Form Implementation
 date: 2024-11-10
+excerpt: Simple implementation of forms in laravel for creating data
 ---
 
 1. Edit `.env`

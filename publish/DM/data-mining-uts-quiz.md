@@ -1,3 +1,7 @@
+---
+title: Pre UTS quiz for Data Mining
+excerpt: question and answer for Henry Lucky DM UTS Quiz
+---
 ![[quiz1-2.png|300]]
 
 ```

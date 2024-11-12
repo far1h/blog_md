@@ -1,6 +1,7 @@
 ---
 date: 2024-11-09
+excerpt: files used to define the relationships between tables
 ---
-model files are used to define the relationships between tables
+files used to define the relationships between tables
 
 https://laravel.com/docs/11.x/eloquent

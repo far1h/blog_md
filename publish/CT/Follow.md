@@ -1,3 +1,6 @@
+---
+excerpt: character after the first character in the **terminal values**
+---
 character after the first character in the **terminal values**
 ## Algorithm
 1. If *S* is the start symbol, 

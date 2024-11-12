@@ -1,3 +1,6 @@
+---
+excerpt: question and answer for Sam Philip CT UTS Quiz
+---
 ![[kennard1.png]]
 ![[kennard2.png]]![[kenzi1.png]]
 ![[kenzi1.2.png]]![[kenzi3.png]]

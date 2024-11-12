@@ -1,3 +1,6 @@
+---
+excerpt: question and answer for Ivan Sebastian CT UTS Quiz
+---
 1.    Given  RE (Reguler Expresion):
 
 (a|b)+ (a+b)* ab+

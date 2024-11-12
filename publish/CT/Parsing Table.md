@@ -1,3 +1,7 @@
+---
+excerpt: parsing table for first and follow values
+---
+
 > Rows: Variables  
 > Columns: Terminals, and Values
 

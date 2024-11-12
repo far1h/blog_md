@@ -1,3 +1,6 @@
+---
+excerpt: how to do parsing search
+---
 > The first stack is the start symbol and add $ before it
 
 > Input will be given

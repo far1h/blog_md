@@ -1,5 +1,6 @@
 ---
 date: 2024-11-09
+excerpt: a shorthand in Laravel's migration schema builder that helps you quickly define a foreign key constraint for a column.
 ---
 The `constrained()` method is a shorthand in Laravel's migration schema builder that helps you quickly define a foreign key constraint for a column.
 

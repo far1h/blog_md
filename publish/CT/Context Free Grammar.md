@@ -1,3 +1,6 @@
+---
+excerpt: grammars for compilers ig
+---
 Order as Follows  
 1. [[Left Factoring]] 
 2. [[Left Recursive]]
