@@ -1,6 +1,6 @@
 - ﻿﻿Blob (**B**inary **l**arge **ob**ject) storage
 - ﻿﻿Designed to store unstructured data:
-- ﻿﻿text, video, or images
+	- ﻿﻿text, video, or images
 - ﻿﻿Ideal for serving images, videos, documents, and backups
 - ﻿﻿High tech version of a modern-day storage facility
 - ﻿﻿Multiple [[Azure Storage Tiers|storage tiers]]

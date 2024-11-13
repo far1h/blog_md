@@ -1,6 +1,6 @@
 Managed service responsible for providing readily available cloud storage solutions
 
-How storage works in [[az-900|Azure]]: [[Azure Storage Tiers]], [[Azure Data Redundancy]]
+How storage works in [[az-900|Azure]]: [[Azure Storage Tiers]], [[Azure Data Redundancy Options]]
 [[az-900|Azure]] offerings:
 - [[Azure Blob Storage]]
 - [[Azure File Storage]]
