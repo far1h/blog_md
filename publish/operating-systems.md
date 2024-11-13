@@ -2,6 +2,9 @@
 title: Operating Systems Notes
 excerpt: couldn't get any worse than this right? (ayo semangat cum laude)
 ---
+# [[operating-systems#Microprocessor|Mid Exam Materials]]
+# [[operating-systems#File Management|Final Exam Materials]]
+---
 [DownloadMoreRAM.com - CloudRAM 2.0](https://downloadmoreram.com/)  
 [My Mid Exam Notion](https://moisthebest.notion.site/Mo-s-OS-UTS-Notes-133305f27850807b96c9e46ce4f62a72?pvs=4)  
 
@@ -10,7 +13,6 @@ Other people's notes:
 https://www.notion.so/Operation-System-12b1620f860e80cdb47aff5eb21febb8?pvs=21  
 https://www.notion.so/f97c874f97bc48ab9944243d4380d3bd?pvs=21  
 https://www.notion.so/OS-UTS-Notes-12f40cf9fbe080268fcfe177728b6e94?pvs=21  
-
 # Microprocessor
 # µLinux vs Linux
 
@@ -27,7 +29,7 @@ https://www.notion.so/OS-UTS-Notes-12f40cf9fbe080268fcfe177728b6e94?pvs=21
 # [[Process]] 
 
 # [[Deeply Embedded Systems]] 
-
+---
 # [[File Management]]
 
 Status: #MOC  
