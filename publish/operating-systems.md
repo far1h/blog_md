@@ -4,40 +4,11 @@ excerpt: couldn't get any worse than this right?
 ---
 [DownloadMoreRAM.com - CloudRAM 2.0](https://downloadmoreram.com/)
 
-
-[](https://www.notion.so/105fbf96867a8078b48fd3d8b2bf8863?pvs=21)
-
-Norberth’s Notes
-
-[https://docs.google.com/document/d/1wFayVkOesPq96KYeaOVXPEqpB8rB_HokiUk9sDUFIpw/edit?tab=t.57f9a3rnvlv9](https://docs.google.com/document/d/1wFayVkOesPq96KYeaOVXPEqpB8rB_HokiUk9sDUFIpw/edit?tab=t.57f9a3rnvlv9)
-
-Regular Students Notes
-
-[Operation System 💻](https://www.notion.so/Operation-System-12b1620f860e80cdb47aff5eb21febb8?pvs=21)
-
-[](https://www.notion.so/f97c874f97bc48ab9944243d4380d3bd?pvs=21)
-
-[OS UTS Notes](https://www.notion.so/OS-UTS-Notes-12f40cf9fbe080268fcfe177728b6e94?pvs=21)
-
-- 2023 UTS Responsi key points i guess
-    
-    > embdedded OS
-    > 
-    > concurrency
-    > 
-    > basic elements
-    > 
-    > architecture operating systems windows linux android
-    > 
-    > multiprocessor
-    > 
-    > thread
-    > 
-    > process description and control
-    > 
-    > fork()
-    > 
-    > process scheduling gant chart
+Other people's notes:
+[Norberth's Notes](https://docs.google.com/document/d/1wFayVkOesPq96KYeaOVXPEqpB8rB_HokiUk9sDUFIpw/edit?tab=t.57f9a3rnvlv9)
+https://www.notion.so/Operation-System-12b1620f860e80cdb47aff5eb21febb8?pvs=21
+https://www.notion.so/f97c874f97bc48ab9944243d4380d3bd?pvs=21
+https://www.notion.so/OS-UTS-Notes-12f40cf9fbe080268fcfe177728b6e94?pvs=21
     
 
 `\\\\TODO`
