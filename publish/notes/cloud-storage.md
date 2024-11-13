@@ -1,3 +1,6 @@
+---
+title: Storage for Cloud
+---
 Managed service responsible for providing readily available cloud storage solutions
 
 How storage works in [[az-900|Azure]]: [[Azure Storage Tiers]], [[Azure Data Redundancy Options]]

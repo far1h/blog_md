@@ -1,3 +1,6 @@
+---
+title: Compute for Cloud
+---
 Provision and manage cloud resources to run application without managing physical hardware
 
 [[az-900|Azure]] offerings:
