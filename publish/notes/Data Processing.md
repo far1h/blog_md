@@ -1,15 +1,5 @@
-Real-time vs Batch Processing
-
-- ﻿﻿Consider processing type before choosing a service: real-time or batch.
-- ﻿﻿Real-time: Immediate analytics
-- ﻿﻿Batch: Scheduled or ad-hoc analytics
-
-- ﻿﻿Consider processing type before choosing a service
-- ﻿﻿Real-time: Immediate analytics
-- ﻿﻿Batch: Scheduled or ad-hoc analytics
-- ﻿﻿Example in healthcare:
-	- ﻿﻿Real-time - hospital emergency dashboards
-	- ﻿﻿Batch - weekly-updated dashboards
+- What should you consider before choosing a data processing service? 
+	- [[real-time]] or [[batch]]
 - ﻿﻿Different infrastructure and cost implications
 
 ETL Process
