@@ -2,35 +2,7 @@
 title: Compilation Techniques Notes
 excerpt: Stupid Course about Compilers taken @BINUS
 ---
-- [x] ALVINA AULIA
-- [x] AS
-	- [x] 5
-	- [x] 4
-	- [x] 2
-	- [x] 1
-- [x] RZ
-- [x] RESPONSI REG
-- [x] RESPONSI GC
-- [ ] PRACTICE QUESTIONS CLASS
-	- [x] QUIZ
-		- [x] [[Ivan Sebastian CT UTS Quiz]]
-			- [x] RE DFA
-			- [x] RE EFNA DFA
-			- [x] CFD
-			- [x] TOP DOWN
-		- [x] [[Sam Philip CT UTS Quiz]]
-			- [x] RE DFA
-			- [x] RE EFNA DFA
-			- [x] CFD
-			- [x] TOP DOWN
-		- [x] [[Kenny Jingga CT UTS Quiz]]
-			- [x] TOP DOWN
-			- [x] RE DFA
-			- [x] RE ENFA DFA
-			- [x] CFG
-	- [ ] ASSIGNMENTS
-- [ ] Pick up transcript
-- [ ] comvis exam
+- [ ] Assigments
 
 ## [[RE to DFA]]
 
@@ -289,6 +261,10 @@ i gave up lol
 ends up getting rejected
 ### Example [[Sam Philip CT UTS Quiz]]
 ### Example Class Session 12 Exercise
+
+## Bottom Up Parsing
+
+https://www.youtube.com/watch?v=_Jng5xgLxkI&list=PLB2GiO0mMjw9J_OwnDMAqtsANzWsIylQz&index=9&ab_channel=HIMTIBINUS
 
 Status: #MOC  
 Tags:  

@@ -2,7 +2,7 @@ Complete solution - subscription fee to connect to applications
 
 ![[saas.png]]
 
-[[Azure]] offerings:
+[[azure|Azure]] offerings: 
 - Azure DevOps
 - Sentinel
 - IoT Central

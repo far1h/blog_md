@@ -2,7 +2,7 @@ Middle-ground between Infrastructure and Software as a Service
 
 ![[paas.png]]
 
-[[Azure]] offerings: 
+[[azure|Azure]] offerings: 
 - SQL Database
 - DevTest Labs
 - MariaDB

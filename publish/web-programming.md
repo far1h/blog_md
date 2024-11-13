@@ -7,6 +7,9 @@ date: 2024-11-10
 
 [[my-wp-uts-practice|I understand it NOW]]
 
+# [[web-prog-final-exam-materials|Final Exam Materials]]
+
+# [[web-prog-mid-exam-materials|Mid Exam Materials]]
 # Initialization
 
 ```shell

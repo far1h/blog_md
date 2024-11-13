@@ -17,7 +17,7 @@ ETL Process
 2. Transform
 3. Load
 
-[[Azure]] Processing Tools
+[[azure|Azure]] Processing Tools
 - [[Azure Synapse Analytics]]
 - [[Azure Stream Analytics]]
 - [[Azure Databricks]]
