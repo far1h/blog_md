@@ -5,8 +5,8 @@ Services that are accessible in all recommended regions for deployment.
 - Azure Private Link
 - Azure Virtual WAN
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

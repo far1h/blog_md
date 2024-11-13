@@ -31,8 +31,8 @@ Schema::create('posts', function (Blueprint $table) {
 });
 ```
 
-Status: #idea
-Tags: [[web-programming]]
+Status: #idea  
+Tags: [[web-programming]]  
 
 ---
 # References

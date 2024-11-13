@@ -10,8 +10,8 @@ How storage works in [[az-900|Azure]]: [[Azure Storage Tiers]], [[Azure Data Red
 - [[Azure Data Lake Storage]]
 - [[Azure Backup and Recovery]]
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

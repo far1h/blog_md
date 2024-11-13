@@ -36,8 +36,8 @@ Route::resource('\endpoint', [ClassName]Controller::class);
 Route::resource('photos', PhotoController::class);
 ```
 
-Status: #idea
-Tags: [[web-programming]]
+Status: #idea  
+Tags: [[web-programming]]  
 
 ---
 # References

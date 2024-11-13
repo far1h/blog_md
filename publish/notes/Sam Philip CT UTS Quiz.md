@@ -9,8 +9,8 @@ excerpt: question and answer for Sam Philip CT UTS Quiz
 ![[rafsam1.jpeg]]
 ![[rafsam2.jpeg]]
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

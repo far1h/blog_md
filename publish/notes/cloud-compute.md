@@ -12,8 +12,8 @@ Provision and manage cloud resources to run application without managing physica
 - [[Azure Container Apps]]
 
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

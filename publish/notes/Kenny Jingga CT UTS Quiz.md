@@ -5,8 +5,8 @@ excerpt: question and answer for Kenny Jingga CT UTS Quiz
 
 ![[responsigcctuts.jpg]]
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

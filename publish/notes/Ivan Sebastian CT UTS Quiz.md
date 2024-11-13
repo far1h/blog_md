@@ -45,8 +45,8 @@ d. Track the parsing movement with input: y/a*y+a
 
 ![[stevenivan2.jpg]]
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

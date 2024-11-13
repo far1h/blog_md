@@ -11,8 +11,8 @@ How to fill the table?
 
 > break it apart. theres no `| (or)`   
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

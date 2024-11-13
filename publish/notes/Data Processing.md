@@ -24,8 +24,8 @@ ETL Process
 - [[Azure Data Factory]]
 - [[Azure HDInsight]]
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

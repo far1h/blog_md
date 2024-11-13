@@ -26,12 +26,11 @@ https://www.notion.so/OS-UTS-Notes-12f40cf9fbe080268fcfe177728b6e94?pvs=21
 
 # [[Process]] 
 
-## [[Deeply Embedded Systems]] 
+# [[Deeply Embedded Systems]] 
 
+# [[File Management]]
 
-
-
-Status: #MOC
-Tags:
+Status: #MOC  
+Tags:  
 
 ---

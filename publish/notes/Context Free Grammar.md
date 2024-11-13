@@ -7,8 +7,8 @@ Order as Follows
 
 > Only when A is the leftmost in A -> Aα | β   
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

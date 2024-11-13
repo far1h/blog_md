@@ -66,7 +66,7 @@ excerpt: i love mining
 
 hmm
 
-Status: #MOC
-Tags:
+Status: #MOC  
+Tags:  
 
 ---

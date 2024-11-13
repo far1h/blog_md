@@ -2,7 +2,7 @@ Middle-ground between Infrastructure and Software as a Service
 
 ![[paas.png]]
 
-[[Azure]] offerings:
+[[Azure]] offerings: 
 - SQL Database
 - DevTest Labs
 - MariaDB
@@ -10,8 +10,8 @@ Middle-ground between Infrastructure and Software as a Service
 - [[Azure Functions]]
 - API Management
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

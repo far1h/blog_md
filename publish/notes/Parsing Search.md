@@ -15,8 +15,8 @@ How to determine the output?
 - if `stack == $` and `input == $` ACCEPT
 - if stack `≠` input REJECT
 
-Status: #idea
-Tags: [[compilation-techniques]]
-
+Status: #idea  
+Tags: [[compilation-techniques]]  
+  
 ---
 # References

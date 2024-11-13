@@ -1,7 +1,7 @@
 ---
 title: AWS Cloud Practitioner Notes
 ---
-Status: #MOC
-Tags: [[cloud]]
+Status: #MOC  
+Tags: [[cloud]]  
 
 ---

@@ -1,8 +1,8 @@
 [[OLTP]]
 [[OLAP]]
 
-Status: #idea
-Tags: [[data-mining]]
+Status: #idea  
+Tags: [[data-mining]]  
 
 ---
 # References

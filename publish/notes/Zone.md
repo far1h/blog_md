@@ -4,8 +4,8 @@
 - has at least one discrete [[cluster]]
 - connected to each through low latency links
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

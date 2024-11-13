@@ -5,8 +5,8 @@
 	- ﻿﻿Archive: low-cost, for long-term storage, slow access
 - ﻿﻿Azure shifts tiers automatically as needed
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

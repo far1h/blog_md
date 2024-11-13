@@ -6,8 +6,8 @@ Services available in all regions and alternate regions when they become general
 - [[Azure Virtual Machines]]
 - Azure VPN Gateway
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

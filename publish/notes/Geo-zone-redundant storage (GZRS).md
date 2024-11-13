@@ -2,8 +2,8 @@
 	- ZRS</u>. 
 - Recommended for **critical data scenarios**.
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

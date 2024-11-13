@@ -12,8 +12,8 @@ A fully managed application platform for modern applications and [[Microservice|
 	- ﻿﻿Specializes in hosting web apps/APIs
 	- ﻿﻿Not used for containerized applications
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

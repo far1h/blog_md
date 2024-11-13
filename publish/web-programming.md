@@ -382,7 +382,7 @@ Check out my Github repo for example implementation: https://github.com/far1h/ut
 
 In case necessary: [[Forms-Simple-Create]]
 
-Status: #MOC
-Tags:
+Status: #MOC  
+Tags:  
 
 ---

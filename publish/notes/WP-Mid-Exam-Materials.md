@@ -7,8 +7,8 @@ excerpt: things to study for WP mid exam
 
 ![[webutsnotes.jpg]]
 
-Status: #idea
-Tags: [[web-programming]]
+Status: #idea  
+Tags: [[web-programming]]  
 
 ---
 # References

@@ -10,8 +10,8 @@ Most flexible category, provides the user maximum control
 - Firewall
 - Load Balancer
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

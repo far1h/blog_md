@@ -10,8 +10,8 @@ Complete solution - subscription fee to connect to applications
 - Azure Migrate
 - Internet Analyzer
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

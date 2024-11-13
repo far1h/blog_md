@@ -7,8 +7,8 @@ Azure data redundancy duplicates data for availability during outages:
 > Similar to Multi [[Region]], Multi [[Zone]]
 
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

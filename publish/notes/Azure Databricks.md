@@ -5,8 +5,8 @@
 - ﻿﻿Built-in Data Lake support
 - ﻿﻿Real-time and batch
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

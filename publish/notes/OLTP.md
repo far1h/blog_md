@@ -3,8 +3,8 @@ mission critical systems
 up all teh time
 dont slow down
 
-Status: #idea
-Tags: [[data-mining]]
+Status: #idea  
+Tags: [[data-mining]]  
 
 ---
 # References

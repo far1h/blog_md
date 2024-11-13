@@ -8,8 +8,8 @@
 	- Department
 	- ...
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]Tags: [[az-900]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

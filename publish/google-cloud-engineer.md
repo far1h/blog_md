@@ -199,7 +199,7 @@ per-second billing
 
 ## Applications in the Cloud
 
-Status: #MOC
-Tags: [[cloud]], [[gcp]]
+Status: #MOC  
+Tags: [[cloud]], [[gcp]]  
 
 ---

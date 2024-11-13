@@ -6,8 +6,8 @@ Front end html css. What the users interact with. UI elements.
 
 https://laravel.com/docs/11.x/views
 
-Status: #idea
-Tags: [[web-programming]]
+Status: #idea  
+Tags: [[web-programming]]  
 
 ---
 # References

@@ -7,8 +7,8 @@
 - Requires a [[Resource Group]]
 - Managed by [[Azure Resource Manager (ARM)]]
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

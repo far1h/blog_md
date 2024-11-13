@@ -5,8 +5,8 @@ title: why use cloud?
 - benefit from economies of scale
 - Stop guessing capacity
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

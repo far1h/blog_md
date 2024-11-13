@@ -9,8 +9,8 @@ C' -> ab | ac | ε
 > C' -> aC'' | ε    
 > C'' -> b | c  
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

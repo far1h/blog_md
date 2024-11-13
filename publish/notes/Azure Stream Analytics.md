@@ -4,8 +4,8 @@
 - ﻿﻿Essential for immediate insights: o fraud detection in a bank
 - ﻿﻿dynamic pricing on the stock market
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

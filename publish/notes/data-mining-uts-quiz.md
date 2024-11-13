@@ -75,8 +75,8 @@ The strong association rules based on the frequent patterns found in a.
 are Apples -> Bananas and Bananas -> Apples.
 ```
 
-Status: #idea
-Tags: [[data-mining]]
+Status: #idea  
+Tags: [[data-mining]]  
 
 ---
 # References

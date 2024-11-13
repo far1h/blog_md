@@ -12,8 +12,8 @@ A -> A    α   A   α   β   β
 
 > min 1 α and 1 β 
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

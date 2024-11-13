@@ -8,8 +8,8 @@ excerpt: steps for top down parsing
 4. make [[Parsing Table]]  
 5. [[Parsing Search|search]] through the parsing  
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

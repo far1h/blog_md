@@ -4,8 +4,8 @@
 - ﻿﻿Supports real-time insights and batch processing
 - ﻿﻿Acts as a turbocharged analytics engine
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]  
 
 ---
 # References

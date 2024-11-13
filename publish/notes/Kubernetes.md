@@ -6,8 +6,8 @@ Often compared to the conductor in a large, complex orchestra. Each musician (or
 - ﻿﻿Cluster forms the backbone of Kubernetes
 - ﻿﻿Workloads are deployed and supervised
 
-Status: #idea
-Tags: [[cloud]]
+Status: #idea  
+Tags: [[cloud]]  
 
 ---
 # References

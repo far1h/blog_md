@@ -18,8 +18,8 @@ Ex:
 A + b = +  
 ADE = ...  
 
-Status: #idea
-Tags: [[compilation-techniques]]
+Status: #idea  
+Tags: [[compilation-techniques]]  
 
 ---
 # References

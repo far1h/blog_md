@@ -5,8 +5,8 @@
 
 > Similar to [[AWS Backup]], [[AWS S3 Glacier]]
 
-Status: #idea
-Tags: [[az-900]], [[azure]], [[cloud]]
+Status: #idea  
+Tags: [[az-900]], [[azure]], [[cloud]]   
 
 ---
 # References
