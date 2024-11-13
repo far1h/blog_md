@@ -3,10 +3,10 @@
 - Control over OS and applications
 	- Windows, Linux etc.
 
-> similar to [[EC2]]
+> similar to [[AWS EC2]], [[Google Compute Engine]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]]  
+Tags: [[az-900]], [[azure]], [[cloud]], [[cloud-compute]]
 
 ---
 # References
