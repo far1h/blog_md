@@ -65,3 +65,8 @@ excerpt: i love mining
 ![[fptable5.png|400]]  
 
 hmm
+
+Status: #MOC
+Tags:
+
+---

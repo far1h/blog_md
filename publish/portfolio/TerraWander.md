@@ -15,3 +15,5 @@ As part of a team project, I led the development and project management for Terr
 ![[terrawander-2.png]]
 
 **Publication**: [GitHub Repository](https://github.com/far1h/TerraWander), [Keynote Presentation](https://www.icloud.com/keynote/0672GGi2KTcsZ6hWtmyp5nS0g#Terra-Welfare)  
+
+Tags: [[portfolio]]

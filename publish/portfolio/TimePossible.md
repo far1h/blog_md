@@ -14,3 +14,5 @@ Developed as the final project in my software engineering course, TimePossible w
 ![[health-calendar.png]]
 
 **Publication**: [GitHub Repository](https://github.com/far1h/HealthCalendar)  
+
+Tags: [[portfolio]]

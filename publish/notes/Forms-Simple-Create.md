@@ -273,3 +273,9 @@ Route::resource('/food', controller: FoodController::class);
 @endsection
 ```
 
+
+Status: #idea
+Tags: [[web-programming]]
+
+---
+# References

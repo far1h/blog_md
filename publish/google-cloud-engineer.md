@@ -6,7 +6,7 @@ excerpt: lets get the infinity stones. clean cloud.
 
 # [[Region|Regions]] and [[Zone|Zones]]
 
-# Google Compute Engine
+# [[Google Compute Engine]]
 
 # Google Compute - Optimizing Costs and Performance in Google Cloud Platform
 
@@ -198,3 +198,8 @@ per-second billing
 ## Containers in the Cloud
 
 ## Applications in the Cloud
+
+Status: #MOC
+Tags: [[cloud]], [[gcp]]
+
+---

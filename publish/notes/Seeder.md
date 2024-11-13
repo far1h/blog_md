@@ -53,3 +53,10 @@ class ClothesSeeder extends Seeder
     }
 }
 ```
+
+
+Status: #idea
+Tags: [[web-programming]]
+
+---
+# References

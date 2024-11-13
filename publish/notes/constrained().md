@@ -30,3 +30,9 @@ Schema::create('posts', function (Blueprint $table) {
     $table->timestamps();
 });
 ```
+
+Status: #idea
+Tags: [[web-programming]]
+
+---
+# References

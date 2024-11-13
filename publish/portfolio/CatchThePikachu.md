@@ -13,3 +13,5 @@ Developed using UIKit, this game includes features like a countdown timer, score
 ![[pikachu.png]]
 
 **Publication**: [GitHub Repository](https://github.com/far1h/CatchThePikachuGame)  
+
+Tags: [[portfolio]]

@@ -376,3 +376,10 @@ class TransactionController extends Controller{
     </ul>
     {{ $customers->links() }} // for pagination links
 @endsection 
+```
+
+Status: #idea
+Tags: [[web-programming]]
+
+---
+# References

@@ -20,3 +20,9 @@ Schema::create('posts', function (Blueprint $table) {
 
 This ensures that if a user is deleted, all their related posts will also be deleted.
 
+
+Status: #idea
+Tags: [[web-programming]]
+
+---
+# References

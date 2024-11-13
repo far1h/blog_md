@@ -53,3 +53,9 @@ date: 2024-11-10
 - **In Laravel 9+**, `fake()` is the easiest and most recommended way to use Faker.
 - `faker` is the Laravel-integrated shorthand for an instance of `Faker`.
 - `Faker` is the original library and is still accessible manually if needed.
+
+Status: #idea
+Tags: [[web-programming]]
+
+---
+# References

@@ -14,3 +14,5 @@ This app integrates continuous integration and delivery, automating tests and de
 ![[ci-cd.png]]
 
 **Publication**: [GitHub Repository](https://github.com/far1h/CICDiOS)  
+
+Tags: [[portfolio]]

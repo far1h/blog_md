@@ -14,3 +14,5 @@ Built with SwiftUI, IndoWilderness leverages MapKit for location-based experienc
 ![[animalsID.png]]
 
 **Publication**: [GitHub Repository](https://github.com/far1h/IndoWilderness)  
+
+Tags: [[portfolio]]
