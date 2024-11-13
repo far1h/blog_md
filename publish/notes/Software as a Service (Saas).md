@@ -4,7 +4,7 @@ Complete solution - subscription fee to connect to applications
 
 [[azure|Azure]] offerings: 
 - Azure DevOps
-- Sentinel
+- [[Sentinel]]
 - IoT Central
 - Advisor
 - Azure Migrate
