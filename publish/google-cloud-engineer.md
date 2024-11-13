@@ -1,7 +1,55 @@
 ---
 title: Google Associate Cloud Engineer Notes
-excerpt: lets get the infinity stones
+excerpt: lets get the infinity stones. clean cloud.
 ---
+[[reasons behind using cloud|why use cloud?]]
+
+# [[Region|Regions]] and [[Zone|Zones]]
+
+# Google Compute Engine
+
+# Google Compute - Optimizing Costs and Performance in Google Cloud Platform
+
+# Gcloud for Associate Cloud Engineer
+
+# Instance Groups in Google Cloud
+
+# Load Balancing in Google Cloud Platform
+
+# Managed Services in Google Cloud Platform
+
+# Google App Engine
+
+# Google Kubernetes Engine
+
+# Google Cloud Functions
+
+# Google Cloud Run
+
+# Google Cloud Functions Gen 2
+
+# Encryption in Google Cloud with Cloud KMS
+
+# Block and File Storage in Google Cloud Platform - GCP
+
+# Object Storage in Google Cloud Platform - Cloud Storage
+
+# Authentication and Authorization in Google Cloud with Cloud IAM
+
+# Database in Google Cloud Platform
+
+# Asynchronous Communication in Google Cloud with Cloud Pub Sub
+
+# Private Networks in Google Cloud - Cloud VPC
+
+# Operations in Google Cloud Platform - GCP
+
+# Organizations and IAM - Organizing Google Cloud Resources
+
+# GCP - Pricing Calculator
+
+# Other Important Services
+
 ## Introducing Google Cloud
 ### An overview of cloud computing 
 
