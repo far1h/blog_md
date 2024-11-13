@@ -1,3 +1,0 @@
-- at least 3 in a [[Region]]
-- has at least one discrete [[cluster]]
-- connected to each through low latency links
