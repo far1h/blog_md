@@ -1,5 +1,5 @@
 - ﻿﻿Enables real-time data access
-- ﻿﻿Sets up real-time analytics with straightforward query definition
+- ﻿﻿Sets up **real-time analytics** with straightforward query definition
 - ﻿﻿Handles data streaming from diverse inputs like blob storage
 - ﻿﻿Essential for immediate insights:
 	- fraud detection in a bank
@@ -8,7 +8,7 @@
 > Similar to [[AWS Kinesis]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]]  
+Tags: [[az-900]], [[azure]], [[cloud]], [[data analytics]]  
 
 ---
 # References

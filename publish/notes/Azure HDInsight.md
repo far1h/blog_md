@@ -1,13 +1,15 @@
-- ﻿﻿Managed service for fast, customizable data processing
+- ﻿﻿Managed service for fast, customizable **data processing**
 - ﻿﻿Runs on popular open-source platforms:
 	- ﻿﻿Hadoop
 	- ﻿﻿Spark
 	- Kafka
-- ﻿﻿Easily scales resources based on demand
-- ﻿﻿Seamlessly connects with Azure storage solutions
+- ﻿﻿**Easily scales** resources based on demand
+- ﻿﻿**Seamlessly connects with Azure storage** solutions
+
+> Similar to [[AWS EMR]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]]  
+Tags: [[az-900]], [[azure]], [[cloud]], [[data processing]]  
 
 ---
 # References
