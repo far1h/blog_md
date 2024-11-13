@@ -2,11 +2,6 @@
 	- [[real-time]] or [[batch]]
 - ﻿﻿Different infrastructure and cost implications
 
-ETL Process
-1. Extract 
-2. Transform
-3. Load
-
 [[azure|Azure]] Processing Tools
 - [[Azure Synapse Analytics]]
 - [[Azure Stream Analytics]]
