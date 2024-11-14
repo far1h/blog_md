@@ -4,6 +4,8 @@ excerpt: lets get the infinity stones. clean cloud.
 ---
 [[reasons behind using cloud|why use cloud?]]
 
+https://www.in28minutes.com/gcp-bookshelf  
+https://www.in28minutes.com/downloads/09-google-certified-associate-cloud-engineer/CoursePresentation-GoogleCertifiedAssociateCloudEngineer.pdf  
 # [[Region|Regions]] and [[Zone|Zones]]
 
 # [[Google Compute Engine]]
