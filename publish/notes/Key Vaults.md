@@ -3,7 +3,7 @@
 > Similar to [[AWS Secrets Manager]]
 
 Status: #idea  
-Tags:  
+Tags:  [[cloud]], [[Data Protection and Identity]] 
 
 ---
 # References
