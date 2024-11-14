@@ -6,6 +6,8 @@ excerpt: lets get the infinity stones. clean cloud.
 
 https://www.in28minutes.com/gcp-bookshelf  
 https://www.in28minutes.com/downloads/09-google-certified-associate-cloud-engineer/CoursePresentation-GoogleCertifiedAssociateCloudEngineer.pdf  
+
+how do projects work in [[gcp]]?
 # [[Region|Regions]] and [[Zone|Zones]]
 
 # [[Google Compute Engine]]
