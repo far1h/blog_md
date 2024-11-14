@@ -241,7 +241,7 @@ class Category extends Model
 ```php
 class Post extends Model
 {
-    public function categories(){
+    public function category(){
         return $this->belongsTo(Category::class);
     }
 }
@@ -309,23 +309,18 @@ edit factory
 edit seeder
 
 ```php
-public function run(): void
-    {
-        Category::factory()->count(3)->create();
-    }
-```
-
-```php
-    public function run(): void
-    {
-        Post::factory()->count(10)->create();
-    }
+// CategorySeeder.php
+public function run(): void{
+	Category::factory()->count(count: 3)->create()->each(function ($category){
+		$numPosts = random_int(1,30); 
+		Post::factory()->count($numPosts)->for($category)->create();
+	});
+}
 ```
 
 ```php
         $this->call([
             CategorySeeder::class,
-            PostSeeder::class
         ]);
 ```
 
