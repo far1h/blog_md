@@ -3,6 +3,9 @@ title: Compute for Cloud
 ---
 Provision and manage cloud resources to run application without managing physical hardware
 
+[[gcp|GCP]] offerings:  
+- [[Google Compute Engine]]
+
 [[az-900|Azure]] offerings:
 - [[Azure Virtual Machines]] 
 - [[Azure App Service]] 

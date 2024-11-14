@@ -10,7 +10,9 @@ https://www.in28minutes.com/downloads/09-google-certified-associate-cloud-engine
 how do projects work in [[gcp]]?
 # [[Region|Regions]] and [[Zone|Zones]]
 
-# [[Google Compute Engine]]
+# [[cloud-compute|Compute]]
+
+# [[cloud-billing|Billing]]
 
 # Google Compute - Optimizing Costs and Performance in Google Cloud Platform
 
