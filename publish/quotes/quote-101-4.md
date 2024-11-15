@@ -1,5 +1,5 @@
 ---
-title: The things you love about others are the things you love about yourself. The things you hate about others are the things you cannot see in yourself.
+title: In short, routine is important because habitualness creates mood, and mood creates the “nurture” aspect of your personality, not to mention that letting yourself be jerked around by impulsiveness is a breeding ground for everything you essentially do not want.
 name: Brianna Wiest, 101 Essays That Will Change The Way You Think
 ---
 
