@@ -2,7 +2,7 @@
 title: Billing and Cost Planning in Cloud
 ---
 Most providers:  
-- [[pay-as-you-go]]
+- [[pay-as-you-go|Pay as you go pricing model]]
 - [[Reservations]]
 - [[Spot Instances]]
 

@@ -1,5 +1,5 @@
 ---
-title: Pay as you go
+title: Pay as you go pricing model
 ---
 - ﻿﻿No upfront costs and pay for what you use
 - ﻿﻿[[Scale]] resources as needed for cost optimization
