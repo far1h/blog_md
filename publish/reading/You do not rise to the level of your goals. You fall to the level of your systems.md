@@ -8,11 +8,11 @@ What's opposite of this idea?
 [[Goal-setting sets direction BEFORE systems]]  
 
 Where does this idea lead to?  
-[Remove bad 'habits' in organizations]()  
-
+[[Remove bad 'habits' in organizations]]
 
 Status: #idea  
 Tags:  [[reading]]
 
 ---
 # References
+[[Atomic Habits]]
