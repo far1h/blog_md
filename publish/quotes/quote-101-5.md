@@ -1,6 +1,6 @@
 ---
 title: Your habits create your mood, and your mood is a filter through which you experience your life.
-name: Brianna Wiest, 101 Essays That Will Change The Way You Think
+name: Brianna Wiest, 101 Essays That Will Change The Way You Think, The Psychology of Daily Routine
 ---
 
 Status: #idea  
