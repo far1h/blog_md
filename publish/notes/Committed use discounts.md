@@ -7,7 +7,7 @@
 > Similar to [[AWS EC2 Reserved Instances]]
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-billing]], [[GCP-Billing]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-billing]]
 
 ---
 # References

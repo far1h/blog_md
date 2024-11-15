@@ -8,7 +8,7 @@
 - **RESTRICTION**: Does NOT apply to VMs created by App Engine flexible and Dataflow
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-billing]], [[GCP-Billing]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-billing]]
 
 ---
 # References
