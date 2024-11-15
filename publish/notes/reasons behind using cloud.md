@@ -1,7 +1,7 @@
 ---
 title: why use cloud?
 ---
-- trade capital expense for variable expense
+- trade capital expense for [[pay-as-you-go|variable expense]] 
 - benefit from economies of scale
 - Stop guessing capacity
 
