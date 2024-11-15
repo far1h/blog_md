@@ -12,7 +12,7 @@ how do projects work in [[gcp]]?
 
 # [[cloud-compute|Compute]]
 
-# [[cloud-billing|Billing]]
+# [[cloud-billing|Billing and Cost Planning]]
 
 # Google Compute - Optimizing Costs and Performance in Google Cloud Platform
 
