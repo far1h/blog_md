@@ -6,7 +6,7 @@ Provision and manage cloud resources to run application without managing physica
 [[gcp|GCP]] offerings:   
 - [[Google Compute Engine]]
 
-[[az-900|Azure]] offerings:  
+[[azure|Azure]] offerings:  
 - [[Azure Virtual Machines]] 
 - [[Azure App Service]] 
 - [[Azure Container Instances]] 
