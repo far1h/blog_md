@@ -13,7 +13,7 @@ https://www.notion.so/OS-UTS-Notes-12f40cf9fbe080268fcfe177728b6e94?pvs=21
 
 ---
 # [[os-mid-exam-materials|Mid Exam Materials]]
-# [[os-final-exam-materials#File Management|Final Exam M[aterials]]
+# [[os-final-exam-materials|Final Exam Materials]]
 
 Status: #MOC  
 Tags:  

@@ -7,7 +7,7 @@ title: OS Final Exam Notes
 
 # Virtual Memory Management
 
-# [[I-O Management]]
+# [[I-O Management|I/O Management]]
 
 > can use calculator
 
