@@ -16,6 +16,7 @@ SSTF
 SCAN
 CSCAN
 FSCAN
+![[Screenshot 2024-11-15 at 7.44.30 PM.png]]![[Screenshot 2024-11-15 at 7.48.50 PM.png]]
 # RAID Configuration
 
 # Disk Arm Scheduling
