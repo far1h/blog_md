@@ -1,14 +1,14 @@
 Where does this idea come from?  
-[[Goal-oriented thinking]]  
+- [[Goal-oriented thinking]]  
 
 What's similar to this idea?  
-[[Systems thinking]]  
+- [[Systems thinking]]  
 
 What's opposite of this idea?  
-[[Goal-setting sets direction BEFORE systems]]  
+- [[Goal-setting sets direction BEFORE systems]]  
 
 Where does this idea lead to?  
-[[Remove bad 'habits' in organizations]]
+- [[Remove bad 'habits' in organizations]]
 
 Status: #idea  
 Tags:  [[reading]]
