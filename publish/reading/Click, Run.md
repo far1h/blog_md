@@ -25,7 +25,7 @@ Where does this idea lead to?
 - [[Red Flag]]
 - [[FOMO]]/[[Principle of Social Proof]]
 - [[Checking reviews before purchase]]
-- 
+- [[The Rule of Reciprocation]]
 
 Status: #idea  
 Tags:  [[shortcuts]], [[influence]], [[stereotypes]], [[rule of thumb]], [[behaviors]]
