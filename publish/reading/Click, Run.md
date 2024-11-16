@@ -23,6 +23,7 @@ Where does this idea lead to?
 - [[Quality comes with price]]
 - [[Green Flag]]
 - [[Red Flag]]
+- [[FOMO]]
 
 Status: #idea  
 Tags:  [[shortcuts]], [[influence]], [[stereotypes]], [[rule of thumb]], [[behaviors]]
