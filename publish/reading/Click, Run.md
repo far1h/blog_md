@@ -23,8 +23,9 @@ Where does this idea lead to?
 - [[Quality comes with price]]
 - [[Green Flag]]
 - [[Red Flag]]
-- [[FOMO]]/[[principle of social proof]]
+- [[FOMO]]/[[Principle of Social Proof]]
 - [[Checking reviews before purchase]]
+- 
 
 Status: #idea  
 Tags:  [[shortcuts]], [[influence]], [[stereotypes]], [[rule of thumb]], [[behaviors]]
