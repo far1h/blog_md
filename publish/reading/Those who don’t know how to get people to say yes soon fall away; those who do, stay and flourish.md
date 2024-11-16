@@ -1,3 +1,6 @@
+---
+date: 2024-11-16
+---
 Where does this idea come from?  
 - [[Social dynamics in groups]]
 
@@ -6,11 +9,10 @@ What's similar to this idea?
 - [[Charisma]]
 - [[Leadership skills]]
 - [[Building rapport]]
-- [[Authoritative Parenting Style]]
 
 What's opposite of this idea?  
 - [[Lone wolf]]
-- [[Authoritarian Parenting Style]]
+- [[Self-sufficiency]]
 
 Where does this idea lead to?  
 - [[Success in leadership]]
@@ -24,4 +26,4 @@ Tags:  [[persuasion]], [[influence]], [[leadership]], [[social skills]]
 
 ---
 # References
-[[Influence]]
+[[Influence#Introduction]]

@@ -1,3 +1,6 @@
+---
+date: 2024-11-15
+---
 Where does this idea come from?  
 - [[Goal-oriented thinking]]  
 

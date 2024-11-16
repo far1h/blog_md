@@ -1,3 +1,6 @@
+---
+date: 2024-11-16
+---
 Where does this idea come from?  
 - [[Risk aversion]]
 
@@ -20,4 +23,4 @@ Tags:  [[change]]
 
 ---
 # References
-[[Influence]]
+[[Influence#Introduction]]
