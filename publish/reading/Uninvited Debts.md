@@ -1,5 +1,5 @@
 ---
-date:
+date: 2024-11-17
 ---
 _A person can create a sense of obligation in others by doing an unsolicited favor, leveraging the cultural and social pressures of the rule of reciprocation._
 

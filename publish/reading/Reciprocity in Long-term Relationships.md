@@ -1,5 +1,5 @@
 ---
-date:
+date: 2024-11-17
 ---
 In close relationships, reciprocity shifts from exact exchanges to a broader willingness to meet each other's needs as they arise.
 

@@ -1,5 +1,5 @@
 ---
-date:
+date: 2024-11-17
 ---
 _The rule of reciprocity can create a sense of discomfort and obligation, often leading individuals to repay more than they have received._
 

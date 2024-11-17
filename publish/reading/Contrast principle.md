@@ -1,7 +1,6 @@
 ---
 date: 2024-11-16
 ---
-**Contrast Principle**  
 _The perception of an item or situation is affected by comparison to what came before it._
 
 **Examples:**

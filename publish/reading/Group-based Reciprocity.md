@@ -1,5 +1,5 @@
 ---
-date:
+date: 2024-11-17
 ---
 _The rule of reciprocity can extend beyond individuals to include the groups to which they belong, encompassing both positive and negative exchanges._
 
