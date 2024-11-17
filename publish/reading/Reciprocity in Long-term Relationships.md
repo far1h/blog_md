@@ -17,6 +17,7 @@ What's similar to this idea?
 
 What's opposite of this idea?  
 - [[Tit-for-tat approach]]
+- [[Transactional relationships]]
 
 
 Status: #idea  
