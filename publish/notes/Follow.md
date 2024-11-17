@@ -1,5 +1,5 @@
 ---
-excerpt: character after the first character in the **terminal values**
+excerpt: character after the first character in the terminal values
 ---
 character after the first character in the **terminal values**
 ## Algorithm
@@ -9,9 +9,9 @@ character after the first character in the **terminal values**
 3. a. *A* -> α*B*, then all **Follow of *A*** is the <u>Follow of *B*</u>
 3. b. *A* -> α*B*β <u>and</u> First of β is ε, then all **Follow of *A*** is the <u>Follow of *B*</u>
 
-> You can only find the follow values of the terminal on the lines before it
+> You can only find the follow values of the variable on the lines before it
 
-> You can use this algorithm or a cheat method by looking at the result of the production, and find the terminal value after the terminal 
+> You can use this algorithm or a cheat method by looking at the result of the production, and find the terminal value after the variable 
 ## Cheat
 Ex: 
 <u>A</u>bc = b   
