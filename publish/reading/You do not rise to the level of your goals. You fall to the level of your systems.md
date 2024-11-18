@@ -14,7 +14,7 @@ Where does this idea lead to?
 - [[Remove bad 'habits' in organizations]]
 
 Status: #idea  
-Tags:  [[reading]]
+Tags:  [[reading]], [[goals]], [[systems]]
 
 ---
 # References
