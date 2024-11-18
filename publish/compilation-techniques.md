@@ -2,9 +2,6 @@
 title: Compilation Techniques Notes
 excerpt: Stupid Course about Compilers taken @BINUS
 ---
-- [ ] Assigments
-	- [ ] Class Session 12 Exercise
-
 # Mid Exam
 
 ## [[RE to DFA]]
