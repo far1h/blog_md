@@ -5,7 +5,7 @@ date: 2024-11-17
 ##### steps
 1. [[Go To operation]]
 2. Find [[Follow]] value
-3. Create [[SLR]] Table
+3. Create [[SLR Table]]
 4. Search through parsing
 
 > no need to remove [[Left Recursive]]
@@ -44,6 +44,10 @@ i3:
 (Input ( to i0)  
 
 ![[Screenshot 2024-11-17 at 9.39.19 PM.png]]
+
+## Find [[Follow]] value:
+
+![[Screenshot 2024-11-18 at 12.40.57 PM.png]]
 
 Status: #idea  
 Tags:  [[compilation-techniques]]

@@ -1,7 +1,7 @@
 ---
-excerpt: character after the first character in the terminal values
+excerpt: rules for finding follow values
 ---
-character after the first character in the **terminal values**
+> cheat: terminal or symbol after the variable
 ## Algorithm
 1. If *S* is the start symbol, 
    ex: *S* -> *Ab* | *c*, then $ is the Follow value of *S*
@@ -9,14 +9,16 @@ character after the first character in the **terminal values**
 3. a. *A* -> α*B*, then all **Follow of *A*** is the <u>Follow of *B*</u>
 3. b. *A* -> α*B*β <u>and</u> First of β is ε, then all **Follow of *A*** is the <u>Follow of *B*</u>
 
+Special case
+> If *A* -> α, i.e production result contains only 1 variable, add ε in front of the variable to conform to rule 3.a. *A* -> α*B
+
 > You can only find the follow values of the variable on the lines before it
 
-> You can use this algorithm or a cheat method by looking at the result of the production, and find the terminal value after the variable 
+> The number of follow values is equivalent to the number of producer variables in our grammar
 ## Cheat
 Ex: 
 <u>A</u>bc = b   
 A + b = +  
-ADE = ...  
 
 Status: #idea  
 Tags: [[compilation-techniques]]  

@@ -14,7 +14,7 @@ Steps:
 
 
 Status: #idea  
-Tags:  
+Tags: [[compilation-techniques]]  
 
 ---
 # References
