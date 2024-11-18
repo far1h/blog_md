@@ -13,7 +13,7 @@
 > Replacement Policy most likely
 
 Status: #idea  
-Tags:  [[os-final-exam-materials]], [[operating-systems]]
+Tags: [[operating-systems#Final Exam Materials]]
 
 ---
 # References

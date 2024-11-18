@@ -15,7 +15,7 @@ Triggered by hardware issues like power failures or memory parity errors, these 
 Overall, each type of interrupt helps optimize processor utilization by addressing specific events without disrupting the primary user program's flow more than necessary.
 
 Status: #idea   
-Tags: [[Interrupts]], [[operating-systems]]    
+Tags: [[Interrupts]], [[operating-systems#Mid Exam Materials]]
 
 ---
 # References

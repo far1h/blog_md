@@ -29,7 +29,7 @@ FSCAN
 
 
 Status: #idea  
-Tags:  [[os-final-exam-materials]], [[operating-systems]]
+Tags: [[operating-systems#Mid Exam Materials]]
 
 ---
 # References

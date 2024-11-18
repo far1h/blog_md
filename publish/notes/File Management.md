@@ -11,7 +11,7 @@ System call
 
 
 Status: #idea  
-Tags:  [[operating-systems]]  
+Tags:  [[operating-systems#Final Exam Materials]]  
 
 ---
 # References

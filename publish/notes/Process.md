@@ -5,7 +5,7 @@ excerpt: a state of a program when executing loaded in memory (active entity)
 - can have multiple processes of same program but with different states
 
 Status: #idea  
-Tags: [[operating-systems]], [[os-mid-exam-materials]]
+Tags: [[operating-systems#Mid Exam Materials]]
 
 ---
 # References
