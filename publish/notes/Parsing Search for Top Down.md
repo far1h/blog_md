@@ -1,12 +1,12 @@
 ---
-excerpt: how to do parsing search
+excerpt: how to do parsing search for top down
 ---
-> The first stack is the start symbol and add $ before it
+> The first stack is the start symbol and add $ BEFORE it
 
-> Input will be given
+> Input will be given and add $ AFTER it
 
 How to determine the output?
-- By comparing the right most of the stack and the left most of the input 
+- By comparing the **right** most of the stack and the **left** most of the input 
 
 ##### rules
 - Stack gets replaced by the production values or the thing that comes after the `->` but reverse it

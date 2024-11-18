@@ -6,7 +6,7 @@ date: 2024-11-17
 1. [[Go To operation]]
 2. Find [[Follow]] value
 3. Create [[SLR Table]]
-4. Search through parsing
+4. [[Parsing Search for Bottom Up|Search]] through parsing
 
 > no need to remove [[Left Recursive]]
 
@@ -48,6 +48,13 @@ i3:
 ## Find [[Follow]] value:
 
 ![[Screenshot 2024-11-18 at 12.40.57 PM.png]]
+## Creating [[SLR Table]] :
+
+![[Screenshot 2024-11-18 at 1.00.50 PM.png]]
+
+## [[Parsing Search for Bottom Up|Search]] through parsing
+
+![[Screenshot 2024-11-18 at 1.25.10 PM.png]]
 
 Status: #idea  
 Tags:  [[compilation-techniques]]

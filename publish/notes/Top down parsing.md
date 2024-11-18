@@ -6,7 +6,7 @@ excerpt: steps for top down parsing and exercises
 2. find [[First]] values (as many grammars that we have)  
 3. find [[Follow]] value (as many grammars that we have)  
 4. make [[Parsing Table]]  
-5. [[Parsing Search|search]] through the parsing  
+5. [[Parsing Search for Top Down|search]] through the parsing  
 
 ### Example [Alvina Aulia Top Down Parsing](https://www.youtube.com/watch?v=WpXMlZ5WipI&t=650s&ab_channel=AlvinaAulia)  
 1. _E_ -> *TE'*
@@ -56,7 +56,7 @@ E id = `(we started from the this and later found id)`
 E' + = `(we got this from it's own production values)`  
 E ( =`(we started from this and later found ()`  
 
-   #### [[Parsing Search]]
+   #### [[Parsing Search for Top Down]]
 
 | stack       | input      | output       |
 | ----------- | ---------- | ------------ |
