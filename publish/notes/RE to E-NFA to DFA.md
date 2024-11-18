@@ -11,7 +11,7 @@ excerpt: explanation and exercises for RE to E-NFA to DFA
 ![[ivan2.png]] WRONGGGG
 
 Status: #idea  
-Tags: [[compilation-techniques]]  
+Tags: [[compilation-techniques#Mid Exam]]
 
 ---
 # References

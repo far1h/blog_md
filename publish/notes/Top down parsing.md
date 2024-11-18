@@ -237,7 +237,7 @@ ends up getting rejected
 ### Example [[Sam Philip CT UTS Quiz]]
 
 Status: #idea  
-Tags: [[compilation-techniques]]  
+Tags: [[compilation-techniques#Mid Exam]]
 
 ---
 # References

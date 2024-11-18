@@ -15,7 +15,7 @@ excerpt: explanation and exercises for RE to DFA
 ![[ivan1.png | 500]]
 
 Status: #idea  
-Tags: [[compilation-techniques]]  
+Tags: [[compilation-techniques#Mid Exam]]  
 
 ---
 # References
