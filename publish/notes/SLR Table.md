@@ -7,7 +7,7 @@ title: rules for creating SLR Table
 
 > If the input is a **variable**, input the number of the group it results to 
 
-> If input is a **terminal or symbol**, do the same as variable but add ` ` before the number
+> If input is a **terminal or symbol**, do the same as variable but add `S` before the number
 
 > If there is a **grammar that is completed** (`.` is at the end) and is **an augmented grammar**, put accepted in the dollar column   
 
