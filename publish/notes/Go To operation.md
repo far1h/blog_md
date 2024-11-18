@@ -14,7 +14,7 @@ Steps:
 
 
 Status: #idea  
-Tags: [[compilation-techniques]]  
+Tags:  [[compilation-techniques#Final Exam]], [[Bottom Up Parsing]]  
 
 ---
 # References

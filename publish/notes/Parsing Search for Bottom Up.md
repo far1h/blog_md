@@ -16,7 +16,7 @@ How to determine the output?
 - if the output has a production result that is long reverse it  and replace with the numbers until the last letter 
 
 Status: #idea  
-Tags: [[compilation-techniques]]  
+Tags:  [[compilation-techniques#Final Exam]], [[Bottom Up Parsing]]  
   
 ---
 # References

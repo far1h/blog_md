@@ -21,7 +21,7 @@ Ex:
 A + b = +  
 
 Status: #idea  
-Tags: [[compilation-techniques]]  
+Tags:  [[compilation-techniques#Final Exam]], [[compilation-techniques#Mid Exam]], [[Bottom Up Parsing]], [[Top down parsing]]
 
 ---
 # References

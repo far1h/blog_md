@@ -18,7 +18,7 @@ title: rules for creating SLR Table
 how to check?? 
 
 Status: #idea  
-Tags: [[compilation-techniques]]  
+Tags:  [[compilation-techniques#Final Exam]], [[Bottom Up Parsing]]  
 
 ---
 # References

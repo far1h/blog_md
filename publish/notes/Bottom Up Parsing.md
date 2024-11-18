@@ -41,8 +41,6 @@ i2:
 i3:
 4. *T* -> *F.*
 
-(Input ( to i0)  
-
 ![[Screenshot 2024-11-17 at 9.39.19 PM.png]]
 
 ## Find [[Follow]] value:
@@ -57,7 +55,7 @@ i3:
 ![[Screenshot 2024-11-18 at 1.25.10 PM.png]]
 
 Status: #idea  
-Tags:  [[compilation-techniques]]
+Tags:  [[compilation-techniques#Final Exam]]
 
 ---
 # References
