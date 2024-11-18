@@ -3,7 +3,7 @@ excerpt: steps for bottom up parsing and exercises
 date: 2024-11-17
 ---
 ##### steps
-1. [[Go To operation]]
+1. Perform [[Go To operation]]
 2. Find [[Follow]] value
 3. Create [[SLR Table]]
 4. [[Parsing Search for Bottom Up|Search]] through parsing
@@ -14,7 +14,7 @@ date: 2024-11-17
 1. _E_ -> *E + T | T*
 2. *T* -> *T * F | F*
 5. *F* -> *(E)* | *id*
-#### [[Go To operation]]:
+## Perform [[Go To operation]]:
 i0:  
 *E'* -> *.E*   
 1. _E_ -> *.E + T*
