@@ -8,4 +8,4 @@ Tags: [[habit]], [[breakthrough]], [[change]]
 
 ---
 # References
-[[Atomic Habits#1]]
+[[Atomic Habits#The Surprising Power of Atomic Habits]]
