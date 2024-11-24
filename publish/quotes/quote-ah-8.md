@@ -8,4 +8,4 @@ Tags: [[breakthrough]], [[change]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#1]]

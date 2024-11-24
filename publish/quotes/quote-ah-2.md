@@ -8,4 +8,4 @@ Tags: [[habit]], [[improvement]], [[self-development]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#1]]

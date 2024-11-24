@@ -8,4 +8,4 @@ Tags: [[habit]], [[success]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#1]]

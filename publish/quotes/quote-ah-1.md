@@ -8,4 +8,4 @@ Tags: [[habit]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#Introduction]]

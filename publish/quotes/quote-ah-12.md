@@ -8,4 +8,4 @@ Tags: [[habit]], [[goals]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#1]]

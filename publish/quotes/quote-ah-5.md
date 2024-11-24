@@ -8,4 +8,4 @@ Tags: [[habit]], [[finance]], [[health]], [[knowledge]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#1]]

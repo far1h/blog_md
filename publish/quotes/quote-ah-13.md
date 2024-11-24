@@ -4,8 +4,8 @@ name: James Clear, Atomic Habits
 ---
 
 Status: #idea  
-Tags: [[habit]], [[goals]]
+Tags: [[goals]], [[systems]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#1]]

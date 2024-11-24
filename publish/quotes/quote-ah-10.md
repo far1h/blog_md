@@ -4,8 +4,8 @@ name: James Clear, Atomic Habits
 ---
 
 Status: #idea  
-Tags: [[The aggregation of marginal gains]], [[small beginnings]]
+Tags: [[The Aggregation of Marginal Gains]], [[small beginnings]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#1]]

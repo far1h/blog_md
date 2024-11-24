@@ -8,4 +8,4 @@ Tags: [[change]], [[habit]], [[tiny decisions]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits#1]]
