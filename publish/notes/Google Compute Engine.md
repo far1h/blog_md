@@ -5,9 +5,12 @@
 - **Attach storage** (& network storage) to your VM instances  
 - Manage **network connectivity and configuration** for your VM instances
 
-[[Steps when creating a VM Instance in Google Compute Engine]]
+## [[Steps when creating a VM Instance in Google Compute Engine|Setup]]  
+## [[Google Compute Engine - Billing|Billing]]
+## [[Compute Engine - Live Migration & Availability Policy|Live Migration & Availability Policy]]
 
 > Similar to [[AWS EC2]], [[Azure Virtual Machines]]
+
 
 Status: #idea  
 Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-compute]]

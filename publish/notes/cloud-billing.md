@@ -9,7 +9,7 @@ Most providers:
 
 How billing works in [[gcp|GCP]]:  
 - [[Sustained use discounts]]  
-
+- [[Google Compute Engine - Billing]]
 
 How billing and planning costs works in [[azure|Azure]]:  
 - [[Azure Free Account]]

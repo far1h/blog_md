@@ -2,7 +2,7 @@
 date: 2024-11-24
 ---
 How Preemtible Instances works in [[gcp|GCP]]: 
-- **Short-lived cheaper** (upto 80%) compute instances 
+- **Short-lived cheaper** (upto 80%) [[Virtual Machine|compute instances]]
 	- Can be stopped by GCP any time (preempted) within 24 hours
 	- Maximum time for running is 24 hours
 	- Instances get <u>30 second warning</u> (to save anything they want to save) 

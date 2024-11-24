@@ -1,3 +1,6 @@
+---
+date: 2024-11-24
+---
 How Spot Instances works in [[azure|Azure]]: 
 - ﻿﻿Buy <u>unused compute capacity</u> for [[Virtual Machine|VMs]] at savings
 - ﻿﻿Ideal for **interruptible workloads**
