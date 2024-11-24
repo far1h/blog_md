@@ -30,4 +30,4 @@ Tags: [[goals]], [[happiness]], [[self-fulfillment]], [[systems]]
 
 ---
 # References
-[[Atomic Habits#The Surprising Power of Atomic Habits]]
+[[Atomic Habits#Chapter 1]]

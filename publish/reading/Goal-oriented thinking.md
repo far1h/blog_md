@@ -28,4 +28,4 @@ Tags: [[goals]], [[motivation]], [[achievement]]
 
 ---
 # References
-[[Atomic Habits#The Surprising Power of Atomic Habits]]
+[[Atomic Habits#Chapter 1]]
