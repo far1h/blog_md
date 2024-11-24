@@ -3,11 +3,13 @@ title: Billing and Cost Planning in Cloud
 ---
 Most providers:  
 - [[pay-as-you-go|Pay as you go pricing model]]
-- [[Reservations]]
+- [[Reservations or Committed Use Discounts]]
 - [[Spot Instances]]
+- [[Preemtible Instances]]
 
 How billing works in [[gcp|GCP]]:  
 - [[Sustained use discounts]]  
+
 
 How billing and planning costs works in [[azure|Azure]]:  
 - [[Azure Free Account]]

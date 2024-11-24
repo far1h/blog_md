@@ -15,7 +15,7 @@ How reservation works in [[azure|Azure]]:
 How reservation/committed use discounts works in [[gcp|GCP]]: 
 - **Up to 70% discount** based on machine type and GPUs
 - **Applicable** for instances created by [[Google Kubernetes Engine]] and [[Google Compute Engine]]
-- **RESTRICTION**: Does NOT apply to VMs created by [[Google App Engine]] flexible and Dataflow
+- **RESTRICTION**: Does NOT apply to [[Virtual Machine|VMs]] created by [[Google App Engine]] flexible and [[Google Dataflow]]
 
 How reservation works in [[aws|AWS]]:
  - [[AWS EC2 Reserved Instances]]

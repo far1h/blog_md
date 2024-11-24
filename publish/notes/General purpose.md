@@ -1,5 +1,5 @@
 [[gcp]]:  
-General Purpose (E2, N2, N2D, N1) : Best price-performance ratio 
+General Purpose ([[E2]], N2, N2D, N1) : Best price-performance ratio 
 
 Use cases:
 - Web and application servers, Small-medium databases, Dev environments
