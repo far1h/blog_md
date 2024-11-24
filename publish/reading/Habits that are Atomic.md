@@ -1,5 +1,5 @@
 ---
-date: 2024-11-25
+date: 2024-11-26
 ---
 _Atomic habits are small, consistent routines that form the building blocks of larger systems, driving remarkable long-term results._
 
