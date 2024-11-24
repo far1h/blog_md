@@ -1,7 +1,7 @@
 ---
 title: I/O Management
 ---
-# I/O Devices
+ # I/O Devices
 # Design Issues
 # Disk Management
 ## Disk Performance Parameters
