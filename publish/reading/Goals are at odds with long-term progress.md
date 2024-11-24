@@ -28,4 +28,4 @@ Tags:  [[goals]]
 
 ---
 # References
-[[Atomic Habits#1
+[[Atomic Habits#1]]
