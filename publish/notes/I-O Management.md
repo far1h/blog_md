@@ -1,7 +1,11 @@
 ---
 title: I/O Management
 ---
- # I/O Devices
+- [x] UI
+- [ ] Check PPT
+- [ ] Read from Binus Book
+- [ ] Responsi
+# I/O Devices
 # Design Issues
 # Disk Management
 ## Disk Performance Parameters
