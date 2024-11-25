@@ -30,18 +30,24 @@ Positioning time (random-access time) consists of
 ## Disk Scheduling
 - The arrangement of how we access desired cylinders
 - Start from the head pointer
+
 FIFO
 - Using the queue order
+
 SSTF (Shorter Seek Time First)
 - Find the closest
+
 SCAN
 - like an elevator scans to the bottom until the edge and scans back up again in reverse 
 - 2 directions
+
 CSCAN
 - scans until the edge and goes back to the start in case any were missed like a type writer
 - 1 direction
+
 FSCAN
-- 
+
+
 ![[Screenshot 2024-11-15 at 7.44.30 PM.png]]![[Screenshot 2024-11-15 at 7.48.50 PM.png]]
 # RAID Configuration
 - redundant array of inexpensive disks
