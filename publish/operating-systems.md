@@ -4,25 +4,24 @@ excerpt: couldn't get any worse than this right? (I DONT UNDERSTAND IT NOW)
 ---
 [DownloadMoreRAM.com - CloudRAM 2.0](https://downloadmoreram.com/)  
 
----
 > study from the book bruh
 # Mid Exam Materials
-# [[Microprocessor]]
-# [[µLinux vs Linux]]
+## [[Microprocessor]]
+## [[µLinux vs Linux]]
 
-# [[PThread]]
+## [[PThread]]
 
-# [[Multilevel Scheduling: Round Robin & FCFS]]
+## [[Multilevel Scheduling: Round Robin & FCFS]]
 
-# [[Computer Components]]
-# [[Interrupts]] 
+## [[Computer Components]]
+## [[Interrupts]] 
 
-# [[Process States]]
-# [[Application]] 
+## [[Process States]]
+## [[Application]] 
 
-# [[Process]] 
+## [[Process]] 
 
-# [[Deeply Embedded Systems]] 
+## [[Deeply Embedded Systems]] 
 [My OS Mid Exam Prep Notion](https://moisthebest.notion.site/Mo-s-OS-UTS-Notes-133305f27850807b96c9e46ce4f62a72?pvs=4)  
 
 Other people's notes:  
@@ -32,13 +31,13 @@ https://www.notion.so/f97c874f97bc48ab9944243d4380d3bd?pvs=21
 https://www.notion.so/OS-UTS-Notes-12f40cf9fbe080268fcfe177728b6e94?pvs=21  
 # Final Exam Materials
 ![[Screenshot 2024-11-15 at 8.26.11 PM.png]]
-# [[File Management]]
+## [[File Management]]
 
-# Disk Scheduling (Simulation)
+## Disk Scheduling (Simulation)
 
-# [[Virtual Memory Management]]
+## [[Virtual Memory Management]]
 
-# [[I-O Management|I/O Management]]
+## [[I-O Management|I/O Management]]
 
 > can use calculator
 
