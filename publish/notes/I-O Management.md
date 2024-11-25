@@ -16,15 +16,21 @@ Transfer rate
 
 Positioning time (random-access time) consists of
 - Seek time
-	- Time to find the desired cylinder
+	- Time to find the desired cylinder/track
 - Rotational Delay
 	- Time to find the desired sector
+
 
 ![[os-disk-performance-params.png]]
 ![[Screenshot 2024-11-15 at 6.54.40 PM.png]]![[Screenshot 2024-11-15 at 6.56.56 PM.png]]![[Screenshot 2024-11-15 at 6.57.59 PM.png]]![[Screenshot 2024-11-15 at 6.54.40 PM.png]]
 ## Disk Scheduling
+- The arrangement of how we access desired cylinders
+- Start from the head pointer
 FIFO
-SSTF
+- Using the queue order
+SSTF (Shorter Seek Time First)
+- Find the closest
+
 SCAN
 CSCAN
 FSCAN
