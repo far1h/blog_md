@@ -2,7 +2,7 @@
 2. [[Memory-optimized]]
 3. [[Compute-optimized]]
 4. [[GPU]]
-5. [[|Custom Machine Types]]
+5. [[Compute Engine Features - Custom Machine Types|Custom Machine Types]]
 
 > Can vary from region to region
 
