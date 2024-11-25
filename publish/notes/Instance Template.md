@@ -7,6 +7,8 @@ Use case:
 - [[Virtual Machine|VM]] instances
 - Managed [[instance groups]]
 
+> Regional 
+
 Status: #idea  
 Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-compute]], [[Google Compute Engine]], [[Steps when creating a VM Instance in Google Compute Engine]]
 
