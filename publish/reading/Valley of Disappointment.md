@@ -31,4 +31,4 @@ Tags: [[habits]], [[results]], [[progress]]
 
 ---
 # References
-[[Atomic Habits#Chapter 1]]
+[[Atomic Habits by James Clear#Chapter 1]]

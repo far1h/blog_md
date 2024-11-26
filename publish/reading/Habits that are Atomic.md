@@ -28,4 +28,4 @@ Tags: [[systems]], [[habits]], [[marginal gains]], [[compound growth]]
 
 ---
 # References
-[[Atomic Habits#Chapter 1]]
+[[Atomic Habits by James Clear#Chapter 1]]

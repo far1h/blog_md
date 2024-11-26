@@ -25,4 +25,4 @@ Tags:  [[relationships]], [[reciprocity]], [[trust]]
 
 ---
 # References
-[[Influence#Chapter 2]]
+[[Influence by Robert B. Cialdini#Chapter 2]]

@@ -18,4 +18,4 @@ Tags:  [[reading]], [[goals]], [[systems]]
 
 ---
 # References
-[[Atomic Habits]]
+[[Atomic Habits by James Clear]]

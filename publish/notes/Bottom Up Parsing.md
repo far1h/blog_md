@@ -53,31 +53,6 @@ i3:
 ## [[Parsing Search for Bottom Up|Search]] through parsing
 
 ![[Screenshot 2024-11-18 at 1.25.10 PM.png]]
-## GSLC
-S'-> .S
-1. S -> .if C then S else S 
-2. S -> .if  C  then  S
-3. S -> .while  C  do  S
-4. S -> .id = E
-5. S -> .print(E)
-6. C -> .E  R  E
-7. E -> .E + T 
-8. E -> .E−T 
-9. E -> .T
-10. T -> .T ∗ F
-11. T ->  .T / F 
-12. T -> .F
-13. F -> .(E) 
-14. F -> .id
-15. F -> .num
-16. R -> .> 
-17. R ->  .< 
-18. R ->  .>=  
-19. R -> .<=
-20. R -> .==
-21. R -> .!=
-
-
 
 Status: #idea  
 Tags:  [[compilation-techniques#Final Exam]]

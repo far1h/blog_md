@@ -35,4 +35,4 @@ Tags: [[perception]], [[decision-making]], [[biases]], [[marketing strategies]]
 
 ---
 # References
-[[Influence#Chapter 1]]
+[[Influence by Robert B. Cialdini#Chapter 1]]

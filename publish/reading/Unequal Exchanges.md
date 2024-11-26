@@ -22,4 +22,4 @@ Tags:  [[reciprocity]], [[social behavior]], [[psychological cost]], [[indebtedn
 
 ---
 # References
-[[Influence#Chapter 2]]
+[[Influence by Robert B. Cialdini#Chapter 2]]

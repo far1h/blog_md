@@ -30,4 +30,4 @@ Tags: [[goals]], [[happiness]], [[self-fulfillment]], [[systems]]
 
 ---
 # References
-[[Atomic Habits#Chapter 1]]
+[[Atomic Habits by James Clear#Chapter 1]]

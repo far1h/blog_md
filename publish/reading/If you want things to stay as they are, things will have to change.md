@@ -23,4 +23,4 @@ Tags:  [[change]], [[adaptation]]
 
 ---
 # References
-[[Influence#Introduction]]
+[[Influence by Robert B. Cialdini#Introduction]]

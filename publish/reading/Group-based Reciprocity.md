@@ -20,4 +20,4 @@ Tags:  [[reciprocity]], [[group dynamics]], [[social behavior]], [[intergroup re
 
 ---
 # References
-[[Influence#Chapter 2]]
+[[Influence by Robert B. Cialdini#Chapter 2]]

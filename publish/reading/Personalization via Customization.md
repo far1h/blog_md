@@ -19,4 +19,4 @@ Tags:  [[personalization]], [[reciprocity]], [[behavioral psychology]]
 
 ---
 # References
-[[Influence#Chapter 2]]
+[[Influence by Robert B. Cialdini#Chapter 2]]

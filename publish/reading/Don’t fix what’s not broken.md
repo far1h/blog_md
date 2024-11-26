@@ -23,4 +23,4 @@ Tags:  [[change]]
 
 ---
 # References
-[[Influence#Introduction]]
+[[Influence by Robert B. Cialdini#Introduction]]
