@@ -9,7 +9,6 @@
 ## [[Steps when creating a VM Instance in Google Compute Engine|Setup]]  
 ## [[Google Compute Engine - Billing|Billing]]
 ## [[Compute Engine - Live Migration & Availability Policy|Live Migration & Availability Policy]]
-
 ## [[Compute Engine Scenarios|Scenarios]]
 
 > Similar to [[AWS EC2]], [[Azure Virtual Machines]]

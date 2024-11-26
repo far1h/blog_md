@@ -11,6 +11,7 @@ date: 2024-11-24
 		- [[Sustained use discounts]]  
 		- [[Reservations or Committed Use Discounts]]  
 		- Discounts for [[Preemtible Instances|preemptible VM instances]]
+
 Status: #idea  
 Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-billing]], [[Google Compute Engine]]
 

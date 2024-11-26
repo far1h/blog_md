@@ -14,6 +14,7 @@ Important Configuration - **[[Availability Policy]]**:
 	- Terminate: Stop the VM instance
 - **Automatic restart** - Restart VM instances if they are terminated due to non-user-initiated reasons (maintenance event, hardware failure etc.)
 
+
 Status: #idea  
 Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-migration]], [[Google Compute Engine]]
 
