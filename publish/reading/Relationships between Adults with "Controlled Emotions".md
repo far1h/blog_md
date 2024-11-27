@@ -7,11 +7,6 @@ _The notion that emotions in relationships should be suppressed or controlled, w
 - Viewing emotional dependence in relationships as unhealthy, labeling individuals as “enmeshed” or “codependent.”
 - Advocating for self-sufficiency and emotional restraint as key to maintaining healthy adult relationships.
 - Therapists encouraging individuals to avoid emotional reliance on their partners.
-
-“First they said that emotion was something
-         that adults should control. Indeed, that too much emotion was the basic problem in most marriages. It should be overcome,
-         not listened to or indulged. But most important, they argued, healthy adults are self-sufficient. Only dysfunctional people
-         need or depend on others. We had names for these people: they were enmeshed, codependent, merged, fused. In other words, they were messed up. Spouses depending on each other too much was what wrecked marriages!”
  
  Where does this idea come from?  
 - [[Behavioral psychology]]
@@ -21,6 +16,7 @@ _The notion that emotions in relationships should be suppressed or controlled, w
 What's similar to this idea?  
 - [[Dr. Spock’s advice to avoid coddling children]]
 - [[Stoicism in relationships]]
+- [[Dependency as dysfunction]]
 
 What's opposite of this idea?  
 - [[Romantic love is all about attachment and emotional bonding]]
