@@ -13,6 +13,7 @@ Where does this idea come from?
 What's similar to this idea?  
 - [[To-do Lists]]
 - [[Quick fixes]]
+- [[temporary fix]]
 
 What's opposite of this idea?  
 - [[Systems thinking]]

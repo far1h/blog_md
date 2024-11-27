@@ -28,7 +28,7 @@ Where does this idea lead to?
 - [[The Rule of Reciprocation]]
 
 Status: #idea  
-Tags:  [[shortcuts]], [[Influence by Robert B. Cialdini]], [[stereotypes]], [[rule of thumb]], [[behaviors]]
+Tags:  [[shortcuts]], [[influence]], [[stereotypes]], [[rule of thumb]], [[behaviors]]
 
 ---
 # References

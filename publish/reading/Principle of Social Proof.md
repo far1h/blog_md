@@ -25,7 +25,7 @@ Where does this idea lead to?
 - [[Spread of misinformation]]
 
 Status: #idea  
-Tags:  [[Influence by Robert B. Cialdini]], [[social behavior]], [[psychology]], [[decision-making]]
+Tags:  [[influence]], [[social behavior]], [[psychology]], [[decision-making]]
 
 ---
 # References

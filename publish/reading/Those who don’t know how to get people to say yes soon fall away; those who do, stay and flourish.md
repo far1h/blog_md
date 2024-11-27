@@ -22,7 +22,7 @@ Where does this idea lead to?
 
 
 Status: #idea  
-Tags:  [[persuasion]], [[Influence by Robert B. Cialdini]], [[leadership]], [[social skills]]
+Tags:  [[persuasion]], [[influence]], [[leadership]], [[social skills]]
 
 ---
 # References

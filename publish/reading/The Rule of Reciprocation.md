@@ -29,7 +29,7 @@ Where does this idea lead to?
 - [[Reciprocity in Long-term Relationships]]
 
 Status: #idea  
-Tags:  [[social behavior]], [[Influence by Robert B. Cialdini]], [[psychology]], [[relationships]]
+Tags:  [[social behavior]], [[influence]], [[psychology]], [[relationships]]
 
 ---
 # References
