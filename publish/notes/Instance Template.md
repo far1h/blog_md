@@ -5,7 +5,7 @@ Define machine type, image, labels, startup script and other properties
 
 Use case:
 - [[Virtual Machine|VM]] instances
-- Managed [[instance groups]]
+- Managed [[Instance Groups]]
 
 > Regional 
 
