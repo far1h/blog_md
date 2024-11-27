@@ -1,7 +1,6 @@
 ---
 date: 2024-11-27
 ---
-**Romantic Love Is All About Attachment and Emotional Bonding**  
 _Romantic love is driven by the innate need for safe emotional connections and reliable emotional comfort, deeply rooted in human evolution and attachment theory._
 
 Where does this idea come from?  
