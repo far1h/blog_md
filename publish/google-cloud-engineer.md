@@ -16,6 +16,7 @@ how do projects work in [[gcp]]?
 
 # [[Gcloud]]
 
+> Is there sandbox??
 # Instance Groups in Google Cloud
 
 # Load Balancing in Google Cloud Platform
