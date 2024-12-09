@@ -9,6 +9,8 @@ https://www.in28minutes.com/downloads/09-google-certified-associate-cloud-engine
 
 how do projects work in [[gcp]]?
 
+cloud projects and accounts
+
 Resource Hierarchy  
 Organization Level  
 Folder Level  
@@ -22,8 +24,16 @@ can do what (rules)
 - basic 
 - predefined
 - custom
-scope
-- 
+scope 
+
+observability monitoring
+
+billing account
+
+
+load balancing
+
+
 # [[Region|Regions]] and [[Zone|Zones]]
 
 # [[cloud-compute|Compute]]

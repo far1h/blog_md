@@ -16,6 +16,8 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 ## [[Bottom Up Parsing]]
 
+## [[Directed Acyclic Graph]]
+
 https://www.youtube.com/watch?v=_Jng5xgLxkI&list=PLB2GiO0mMjw9J_OwnDMAqtsANzWsIylQz&index=9&ab_channel=HIMTIBINUS
 
 Status: #MOC  
