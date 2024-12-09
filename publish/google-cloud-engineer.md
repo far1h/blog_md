@@ -8,6 +8,22 @@ https://www.in28minutes.com/gcp-bookshelf
 https://www.in28minutes.com/downloads/09-google-certified-associate-cloud-engineer/CoursePresentation-GoogleCertifiedAssociateCloudEngineer.pdf  
 
 how do projects work in [[gcp]]?
+
+Resource Hierarchy  
+Organization Level  
+Folder Level  
+Project Level  
+
+IAM  
+who  
+- single account
+- group  
+can do what (rules)
+- basic 
+- predefined
+- custom
+scope
+- 
 # [[Region|Regions]] and [[Zone|Zones]]
 
 # [[cloud-compute|Compute]]
