@@ -31,3 +31,8 @@ T5 = T4 + T3
 x = T5  
 
 ![[Screenshot 2024-12-09 at 1.06.21 PM.png]]
+Status: #idea  
+Tags:  [[compilation-techniques#Final Exam]]
+
+---
+# References

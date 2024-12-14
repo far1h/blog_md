@@ -18,6 +18,8 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 ## [[Directed Acyclic Graph]]
 
+## [[Intermediate Code Generator]]
+
 https://www.youtube.com/watch?v=_Jng5xgLxkI&list=PLB2GiO0mMjw9J_OwnDMAqtsANzWsIylQz&index=9&ab_channel=HIMTIBINUS
 
 Status: #MOC  
