@@ -11,7 +11,7 @@ title: rules for creating SLR Table
 
 > If there is a **grammar that is completed** (`.` is at the end) and is **an augmented grammar**, put accepted in the dollar column   
 
-> If its **complete and NOT augmented grammar** , check i0 which line does it correspond to, and use `R + line number` as the value for the [[Follow]] values of the producer variable 
+> If its **complete and NOT augmented grammar** , check i0 which line does it correspond / similar to, and use `R + line number` as the value for the [[Follow]] values of the producer variable 
 
 > If [[Go To operation]] is wrong, table is wrong
 

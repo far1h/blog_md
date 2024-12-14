@@ -1,6 +1,6 @@
 Steps:
 1. Make sure that one grammar has only 1 production result by removing the `OR` (essentially splitting the grammar)
-2. Add augmented grammar (added grammar than can result a start symbol) `?????`
+2. Add augmented grammar (added grammar than can result a start symbol)
 3. Add numbers to each grammar except augmented grammar
 4. Add `.` at the front of each production result (used for kernel method)
 5. Use the kernel method starting from the top most grammar

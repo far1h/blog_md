@@ -13,7 +13,7 @@ date: 2024-11-17
 ### Example [Alvina Aulia Bottom Up Parsing](https://www.youtube.com/watch?v=X6RaKj53oGo&ab_channel=AlvinaAulia)  
 1. _E_ -> *E + T | T*
 2. *T* -> *T * F | F*
-5. *F* -> *(E)* | *id*
+3. *F* -> *(E)* | *id*
 ## Perform [[Go To operation]]:
 i0:  
 *E'* -> *.E*   
