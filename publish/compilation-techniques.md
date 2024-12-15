@@ -18,7 +18,12 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 ## [[Directed Acyclic Graph]]
 
+## [[TAC, Triples, Quadriples]]
 ## [[Intermediate Code Generator]]
+
+## [[Annotated Parse Tree]]
+
+## [[Three Address Statement]]
 
 https://www.youtube.com/watch?v=_Jng5xgLxkI&list=PLB2GiO0mMjw9J_OwnDMAqtsANzWsIylQz&index=9&ab_channel=HIMTIBINUS
 
