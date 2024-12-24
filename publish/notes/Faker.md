@@ -55,7 +55,7 @@ date: 2024-11-10
 - `Faker` is the original library and is still accessible manually if needed.
 
 Status: #idea  
-Tags: [[web-programming]]  
+Tags: [[web-programming#web-prog-mid-exam-materials Mid Exam Materials]], [[web-prog-mid-exam-materials]]
 
 ---
 # References

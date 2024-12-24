@@ -22,7 +22,7 @@ This ensures that if a user is deleted, all their related posts will also be del
 
 
 Status: #idea  
-Tags: [[web-programming]]  
+Tags: [[web-programming#web-prog-mid-exam-materials Mid Exam Materials]], [[web-prog-mid-exam-materials]]
 
 ---
 # References

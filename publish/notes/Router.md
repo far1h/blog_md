@@ -7,7 +7,7 @@ Used to set up endpoints which execute the function of the controller
 https://laravel.com/docs/11.x/routing#main-content
 
 Status: #idea  
-Tags: [[web-programming]]  
+Tags: [[web-programming#web-prog-mid-exam-materials Mid Exam Materials]], [[web-prog-mid-exam-materials]]
 
 ---
 # References
