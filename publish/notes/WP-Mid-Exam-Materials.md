@@ -8,7 +8,7 @@ excerpt: things to study for WP mid exam
 ![[webutsnotes.jpg]]
 
 Status: #idea  
-Tags: [[web-programming]]  
+Tags: [[web-programming#web-prog-mid-exam-materials Mid Exam Materials]], [[web-prog-mid-exam-materials]]
 
 ---
 # References
