@@ -12,6 +12,8 @@ What's similar to this idea?
 - [[Transactional relationships]]
 - [[Rational decision-making in partnerships]]
 
+> “To some cold-blooded observers, love is a mutually beneficial alliance based on trading favors, a give-get bargain.”
+
 What's opposite of this idea?  
 - [[Romantic love is all about attachment and emotional bonding]]
 
