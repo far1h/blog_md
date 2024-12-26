@@ -1,3 +1,6 @@
+---
+date: 2024-12-26
+---
 Physical closeness and warmth, particularly from a caregiver, provide a critical foundation for emotional regulation and attachment.
 
 **Examples:**
@@ -29,7 +32,7 @@ Where does this idea lead to?
 - [[Improved capacity for forming relationships in adulthood]]
 
 Status: #idea  
-Tags: [[attachment]], [[parenting]], [[contact comfort]], [[emotional regulation]], [[relationships]]
+Tags: [[attachment]], [[parenting]], [[The importance of touch and contact]], [[emotional regulation]], [[relationships]]
 
 ---
 

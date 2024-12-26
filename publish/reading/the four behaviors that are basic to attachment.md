@@ -1,3 +1,6 @@
+---
+date: 2024-12-26
+---
 _Attachment is characterized by behaviors that emphasize emotional and physical closeness, seeking comfort, and reliance on a partner for security and exploration._
 
 **Examples:**

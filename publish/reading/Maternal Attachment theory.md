@@ -1,3 +1,6 @@
+---
+date: 2024-12-26
+---
 _The quality of early connections to loved ones, especially maternal figures, plays a critical role in shaping personality, emotional regulation, and habitual ways of connecting with others._
 
 **Examples:**
