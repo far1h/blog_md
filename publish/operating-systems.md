@@ -30,6 +30,7 @@ Other people's notes:
 - https://www.notion.so/f97c874f97bc48ab9944243d4380d3bd?pvs=21  
 - https://www.notion.so/OS-UTS-Notes-12f40cf9fbe080268fcfe177728b6e94?pvs=21  
 # Final Exam Materials
+
 ![[Screenshot 2024-11-15 at 8.26.11 PM.png]]
 ## [[File Management]]
 
@@ -40,6 +41,11 @@ Other people's notes:
 ## [[I-O Management|I/O Management]]
 
 > can use calculator
+
+- [ ] read book
+- [ ] watch rec
+- [ ] make notes and assignment for gavin 
+
 
 Status: #MOC  
 Tags:  

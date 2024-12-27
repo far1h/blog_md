@@ -27,6 +27,11 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 https://www.youtube.com/watch?v=_Jng5xgLxkI&list=PLB2GiO0mMjw9J_OwnDMAqtsANzWsIylQz&index=9&ab_channel=HIMTIBINUS
 
+- [ ] watch responsi
+- [ ] try example questions from kenny
+- [ ] try example questions from others
+- [ ] practice weak points
+
 Status: #MOC  
 Tags:  
 
