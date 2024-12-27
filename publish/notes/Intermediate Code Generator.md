@@ -1,6 +1,6 @@
 > Expressed as quadruples: `Opr Arg1, Arg2, Store/result`
 
-> If there is a while, add `jmpf` right away only
+> If there is a `while` or `if`, add `jmpf` right away only
 
 > `jmpf` always come first
 
@@ -24,14 +24,14 @@ while (x<y) {
 4. lt x, y, t2 `(x < y)`
 5. jmpf t2, , [17] `(while ...)`
 6. add x, 1, t3 `(x + 1)`
-7. mov x, , t3 `(x := ...)`
+7. mov t3, , x `(x := ...)`
 8. mod x, 2, t4  `(x % 2)`
 9. eq t4, 1, t5 `(... == 1)`
 10. jmpf t5, , [14] `(if ...)`
 11. add y, 1, t6  `(y + 1)`
 12. mov t6, , y `(y := ...)`
-13. jmp , , [17] `break`
-14. sub y, 1, t7 `(y - 2)`
+13. jmp , , [16] `break`
+14. sub y, 2, t7 `(y - 2)`
 15. mov t7, , y `(y := ...)`
 16. jmp , , [17] `break`
 17. ... `remaining code`

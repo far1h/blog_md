@@ -25,9 +25,6 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 ## [[Three Address Statement]]
 
-resources:
-https://www.youtube.com/watch?v=_Jng5xgLxkI&t=11s&ab_channel=HIMTIBINUS (good for)
-
 
 - [ ] watch all alvina aulia vids
 - [ ] watch responsi
