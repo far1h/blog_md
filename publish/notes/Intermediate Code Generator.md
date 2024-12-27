@@ -2,6 +2,8 @@
 
 > If there is a `while` or `if`, add `jmpf` right away only
 
+> `do while` uses `jmpt` only
+
 > `jmpf` always come first
 
 [[Intermediate Code Generator Operators]]
@@ -22,12 +24,12 @@ while (x<y) {
 2. add x, 10, t1 `(x + 10)`
 3. mov t1, , y `(y := ...)`
 4. lt x, y, t2 `(x < y)`
-5. jmpf t2, , [17] `(while ...)`
+5. jmpf t2, , [17] `(while ...) is false`
 6. add x, 1, t3 `(x + 1)`
 7. mov t3, , x `(x := ...)`
 8. mod x, 2, t4  `(x % 2)`
 9. eq t4, 1, t5 `(... == 1)`
-10. jmpf t5, , [14] `(if ...)`
+10. jmpf t5, , [14] `(else ...)`
 11. add y, 1, t6  `(y + 1)`
 12. mov t6, , y `(y := ...)`
 13. jmp , , [16] `break`
