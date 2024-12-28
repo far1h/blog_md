@@ -20,7 +20,7 @@ excerpt: Stupid Course about Compilers taken @BINUS
 
 ## [[TAC, Triples, Quadriples]]
 ## [[Intermediate Code Generator]]
-
+## [[Code Generator]]
 ## [[Annotated Parse Tree]]
 
 ## [[Three Address Statement]]

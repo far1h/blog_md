@@ -7,7 +7,7 @@
 > `jmpf` always come first
 
 [[Intermediate Code Generator Operators]]
-### Example [Alvina Aulia Intermediate Code Generator](https://www.youtube.com/watch?v=2kNVq9TxEg0&ab_channel=AlvinaAulia)  
+### Example [Alvina Aulia Intermediate Code Generator (while)](https://www.youtube.com/watch?v=2kNVq9TxEg0&ab_channel=AlvinaAulia)  
 
 ```
 x := 1;
@@ -40,6 +40,12 @@ while (x<y) {
 
 Status: #idea  
 Tags:  [[compilation-techniques#Final Exam]]
+
+### Example [Ivan Responsi 2023 (do while)](https://youtu.be/_Jng5xgLxkI?si=fWRf0eP4N8rRx8ZO&t=3952)  
+
+![[Screenshot 2024-12-28 at 2.30.31 PM.png]]
+
+![[Screenshot 2024-12-28 at 2.35.09 PM.png]]
 
 ---
 # References
