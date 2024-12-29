@@ -12,6 +12,11 @@ similar to [[Intermediate Code Generator]]
 
 > `jmpf` always come first
 
+> ex: a = a \* a
+> mov a, R0
+> mul a, R0
+> mov R0, a
+
 [[Intermediate Code Generator Operators]]
 ### Example [Kenny Jingga Responsi 2024 (for)](https://youtu.be/6yRB6dszSUo?si=17tSLpRuHHSIfWLg&t=7108)  
 
@@ -34,6 +39,8 @@ similar to [[Intermediate Code Generator]]
 15. mov R0, i `(i = i + 1)`
 16. jmp , [3] `(looping)`
 17. ...
+
+https://youtu.be/6yRB6dszSUo?t=7790
 
 Status: #idea  
 Tags:  [[compilation-techniques#Final Exam]]
