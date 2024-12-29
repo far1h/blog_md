@@ -40,8 +40,6 @@ similar to [[Intermediate Code Generator]]
 16. jmp , [3] `(looping)`
 17. ...
 
-https://youtu.be/6yRB6dszSUo?t=7790
-
 Status: #idea  
 Tags:  [[compilation-techniques#Final Exam]]
 

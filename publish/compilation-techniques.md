@@ -22,7 +22,6 @@ excerpt: Stupid Course about Compilers taken @BINUS
 ## [[Intermediate Code Generator]]
 ## [[Code Generator]]
 ## [[Annotated Parse Tree]]
-
 ## [[Three Address Statement]]
 
 resources:
