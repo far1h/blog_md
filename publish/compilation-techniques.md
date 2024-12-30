@@ -27,8 +27,10 @@ excerpt: Stupid Course about Compilers taken @BINUS
 resources:
 https://www.youtube.com/watch?v=6yRB6dszSUo&ab_channel=HIMTIBINUS
 
-- [ ] watch all alvina aulia vids
-- [ ] watch responsi
+- [x] watch all alvina aulia vids
+- [x] watch responsi
+
+(after OS)
 - [ ] try example questions from kenny
 - [ ] try example questions from others
 - [ ] practice weak points
