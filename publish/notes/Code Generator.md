@@ -1,3 +1,6 @@
+---
+date: 2024-12-29
+---
 similar to [[Intermediate Code Generator]]
 
 > Expressed as: `Opr Arg1, Store/result`

@@ -1,3 +1,6 @@
+---
+date: 2024-12-29
+---
 > Expressed as quadruples: `Opr Arg1, Arg2, Store/result`
 
 > If there is a `while` or `if`, add `jmpf` right away only
