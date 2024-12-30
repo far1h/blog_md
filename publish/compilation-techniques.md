@@ -27,7 +27,6 @@ excerpt: Stupid Course about Compilers taken @BINUS
 resources:
 https://www.youtube.com/watch?v=6yRB6dszSUo&ab_channel=HIMTIBINUS
 
-
 - [ ] watch all alvina aulia vids
 - [ ] watch responsi
 - [ ] try example questions from kenny
