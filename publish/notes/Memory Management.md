@@ -1,3 +1,5 @@
+Partitioning, Placement Algorithm
+
 - ﻿﻿Hardware Control Structure 
 - ﻿﻿Execution of Process 
 - ﻿﻿Real and Virtual Memory 
