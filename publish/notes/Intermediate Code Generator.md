@@ -38,14 +38,15 @@ while (x<y) {
 16. jmp , , [17] `break`
 17. ... `remaining code`
 
-Status: #idea  
-Tags:  [[compilation-techniques#Final Exam]]
-
 ### Example [Ivan Responsi 2023 (do while)](https://youtu.be/_Jng5xgLxkI?si=fWRf0eP4N8rRx8ZO&t=3952)  
 
 ![[Screenshot 2024-12-28 at 2.30.31 PM.png]]
 
 ![[Screenshot 2024-12-28 at 2.35.09 PM.png]]
+
+
+Status: #idea  
+Tags:  [[compilation-techniques#Final Exam]]
 
 ---
 # References
