@@ -19,7 +19,9 @@ date: 2024-12-30
 ### Example [Kenny Jingga Responsi 2024](https://youtu.be/6yRB6dszSUo?t=8330)  
 
 ![[Screenshot 2024-12-30 at 11.54.40 AM.png]]
+
 ![[Pasted image 20241230121837.png]]
+
 Status: #idea  
 Tags:  [[compilation-techniques#Final Exam]]
 

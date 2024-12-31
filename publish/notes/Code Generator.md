@@ -38,7 +38,7 @@ similar to [[Intermediate Code Generator]]
 11. add i, R0 `(a + i) [R0 = a + i]`
 12. mov R0, a `(a = a + i)`
 13. mov i, R0  `(prep for operation) [R0 = a]`
-14. 11. add #1, R0 `(i + 1) [R0 = i + 1]`
+14. add #1, R0 `(i + 1) [R0 = i + 1]`
 15. mov R0, i `(i = i + 1)`
 16. jmp , [3] `(looping)`
 17. ...
