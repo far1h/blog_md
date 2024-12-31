@@ -1,7 +1,7 @@
 ---
 date: 2024-11-12
 ---
-File allocation algorithms (contiguous, chained, indexed)
+> File allocation algorithms (contiguous, chained, indexed)
 
 Bit table
 

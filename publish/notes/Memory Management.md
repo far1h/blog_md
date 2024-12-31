@@ -1,4 +1,4 @@
-Partitioning, Placement Algorithm
+> Partitioning, Placement Algorithm
 
 - ﻿﻿Hardware Control Structure 
 - ﻿﻿Execution of Process 

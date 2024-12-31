@@ -13,11 +13,8 @@ excerpt: Stupid Course about Compilers taken @BINUS
 ## [[Top down parsing]]
 
 # Final Exam
-
 ## [[Bottom Up Parsing]]
-
 ## [[Directed Acyclic Graph]]
-
 ## [[TAC, Triples, Quadriples]]
 ## [[Intermediate Code Generator]]
 ## [[Code Generator]]

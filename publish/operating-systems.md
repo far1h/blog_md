@@ -36,7 +36,7 @@ Other people's notes:
 ## [[Disk Scheduling (Simulation)]]
 ## [[Memory Management]]
 ## [[Virtual Memory]]
-## [[I-O Management|I/O Management]]
+## [[I-O Management|I/O Management]]??
 ## [[Security]]
 ## [[Cloud]]
 
