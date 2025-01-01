@@ -1,6 +1,14 @@
 ---
 title: I/O Management
 ---
+- [ ] UI
+- [ ] book
+- [ ] zulfani
+- [ ] exercises
+	- [ ] UI
+	- [ ] assignment
+	- [ ] responsi
+
 - [x] UI
 - [ ] Check PPT
 - [ ] Read from Binus Book

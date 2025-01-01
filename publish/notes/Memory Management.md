@@ -1,5 +1,13 @@
 > Partitioning, Placement Algorithm
 
+- [ ] UI
+- [ ] book
+- [ ] zulfani
+- [ ] exercises
+	- [ ] UI
+	- [ ] assignment
+	- [ ] responsi
+
 - ﻿﻿Hardware Control Structure 
 - ﻿﻿Execution of Process 
 - ﻿﻿Real and Virtual Memory 
