@@ -8,7 +8,7 @@ Services which are targeted service offerings aimed at a particular industry.
 - Azure Kubernetes
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]]  
+Tags: [[az-900]], [[azure]], [[Cloud]]  
 
 ---
 # References

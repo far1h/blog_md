@@ -16,7 +16,7 @@ Provision and manage cloud resources to run application without managing physica
 
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

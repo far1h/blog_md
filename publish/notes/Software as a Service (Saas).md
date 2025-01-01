@@ -11,7 +11,7 @@ Complete solution - subscription fee to connect to applications
 - Internet Analyzer
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

@@ -7,7 +7,7 @@
 		- Example Hourly Price: $0.033174 / vCPU + $0.004446 / GB
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-compute]], [[Google Compute Engine]],  [[Google Compute Engine Family or Machine Types]]، [[Steps when creating a VM Instance in Google Compute Engine]], [[Google Compute Engine Family or Machine Types]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-compute]], [[Google Compute Engine]],  [[Google Compute Engine Family or Machine Types]]، [[Steps when creating a VM Instance in Google Compute Engine]], [[Google Compute Engine Family or Machine Types]]
 
 
 ---

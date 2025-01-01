@@ -11,7 +11,7 @@ Most flexible category, provides the user maximum control
 - Load Balancer
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

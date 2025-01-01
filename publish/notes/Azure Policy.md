@@ -16,7 +16,7 @@
 > Similar to [[AWS Config]]/[[AWS CloudTrail]]
 
 Status: #idea  
-Tags:  [[az-900]], [[azure]], [[security-and-compliance]], [[cloud]], [[cloud-monitoring]]
+Tags:  [[az-900]], [[azure]], [[security-and-compliance]], [[Cloud]], [[cloud-monitoring]]
 
 ---
 # References

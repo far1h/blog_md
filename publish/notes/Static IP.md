@@ -5,7 +5,7 @@
 	- Make sure that you explicitly release an Static IP when you are not using it.
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-compute]], [[Google Compute Engine]], [[ccp]], [[AWS EC2]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-compute]], [[Google Compute Engine]], [[ccp]], [[AWS EC2]]
 
 ---
 # References

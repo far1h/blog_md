@@ -16,7 +16,7 @@ Important Configuration - **[[Availability Policy]]**:
 
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-migration]], [[Google Compute Engine]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-migration]], [[Google Compute Engine]]
 
 ---
 # References

@@ -21,7 +21,7 @@ How reservation works in [[aws|AWS]]:
  - [[AWS EC2 Reserved Instances]]
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-billing]], [[az-900]], [[azure]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-billing]], [[az-900]], [[azure]]
 
 ---
 # References

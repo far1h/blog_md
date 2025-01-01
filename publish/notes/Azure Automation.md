@@ -4,7 +4,7 @@
 - ﻿﻿Supports configuration management and updating management shared capabilities
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[cloud-monitoring]]
+Tags: [[az-900]], [[azure]], [[Cloud]], [[cloud-monitoring]]
 
 ---
 # References

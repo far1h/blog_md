@@ -11,7 +11,19 @@ date: 2024-11-12
 	- [[Indexed]] (where there is one block that stores the pointers to the data blocks)
 
 Extra info:
+- [[Pros and cons of each allocation method]]
+- Use cases of each allocation method?
 - [[Linked Free Space List on Disk]]
+
+Practice:
+- https://rms46.vlsm.org/2/198.pdf
+
+Answer:
+- 2019-1
+	- a. 1023 + 1023 + 2 (pointer) => 3 Blocks
+	- b. 1, 2, 3
+	- c. 4, 5, 6, 7, 8, 9, 10, 11
+
 
 https://youtu.be/PBkZynNIZWk?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=2176
 

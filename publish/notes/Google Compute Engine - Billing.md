@@ -13,7 +13,7 @@ date: 2024-11-24
 		- Discounts for [[Preemtible Instances|preemptible VM instances]]
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-billing]], [[Google Compute Engine]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-billing]], [[Google Compute Engine]]
 
 ---
 # References

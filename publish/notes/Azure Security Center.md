@@ -6,7 +6,7 @@
 > Similar to [[AWS Security Center]]
 
 Status: #idea  
-Tags:  [[az-900]], [[azure]], [[security-and-compliance]], [[cloud]]  
+Tags:  [[az-900]], [[azure]], [[security-and-compliance]], [[Cloud]]  
 
 ---
 # References

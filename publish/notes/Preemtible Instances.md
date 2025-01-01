@@ -21,7 +21,7 @@ How Preemtible Instances works in [[gcp|GCP]]:
 > Similar to AWS [[Spot Instances]]
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-billing]], [[alibaba cloud]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-billing]], [[alibaba cloud]]
 
 ---
 # References

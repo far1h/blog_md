@@ -1,0 +1,1 @@
+There is a list that stores blocks that are empty

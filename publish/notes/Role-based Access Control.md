@@ -8,7 +8,7 @@
 	- User access administrator
 
 Status: #idea  
-Tags:  [[cloud]], [[cloud-iam]], [[Data Protection and Identity]]
+Tags:  [[Cloud]], [[cloud-iam]], [[Data Protection and Identity]]
 
 ---
 # References

@@ -12,7 +12,7 @@
 		- Automatic restart - on
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-compute]], [[Google Compute Engine]], [[Steps when creating a VM Instance in Google Compute Engine]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-compute]], [[Google Compute Engine]], [[Steps when creating a VM Instance in Google Compute Engine]]
 
 ---
 # References

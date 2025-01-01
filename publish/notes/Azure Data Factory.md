@@ -5,7 +5,7 @@
 - ﻿﻿Automates workflows for flexibility
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[data processing]]  
+Tags: [[az-900]], [[azure]], [[Cloud]], [[data processing]]  
 
 ---
 # References

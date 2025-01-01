@@ -11,7 +11,7 @@ Middle-ground between Infrastructure and Software as a Service
 - API Management
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

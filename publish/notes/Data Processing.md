@@ -10,7 +10,7 @@
 - [[Azure HDInsight]]
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

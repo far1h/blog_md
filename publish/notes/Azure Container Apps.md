@@ -13,7 +13,7 @@ A fully managed application platform for modern applications and [[Microservice|
 	- ﻿﻿Not used for containerized applications
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]]  
+Tags: [[az-900]], [[azure]], [[Cloud]]  
 
 ---
 # References

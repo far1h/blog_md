@@ -6,7 +6,7 @@ title: why use cloud?
 - Stop guessing capacity
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

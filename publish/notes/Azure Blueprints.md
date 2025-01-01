@@ -14,7 +14,7 @@
 - ﻿﻿Aligns deployments with organizational standards
 
 Status: #idea  
-Tags:  [[az-900]], [[azure]], [[security-and-compliance]], [[cloud]], [[cloud-monitoring]]
+Tags:  [[az-900]], [[azure]], [[security-and-compliance]], [[Cloud]], [[cloud-monitoring]]
 
 ---
 # References

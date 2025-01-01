@@ -24,7 +24,7 @@ Key Takeaways
 - ﻿﻿Allows customization with services like  Azure Policy and Blueprints
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

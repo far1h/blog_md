@@ -7,7 +7,7 @@
 > Similar to [[AWS Redshift]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[data processing]], [[data analytics]]  
+Tags: [[az-900]], [[azure]], [[Cloud]], [[data processing]], [[data analytics]]  
 
 ---
 # References

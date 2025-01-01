@@ -8,7 +8,7 @@ title: Identity and Access Management for Cloud
 - [[Azure Resource Manager (ARM)]]
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

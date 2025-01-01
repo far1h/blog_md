@@ -7,7 +7,7 @@ title: Security and Compliance in the Cloud
 - [[Azure Blueprints]]
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

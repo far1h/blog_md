@@ -8,7 +8,7 @@
 > Similar to [[AWS Kinesis]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[data analytics]]  
+Tags: [[az-900]], [[azure]], [[Cloud]], [[data analytics]]  
 
 ---
 # References

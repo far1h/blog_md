@@ -62,7 +62,7 @@ Post-Migration
 
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

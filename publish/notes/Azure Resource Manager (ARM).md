@@ -9,7 +9,7 @@
 - ﻿﻿Allows resource organization using tags
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[cloud-monitoring]], [[cloud-iam]]
+Tags: [[az-900]], [[azure]], [[Cloud]], [[cloud-monitoring]], [[cloud-iam]]
 
 ---
 # References

@@ -12,7 +12,7 @@ Benefits:
 > Similar to [[AWS Trusted Advisor]]  ??
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[cloud-billing]], [[cloud-monitoring]]
+Tags: [[az-900]], [[azure]], [[Cloud]], [[cloud-billing]], [[cloud-monitoring]]
 
 ---
 # References

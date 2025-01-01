@@ -7,7 +7,7 @@ Often compared to the conductor in a large, complex orchestra. Each musician (or
 - ﻿﻿Workloads are deployed and supervised
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

@@ -2,7 +2,7 @@
 - ﻿﻿Self-contained units for **specific functions**
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
  
 ---
 # References

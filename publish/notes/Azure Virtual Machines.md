@@ -6,7 +6,7 @@
 > similar to [[AWS EC2]], [[Google Compute Engine]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[cloud-compute]]
+Tags: [[az-900]], [[azure]], [[Cloud]], [[cloud-compute]]
 
 ---
 # References

@@ -6,7 +6,7 @@
 
 
 Status: #idea  
-Tags:   [[cloud]], [[Data Protection and Identity]], [[Network Security]]
+Tags:   [[Cloud]], [[Data Protection and Identity]], [[Network Security]]
 
 ---
 # References

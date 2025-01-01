@@ -1,0 +1,1 @@
+> Case just like cloud computing (SaaS, etc)

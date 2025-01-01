@@ -9,7 +9,7 @@
 
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-compute]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-compute]]
 
 ---
 # References

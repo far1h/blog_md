@@ -5,7 +5,7 @@
 4. Existing Disks
 
 Status: #idea  
-Tags:  [[gcp]], [[google-cloud-engineer]], [[cloud]], [[cloud-compute]], [[Google Compute Engine]], [[Steps when creating a VM Instance in Google Compute Engine]], [[Boot disk]], [[AWS EC2]]
+Tags:  [[gcp]], [[google-cloud-engineer]], [[Cloud]], [[cloud-compute]], [[Google Compute Engine]], [[Steps when creating a VM Instance in Google Compute Engine]], [[Boot disk]], [[AWS EC2]]
 
 ---
 # References

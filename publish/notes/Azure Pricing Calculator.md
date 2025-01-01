@@ -7,7 +7,7 @@
 > Similar to [[AWS Price Calculator]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[cloud-billing]]
+Tags: [[az-900]], [[azure]], [[Cloud]], [[cloud-billing]]
 
 ---
 # References

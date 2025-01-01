@@ -17,7 +17,7 @@ How Spot Instances works in [[gcp|GCP]]:
 	- Free Tier credits not applicable
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]], [[cloud-billing]], [[AWS EC2]], [[Azure Virtual Machines]], [[gcp]], [[google-cloud-engineer]],
+Tags: [[az-900]], [[azure]], [[Cloud]], [[cloud-billing]], [[AWS EC2]], [[Azure Virtual Machines]], [[gcp]], [[google-cloud-engineer]],
 
 ---
 # References

@@ -8,7 +8,7 @@
 > Similar to [[AWS S3]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]]  
+Tags: [[az-900]], [[azure]], [[Cloud]]  
 
 ---
 # References

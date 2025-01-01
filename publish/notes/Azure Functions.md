@@ -9,7 +9,7 @@
 > Similar to [[AWS Lambda]]
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]]  
+Tags: [[az-900]], [[azure]], [[Cloud]]  
 
 ---
 # References

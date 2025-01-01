@@ -11,7 +11,7 @@ How storage works in [[az-900|Azure]]: [[Azure Storage Tiers]], [[Azure Data Red
 - [[Azure Backup and Recovery]]
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

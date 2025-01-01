@@ -7,7 +7,7 @@ Services available in all regions and alternate regions when they become general
 - Azure VPN Gateway
 
 Status: #idea  
-Tags: [[az-900]], [[azure]], [[cloud]]  
+Tags: [[az-900]], [[azure]], [[Cloud]]  
 
 ---
 # References

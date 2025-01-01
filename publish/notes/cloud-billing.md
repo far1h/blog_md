@@ -20,7 +20,7 @@ How billing and planning costs works in [[azure|Azure]]:
 - [[Azure Advisor]]
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

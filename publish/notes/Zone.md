@@ -7,7 +7,7 @@ Most providers:
 - connected to each through low latency links
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

@@ -4,7 +4,7 @@ specific geographical locations to host your resources
 - each region has at least 3 [[Zone|zones]]  
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References

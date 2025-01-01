@@ -10,7 +10,7 @@
 - ﻿﻿Supports simultaneous running of multiple containers
 
 Status: #idea  
-Tags: [[cloud]]  
+Tags: [[Cloud]]  
 
 ---
 # References
