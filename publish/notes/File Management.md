@@ -8,15 +8,10 @@ date: 2024-11-12
 - An allocation method refers to how disk blocks are allocated for files:
 	- [[Contiguous]] (where the blocks that we use to store a file is **ordered**)
 	- [[Linked]] (where one block is not entirely used to store data but pointers as well)
-	- File Allocation Table (FAT)
+	- [[Indexed]] (where there is one block that stores the pointers to the data blocks)
 
-Bit table
-
-Allocation
-
-Chained
-
-System call
+Extra info:
+- [[Linked Free Space List on Disk]]
 
 https://youtu.be/PBkZynNIZWk?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=2176
 
