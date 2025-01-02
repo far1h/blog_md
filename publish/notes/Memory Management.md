@@ -29,7 +29,10 @@ similar to [[File Management]] where a disk is divided into equally sized blocks
 - offset: small bytes within a frame / page (1 page = 512 byte, offset-0 until offset-511)
 - same between frame and page
 
+https://rms46.vlsm.org/2/183.pdf
 
+ https://youtu.be/E7pmf5pySTM?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=5993
+ 
 - [ ] UI
 - [ ] book
 - [ ] zulfani
