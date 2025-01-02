@@ -10,6 +10,15 @@
 	- allocated partitions (for OS and other fixed programs)
 	- free partitions (hole) (for new processes)
 
+pros and cons
+
+fixed partitioning
+- internal fragmentation
+dynamic partitioning
+- external fragmentation
+- compact
+
+
 §First-fit:  Allocate the first hole that is big enough
 
 §Best-fit:  Allocate the smallest hole that is big enough; must search entire list, unless ordered by size 
@@ -22,6 +31,18 @@ Produces the largest leftover hole
 
 First-fit and best-fit better than worst-fit in terms of speed and storage utilization
 
+pros and cons
+- best fit
+	- less fragmentation
+	- slow to find best fit
+- first fit
+	- fragmentation
+	- searching from the top
+- next fit
+	- fragmentation same as first
+	- searching from the pointer
+
+![[Pasted image 20250102164836.png]]
 ## Paging
 
 similar to [[File Management]] where a disk is divided into equally sized blocks, virtual memory is divided into several pages and physical memory is divided into multiple frames with the size of pages and frames being equal or using the same size consensus
@@ -31,8 +52,6 @@ similar to [[File Management]] where a disk is divided into equally sized blocks
 
 https://rms46.vlsm.org/2/183.pdf
 
- https://youtu.be/E7pmf5pySTM?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=5993
- 
 - [ ] UI
 - [ ] book
 - [ ] zulfani
