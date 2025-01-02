@@ -22,7 +22,8 @@ excerpt: couldn't get any worse than this right? (I DONT UNDERSTAND IT NOW)
 ## [[Process]] 
 
 ## [[Deeply Embedded Systems]] 
-[My OS Mid Exam Prep Notion](https://moisthebest.notion.site/Mo-s-OS-UTS-Notes-133305f27850807b96c9e46ce4f62a72?pvs=4)  
+
+> [My OS Mid Exam Prep Notion](https://moisthebest.notion.site/Mo-s-OS-UTS-Notes-133305f27850807b96c9e46ce4f62a72?pvs=4)  
 
 Other people's notes:  
 - [Norberth's Notes](https://docs.google.com/document/d/1wFayVkOesPq96KYeaOVXPEqpB8rB_HokiUk9sDUFIpw/edit?tab=t.57f9a3rnvlv9)  
