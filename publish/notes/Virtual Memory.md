@@ -49,6 +49,11 @@ how page replacement works
 
 ![[Pasted image 20250104123626.png]]
 
+## Clock????
+https://www.youtube.com/watch?v=gjLywr7GbLU&ab_channel=CS186Berkeley
+
+![[Pasted image 20250104144351.png]]
+
 https://youtu.be/E7pmf5pySTM?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=5993
 
 Practice:
@@ -74,9 +79,12 @@ Hardware Control Structure
 ![[Screenshot 2024-11-15 at 8.11.46 PM.png]]
 ![[Screenshot 2024-11-15 at 8.12.49 PM.png]]![[Screenshot 2024-11-15 at 8.19.46 PM.png]]
 
-- [ ] UI
+https://youtu.be/yMRBWHWD39w?list=PLB2GiO0mMjw9J_OwnDMAqtsANzWsIylQz&t=4109
+
+- [x] UI
 - [ ] book
-- [ ] zulfani
+- [x] responsi
+- [x] zulfani
 - [ ] exercises
 	- [ ] UI
 	- [ ] assignment
