@@ -24,11 +24,10 @@ Answer:
 	- b. 1, 2, 3
 	- c. 4, 5, 6, 7, 8, 9, 10, 11
 
-
-https://youtu.be/PBkZynNIZWk?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=2176
-
 Status: #idea  
 Tags:  [[operating-systems#Final Exam Materials]]  
 
 ---
 # References
+
+https://youtu.be/PBkZynNIZWk?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=2176

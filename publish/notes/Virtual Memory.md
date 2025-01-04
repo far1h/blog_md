@@ -22,9 +22,30 @@ how page replacement works
 
 # Page Replacement Algroithms
 
-## First-In-First-Out (FIFO) 
+## First-In-First-Out (FIFO) Algorithm
 
-> provided with the page
+> provided with a collection of pages that is needed by a process, and page frames that will store the pages 
+
+- if empty just insert the page
+- if full, we replace the oldest one or the first one that went in the page frames
+
+![[Pasted image 20250104112708.png]]
+
+## Optimal Algorithm
+
+> in FIFO we compared it to the previous page frame, here we try to predict the future despite receiving the page requests one by one
+
+- replace the page frame that is used later than the others
+- ex: replace 7 since 7 is used the later after 0 and 1
+
+![[Pasted image 20250104113614.png]]
+> 9 page faults
+
+## Least Recently Used (LRU) Algorithm
+
+> similar to FIFO by comparing to the previous page frame
+
+- replace the page that is not used the longest or least recently used 
 
 https://youtu.be/E7pmf5pySTM?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=5993
 
