@@ -47,7 +47,20 @@ how page replacement works
 
 - replace the page that is not used the longest or least recently used 
 
+![[Pasted image 20250104123626.png]]
+
 https://youtu.be/E7pmf5pySTM?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&t=5993
+
+Practice:
+- https://rms46.vlsm.org/2/200.pdf
+
+Answer:
+- 2018-2
+	- Calculate the number of faults
+
+# Clock Policy
+
+
 
 Hardware Control Structure 
 - ﻿﻿Execution of Process 
