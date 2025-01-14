@@ -47,6 +47,27 @@ Other people's notes:
 - [ ] watch rec
 - [ ] make notes and assignment for gavin 
 
+https://foxtrox.notion.site/PRE-UAS-Summary-175ed899f8358075998cc85685adde50#175ed899f835801b9337c011e9e178bd
+
+https://mizuhitochizu.notion.site/OPERATING-SYSTEMS-afc5eab5502742e6b207b984b1c27b84?pvs=4
+
+https://docs.google.com/document/d/1HbkygUtQwlwq5roUJmKM1wn6CJtOvvEV5mXnqmh4Pr8/edit?tab=t.0
+
+https://notedbyhan.notion.site/os-rewind
+
+https://selikanjani.notion.site/Operating-System-06296a67cb6c4bd4a60500cae7f41e9a?pvs=4
+
+https://selikanjani.notion.site/Operating-System-06296a67cb6c4bd4a60500cae7f41e9a?pvs=4
+
+https://selikanjani.notion.site/Operating-System-06296a67cb6c4bd4a60500cae7f41e9a?pvs=4
+
+https://dreynic.notion.site/Notes-UAS-Operating-System-OS-c98c632f6fe2410a8c8af214380f81e2
+
+https://cyan-overcoat-acf.notion.site/Final-OS-13e4b38bca5e809a8f0afabab659d48a?pvs=4
+
+https://acoustic-ankle-217.notion.site/Operating-System-UAS-176d30424425803fb487ec31438d4490?pvs=4
+
+
 
 Status: #MOC  
 Tags:  
