@@ -55,11 +55,11 @@ https://docs.google.com/document/d/1HbkygUtQwlwq5roUJmKM1wn6CJtOvvEV5mXnqmh4Pr8/
 
 https://notedbyhan.notion.site/os-rewind
 
-https://selikanjani.notion.site/Operating-System-06296a67cb6c4bd4a60500cae7f41e9a?pvs=4
+https://docs.google.com/document/d/1-yCHhGbT-sJOKbClrXPgQTeoZKxKCS7wsVIAHp4BC30/edit?usp=sharing
 
 https://selikanjani.notion.site/Operating-System-06296a67cb6c4bd4a60500cae7f41e9a?pvs=4
 
-https://selikanjani.notion.site/Operating-System-06296a67cb6c4bd4a60500cae7f41e9a?pvs=4
+https://docs.google.com/document/d/1-yCHhGbT-sJOKbClrXPgQTeoZKxKCS7wsVIAHp4BC30/edit?usp=sharing
 
 https://dreynic.notion.site/Notes-UAS-Operating-System-OS-c98c632f6fe2410a8c8af214380f81e2
 
