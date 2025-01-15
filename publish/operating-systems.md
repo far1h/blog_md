@@ -68,6 +68,7 @@ https://cyan-overcoat-acf.notion.site/Final-OS-13e4b38bca5e809a8f0afabab659d48a?
 https://acoustic-ankle-217.notion.site/Operating-System-UAS-176d30424425803fb487ec31438d4490?pvs=4
 
 
+its over
 
 Status: #MOC  
 Tags:  
