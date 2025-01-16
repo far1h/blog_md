@@ -16,8 +16,11 @@ similar to [[Intermediate Code Generator]]
 > `jmpf` always come first
 
 > ex: a = a \* a
+
 > mov a, R0
+
 > mul a, R0
+
 > mov R0, a
 
 [[Intermediate Code Generator Operators]]
@@ -26,7 +29,7 @@ similar to [[Intermediate Code Generator]]
 ![[Screenshot 2024-12-28 at 2.36.55 PM.png]]
 
 1. mov #0, a `(int a = 0)`
-2. mov #1, i `(i = 0)`
+2. mov #0 i `(i = 0)`
 3. move i, R0 `(prep for operation, beginning of for loop) [R0 = i = 0]`
 4. lt #10, R0 `(i < 10) [R0 = R0 < 10 = T/F]`
 5. jmpf R0, [17] `(for loop condition is fale)`
