@@ -6,7 +6,7 @@ date: 2024-12-30
 ![[Screenshot 2024-12-30 at 12.32.32 PM.png]]
 
 1. mov C, , T1 `(initializing array X)`
-2. mov i, 8, T2
+2. mul i, 8, T2 `(declare the index with size of double)`
 3. mov T1[T2], , T3 `(X[i])`
 4. param T3 `(declare as paramater)`
 5. add p, 1, T4 `(p+1)`
