@@ -5,7 +5,7 @@ excerpt: Welcome, and thank you for viewing my portfolio! Below are some of the 
 
 Welcome, and thank you for viewing my portfolio! Below are some of the projects I've worked on, showcasing the skills I've developed over the years. 
 
-
+[You can also view my CV here!](https://drive.google.com/file/d/1KtOMdpx5CoG6BMEA_-kEMS6t7B2kcwSD/view?usp=sharing)
 
 ## [[TimePossible]]
 
