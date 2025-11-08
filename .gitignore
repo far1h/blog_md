@@ -40,6 +40,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# fat files
+._*
+
 /public/md_assets/**
 >>>>>>> ef981b13ec317d1f285afa69e9f858d98ceae33c
 =======
